@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the transcription version and its source edition."
 type: dataset
-title: "保黎醫會報告(中國國家圖書館 08jh011040/25506) / Baoli Yihui Baogao [Report of the Baoli Hospital Association]: Transcription Dataset"
-doi: "10.5281/zenodo.24363887"
-version: "0.2.0"
+title: "保黎醫會報告 | Baoli Yihui Baogao [Report of the Baoli Hospital Association]"
+version: "0.2.1"
 authors:
   - family-names: Chu
     given-names: Chen-Yu

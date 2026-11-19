@@ -302,7 +302,7 @@
             <cell>九</cell>
             <cell>一千二百八十五</cell>
             <cell>五十三</cell>
-            <cell>七十七</cell>
+            <cell>七十</cell>
             <cell>五十九</cell>
             <cell />
             <cell />
@@ -357,7 +357,7 @@
           <row role="label">
             <cell>收產</cell>
             <cell>戒煙</cell>
-            <cell>用□藥之割症</cell>
+            <cell>用蒙藥之割症</cell>
             <cell>用麻藥之割症</cell>
             <cell>附註</cell>
           </row>
@@ -601,7 +601,7 @@
         <ab type="heading" n="p010-c004">（丙）器具</ab>
         <table n="p010-tab03">
           <row>
-            <cell>（一）養病牀念五張籐榻三十張</cell>
+            <cell>（一）養病牀念五張籐棚三十張</cell>
             <cell>洋一百九十六元五角</cell>
           </row>
           <row>
@@ -609,7 +609,7 @@
             <cell>洋四十四元零四分七釐</cell>
           </row>
           <row>
-            <cell>（三）蘆簾鐵錫</cell>
+            <cell>（三）蘆簾<gap reason="unresolved" quantity="1" unit="character" /><gap reason="unresolved" quantity="1" unit="character" /></cell>
             <cell>洋四十四元二角</cell>
           </row>
           <row>
@@ -681,7 +681,7 @@
           <row>
             <cell>（二）還馮辛存去年經募</cell>
             <cell>洋五十元</cell>
-            <cell>捐款去年交到已列第三次報告之捐款花名本年方始　開示故將花名列後捐款報告而於此項踐付其款</cell>
+            <cell>捐款去年交到已列第三次報告捐者花名本年方始　開示故將花名列後捐款報告而於此項踐付其數</cell>
           </row>
         </table>
         <fw type="folio" n="p011-c005">七</fw>
@@ -893,7 +893,7 @@
             <cell>洋十七元三角六分</cell>
           </row>
           <row>
-            <cell>（三）方副報費及郵費信力</cell>
+            <cell>（三）方聞報費及郵費信力</cell>
             <cell>洋十二元五角二分</cell>
           </row>
           <row>
@@ -901,7 +901,7 @@
             <cell>洋八十八元五角四分三釐</cell>
           </row>
           <row>
-            <cell>（五）掃箒揩布及修脚等</cell>
+            <cell>（五）掃箒揩布及修喞等</cell>
             <cell>洋十六元四角零一釐</cell>
           </row>
           <row>
@@ -943,9 +943,9 @@
         <ab type="roster" n="p017-c009">馮孟顯</ab>
         <ab type="roster" n="p017-c010">馮六皆</ab>
         <ab type="roster" n="p017-c011">馮芝艇</ab>
-        <ab type="roster" n="p017-c012">馮咸博</ab>
+        <ab type="roster" n="p017-c012">馮威博</ab>
         <ab type="roster" n="p017-c013">馮君木</ab>
-        <ab type="roster" n="p017-c014">馮昧琴</ab>
+        <ab type="roster" n="p017-c014">馮味琴</ab>
         <ab type="roster" n="p017-c015">馮瑞卿</ab>
         <ab type="roster" n="p017-c016">馮萱庵</ab>
         <ab type="roster" n="p017-c017">馮安曾</ab>
@@ -953,7 +953,7 @@
         <ab type="roster" n="p017-c019">馮慶恆</ab>
         <ab type="roster" n="p017-c020">馮仲毅（壬子）</ab>
         <ab type="roster" n="p017-c021">錢吟棠</ab>
-        <ab type="roster" n="p017-c022">錢吟蔚</ab>
+        <ab type="roster" n="p017-c022">錢吟蕭</ab>
         <ab type="roster" n="p017-c023">錢奎官</ab>
         <ab type="roster" n="p017-c024">錢純舫</ab>
         <ab type="roster" n="p017-c025">錢純舫（壬子）</ab>
@@ -976,12 +976,12 @@
         <ab type="roster" n="p017-c042">周仰山</ab>
         <ab type="roster" n="p017-c043">袁蓮塘</ab>
         <ab type="roster" n="p017-c044">袁葆眞</ab>
-        <ab type="roster" n="p017-c045">袁曾潮</ab>
+        <ab type="roster" n="p017-c045">袁會潮</ab>
         <ab type="roster" n="p017-c046">陳謙夫</ab>
         <ab type="roster" n="p017-c047">陳布雷</ab>
         <ab type="roster" n="p017-c048">陳雲門</ab>
         <ab type="roster" n="p017-c049">陳依仁</ab>
-        <ab type="roster" n="p017-c050">陳庇懷</ab>
+        <ab type="roster" n="p017-c050">陳屺懷</ab>
         <ab type="roster" n="p017-c051">應華官</ab>
         <ab type="roster" n="p017-c052">應松筠</ab>
         <ab type="roster" n="p017-c053">應開忠</ab>
@@ -991,8 +991,8 @@
         <ab type="roster" n="p018-c001">孫叔申</ab>
         <ab type="roster" n="p018-c002">孫蔚如</ab>
         <ab type="roster" n="p018-c003">孫彬如</ab>
-        <ab type="roster" n="p018-c004">孫虹奎</ab>
-        <ab type="roster" n="p018-c005">孫荃墅</ab>
+        <ab type="roster" n="p018-c004">孫虹笙</ab>
+        <ab type="roster" n="p018-c005">孫莘墅</ab>
         <ab type="roster" n="p018-c006">孫衡甫</ab>
         <ab type="roster" n="p018-c007">徐子琳</ab>
         <ab type="roster" n="p018-c008">徐子稱</ab>
@@ -1009,7 +1009,7 @@
         <ab type="roster" n="p018-c019">童茜香</ab>
         <ab type="roster" n="p018-c020">童友谷</ab>
         <ab type="roster" n="p018-c021">童錦蔚</ab>
-        <ab type="roster" n="p018-c022">童詢霖</ab>
+        <ab type="roster" n="p018-c022">童詢器</ab>
         <ab type="roster" n="p018-c023">嚴虎臣</ab>
         <ab type="roster" n="p018-c024">嚴循經</ab>
         <ab type="roster" n="p018-c025">嚴森庭</ab>
@@ -1034,7 +1034,7 @@
         <ab type="roster" n="p018-c044">王琴樂</ab>
         <ab type="roster" n="p018-c045">王培坤</ab>
         <ab type="roster" n="p018-c046">王樹成</ab>
-        <ab type="roster" n="p018-c047">秦殿卿（壬子）</ab>
+        <ab type="roster" n="p018-c047">秦禊卿（壬子）</ab>
         <ab type="roster" n="p018-c048">秦佑廷</ab>
         <ab type="roster" n="p018-c049">畢學卿</ab>
         <ab type="roster" n="p018-c050">畢景甫</ab>
@@ -1044,7 +1044,7 @@
         <ab type="roster" n="p018-c054">李霞城</ab>
         <ab type="roster" n="p018-c055">陸晉亭</ab>
         <ab type="roster" n="p018-c056">陸思圻</ab>
-        <ab type="roster" n="p018-c057">何吟茜</ab>
+        <ab type="roster" n="p018-c057">何吟苜</ab>
         <ab type="roster" n="p018-c058">何璇卿</ab>
         <ab type="roster" n="p018-c059">費冕卿</ab>
         <ab type="roster" n="p018-c060">費子佩</ab>
@@ -1052,22 +1052,22 @@
         <ab type="roster" n="p018-c062">魏茹香</ab>
         <ab type="roster" n="p018-c063">胡藍莊</ab>
         <ab type="roster" n="p018-c064">胡君諱</ab>
-        <ab type="roster" n="p018-c065">葉峻琴</ab>
+        <ab type="roster" n="p018-c065">葉岐琴</ab>
         <ab type="roster" n="p018-c066">葉經伯</ab>
         <ab type="roster" n="p018-c067">任仲莘</ab>
-        <ab type="roster" n="p018-c068">鄔琢生</ab>
-        <ab type="roster" n="p018-c069">鄔雅香（壬子）</ab>
+        <ab type="roster" n="p018-c068">鄭琢生</ab>
+        <ab type="roster" n="p018-c069">鄭雅香（壬子）</ab>
         <ab type="roster" n="p018-c070">顧元琛</ab>
         <fw type="folio" n="p018-c071">十四</fw>
         <fw type="running" n="p018-c072">保黎醫院報告</fw>
         <pb n="19" facs="#page-19" />
-        <ab type="roster" n="p019-c001">顧贊楚</ab>
+        <ab type="roster" n="p019-c001">顧寶楚</ab>
         <ab type="roster" n="p019-c002">柳鏡齋</ab>
         <ab type="roster" n="p019-c003">林黎叔</ab>
         <ab type="roster" n="p019-c004">沈輔卿</ab>
-        <ab type="roster" n="p019-c005">葛望澤</ab>
-        <ab type="roster" n="p019-c006">孔東采</ab>
-        <ab type="roster" n="p019-c007">潘憲孫</ab>
+        <ab type="roster" n="p019-c005">葛望澐</ab>
+        <ab type="roster" n="p019-c006">孔東皋</ab>
+        <ab type="roster" n="p019-c007">潘蕙孫</ab>
         <ab type="roster" n="p019-c008">盛士廉</ab>
         <ab type="roster" n="p019-c009">史丕揚</ab>
         <ab type="roster" n="p019-c010">稽廷元</ab>
@@ -1099,16 +1099,16 @@
         <ab type="roster" n="p019-c036">裘成水</ab>
         <ab type="roster" n="p019-c037">錢吟萊</ab>
         <ab type="roster" n="p019-c038">嚴子均</ab>
-        <ab type="roster" n="p019-c039">何吟茜</ab>
+        <ab type="roster" n="p019-c039">何吟苜</ab>
         <ab type="roster" n="p019-c040">胡君諱</ab>
         <ab type="roster" n="p019-c041">陳依仁</ab>
         <ab type="roster" n="p019-c042">童友谷</ab>
         <ab type="roster" n="p019-c043">馮辛存</ab>
         <ab type="roster" n="p019-c044">董子宜</ab>
-        <ab type="roster" n="p019-c045">錢吟蔚</ab>
+        <ab type="roster" n="p019-c045">錢吟甫</ab>
         <ab type="roster" n="p019-c046">錢吟棠</ab>
         <ab type="roster" n="p019-c047">羅紳伯</ab>
-        <ab type="roster" n="p019-c048">葉峻琴</ab>
+        <ab type="roster" n="p019-c048">葉岐琴</ab>
         <ab type="total" n="p019-c049">以上董事二十九人每人收到董事捐二十元共計董事捐洋五百八十元</ab>
         <fw type="folio" n="p019-c050">十五</fw>
         <fw type="running" n="p019-c051">保黎醫院報告</fw>
@@ -1133,12 +1133,12 @@
           <row>
             <cell>第四中學校長捐薪</cell>
             <cell>洋六十元</cell>
-            <cell>共禮苹　陳謙夫來</cell>
+            <cell>洪樸<gap reason="unresolved" quantity="1" unit="character" />　陳謙夫來</cell>
           </row>
           <row>
             <cell>第四中學校長捐薪</cell>
             <cell>洋六十元</cell>
-            <cell>范均之　陳談人來</cell>
+            <cell>范均之　陳<gap reason="unresolved" quantity="1" unit="character" />人來</cell>
           </row>
           <row>
             <cell>葉志強君</cell>
@@ -1180,7 +1180,7 @@
           <row>
             <cell>羅門張氏</cell>
             <cell>洋五百元</cell>
-            <cell>馮　君時　逸甫來</cell>
+            <cell>馮　<gap reason="unresolved" quantity="1" unit="character" /><gap reason="unresolved" quantity="1" unit="character" />　<gap reason="unresolved" quantity="1" unit="character" /><gap reason="unresolved" quantity="1" unit="character" />來</cell>
           </row>
           <row>
             <cell>董方氏</cell>
@@ -1190,7 +1190,7 @@
           <row>
             <cell>裘成水君</cell>
             <cell>洋九十二元</cell>
-            <cell>移助値</cell>
+            <cell><gap reason="unresolved" quantity="1" unit="character" />捐　<gap reason="unresolved" quantity="1" unit="character" />助</cell>
           </row>
           <row>
             <cell>錢吟葦君</cell>
@@ -1220,7 +1220,7 @@
           <row>
             <cell>童錦吾君</cell>
             <cell>洋二十元</cell>
-            <cell>胡君諱　何吟茜來</cell>
+            <cell>胡君<gap reason="unresolved" quantity="1" unit="character" />　何吟<gap reason="unresolved" quantity="1" unit="character" />來</cell>
           </row>
           <row>
             <cell>徐祖祥君</cell>
@@ -1260,7 +1260,7 @@
           <row>
             <cell>李贊侯君</cell>
             <cell>洋十元</cell>
-            <cell>胡君諱　何吟茜來</cell>
+            <cell>胡君<gap reason="unresolved" quantity="1" unit="character" />　何吟<gap reason="unresolved" quantity="1" unit="character" />來</cell>
           </row>
           <row>
             <cell>味經軒婆婆</cell>
@@ -1415,7 +1415,7 @@
             <cell>陳謙夫來</cell>
           </row>
           <row>
-            <cell>董維驥君</cell>
+            <cell>董維驤君</cell>
             <cell>洋五元</cell>
             <cell>董子宜來</cell>
           </row>
@@ -1552,7 +1552,7 @@
             <cell>裘成水來</cell>
           </row>
           <row>
-            <cell>漢口老大寶</cell>
+            <cell>漢口老天寶</cell>
             <cell>洋五元</cell>
             <cell>同上</cell>
           </row>
@@ -1744,7 +1744,7 @@
             <cell>徐子稱來</cell>
           </row>
           <row>
-            <cell>桂慶宦君</cell>
+            <cell>桂慶官君</cell>
             <cell>洋二元</cell>
             <cell>同上</cell>
           </row>
@@ -1796,12 +1796,12 @@
             <cell>同上</cell>
           </row>
           <row>
-            <cell>胡杭奎君</cell>
+            <cell>胡杭笙君</cell>
             <cell>洋二元</cell>
             <cell>陳謙夫來</cell>
           </row>
           <row>
-            <cell>馮葉鳳眞</cell>
+            <cell>馮葉鳳貞</cell>
             <cell>洋二元</cell>
             <cell>葉德之來</cell>
           </row>
@@ -1958,7 +1958,7 @@
             <cell>同上</cell>
           </row>
           <row>
-            <cell>范曰貞女士</cell>
+            <cell>范日貞女士</cell>
             <cell>洋二元</cell>
             <cell>同上</cell>
           </row>
@@ -2050,7 +2050,7 @@
         </table>
         <table n="p026-tab02">
           <row>
-            <cell>陳德禔君</cell>
+            <cell>陳德福君</cell>
             <cell>洋一元</cell>
             <cell>周蓮軒來</cell>
           </row>
@@ -2399,7 +2399,7 @@
             <cell>同上</cell>
           </row>
           <row>
-            <cell>陳孝鎬君</cell>
+            <cell>陳肇鎬君</cell>
             <cell>洋一元</cell>
             <cell>同上</cell>
           </row>
@@ -2586,7 +2586,7 @@
           </row>
           <row>
             <cell>何育杰</cell>
-            <cell>吟茜</cell>
+            <cell>吟苜</cell>
           </row>
           <row>
             <cell>周光熊</cell>
@@ -2642,10 +2642,10 @@
           </row>
           <row>
             <cell>葉維梁</cell>
-            <cell>峻琴</cell>
+            <cell>岐琴</cell>
           </row>
           <row>
-            <cell>畢蘊敏</cell>
+            <cell>畢蘅敏</cell>
             <cell>學卿</cell>
           </row>
           <row>
@@ -2657,7 +2657,7 @@
             <cell>芝室</cell>
           </row>
           <row>
-            <cell>裘廷驥</cell>
+            <cell>裘廷驤</cell>
             <cell>成水</cell>
           </row>
           <row>
@@ -2665,8 +2665,8 @@
             <cell>伯均</cell>
           </row>
           <row>
-            <cell>錢懋羣</cell>
-            <cell>吟葦</cell>
+            <cell>錢韞羣</cell>
+            <cell>吟甫</cell>
           </row>
           <row>
             <cell>錢保杭</cell>
@@ -2674,7 +2674,7 @@
           </row>
           <row>
             <cell>錢保康</cell>
-            <cell>吟蔚</cell>
+            <cell>吟蕭</cell>
           </row>
           <row>
             <cell>錢保基</cell>
@@ -2742,7 +2742,7 @@
           </row>
           <row>
             <cell>陳訓正</cell>
-            <cell>庇懷</cell>
+            <cell>屺懷</cell>
           </row>
           <row>
             <cell>董孝欽</cell>
@@ -2750,7 +2750,7 @@
           </row>
           <row>
             <cell>葉維梁</cell>
-            <cell>峻琴</cell>
+            <cell>岐琴</cell>
           </row>
           <row>
             <cell>嚴寶瑾</cell>
@@ -2769,15 +2769,15 @@
             <cell>晉亭</cell>
           </row>
           <row>
-            <cell>馮維勛</cell>
-            <cell>昧琴</cell>
+            <cell>馮維勤</cell>
+            <cell>味琴</cell>
           </row>
           <row>
             <cell>馮保初</cell>
             <cell>撥先</cell>
           </row>
           <row>
-            <cell>錢經勛</cell>
+            <cell>錢經馥</cell>
             <cell>長生</cell>
           </row>
         </table>
@@ -2795,7 +2795,7 @@
             <cell>純舫</cell>
           </row>
           <row>
-            <cell>周毓勛</cell>
+            <cell>周銃煦</cell>
             <cell>鏡源</cell>
           </row>
           <row>
@@ -2841,8 +2841,8 @@
         </table>
         <table n="p032-tab03">
           <row>
-            <cell>錢懋羣</cell>
-            <cell>吟葦</cell>
+            <cell>錢韞羣</cell>
+            <cell>吟甫</cell>
           </row>
           <row>
             <cell>錢保唐</cell>
@@ -2870,15 +2870,15 @@
           </row>
           <row>
             <cell>何育杰</cell>
-            <cell>吟茜</cell>
+            <cell>吟苜</cell>
           </row>
           <row>
             <cell>朱奇</cell>
             <cell>清奇</cell>
           </row>
           <row>
-            <cell>葛崇瀚</cell>
-            <cell>望澤</cell>
+            <cell>葛崇藩</cell>
+            <cell>望澐</cell>
           </row>
           <row>
             <cell>馮保忠</cell>
@@ -2908,7 +2908,7 @@
           </row>
           <row>
             <cell>孫紹康</cell>
-            <cell>荃墅</cell>
+            <cell>莘墅</cell>
           </row>
           <row>
             <cell>應啓墀</cell>
@@ -2935,8 +2935,8 @@
             <cell>微齋</cell>
           </row>
           <row>
-            <cell>孔昭鑒</cell>
-            <cell>東采</cell>
+            <cell>孔昭鑾</cell>
+            <cell>東皋</cell>
           </row>
           <row>
             <cell>馮敏楷</cell>
@@ -2952,7 +2952,7 @@
           </row>
           <row>
             <cell>錢保康</cell>
-            <cell>吟蔚</cell>
+            <cell>吟蕭</cell>
           </row>
         </table>
         <fw type="folio" n="p032-c001">二十八</fw>
@@ -2976,7 +2976,7 @@
             <cell>友莘</cell>
           </row>
           <row>
-            <cell>鄔之器</cell>
+            <cell>鄭之器</cell>
             <cell>琢生</cell>
           </row>
           <row>
@@ -2996,11 +2996,11 @@
             <cell>和鈞</cell>
           </row>
           <row>
-            <cell>胡炘藻</cell>
+            <cell>胡炳藻</cell>
             <cell>藍莊</cell>
           </row>
           <row>
-            <cell>朱鳳翮</cell>
+            <cell>朱鳳翽</cell>
             <cell>慶升</cell>
           </row>
           <row>
@@ -3026,15 +3026,15 @@
             <cell>蓮軒</cell>
           </row>
           <row>
-            <cell>應鏞鋁</cell>
+            <cell>應鑛鋁</cell>
             <cell>葆甫</cell>
           </row>
           <row>
-            <cell>裘廷驥</cell>
+            <cell>裘廷驤</cell>
             <cell>成水</cell>
           </row>
           <row>
-            <cell>鄔德懿</cell>
+            <cell>鄭德懿</cell>
             <cell>雅香</cell>
           </row>
           <row>
@@ -3067,7 +3067,7 @@
           </row>
           <row>
             <cell>孫文柱</cell>
-            <cell>虹奎</cell>
+            <cell>虹笙</cell>
           </row>
           <row>
             <cell>陳訓恩</cell>
@@ -3125,7 +3125,7 @@
           </row>
           <row>
             <cell>秦開</cell>
-            <cell>殿卿</cell>
+            <cell>禊卿</cell>
           </row>
           <row>
             <cell>羅泰榮</cell>
@@ -3151,7 +3151,7 @@
           </row>
           <row>
             <cell>尹聯華</cell>
-            <cell>鏞聲</cell>
+            <cell>鑛聲</cell>
           </row>
           <row>
             <cell>俞昌大</cell>
@@ -3159,14 +3159,14 @@
           </row>
           <row>
             <cell>林嵒言</cell>
-            <cell>欽璧</cell>
+            <cell>欽聲</cell>
           </row>
           <row>
-            <cell>徐繩武</cell>
+            <cell>徐繼武</cell>
             <cell>可城</cell>
           </row>
           <row>
-            <cell>胡蓮雛</cell>
+            <cell>胡蓮鶵</cell>
             <cell>斐卿</cell>
           </row>
           <row>
@@ -3178,8 +3178,8 @@
             <cell>企望</cell>
           </row>
           <row>
-            <cell>潘鳳九</cell>
-            <cell>憲孫</cell>
+            <cell>潘庚九</cell>
+            <cell>蕙孫</cell>
           </row>
           <row>
             <cell>秦佑廷</cell>
@@ -3207,7 +3207,7 @@
             <cell>安曾</cell>
           </row>
           <row>
-            <cell>周秉眞</cell>
+            <cell>周采眞</cell>
             <cell>野鹿</cell>
           </row>
           <row>
@@ -3223,7 +3223,7 @@
             <cell>樹成</cell>
           </row>
           <row>
-            <cell>童詢霖</cell>
+            <cell>童詢器</cell>
             <cell />
           </row>
           <row>
@@ -3243,11 +3243,11 @@
             <cell>雲門</cell>
           </row>
           <row>
-            <cell>蔡上濬</cell>
+            <cell>蔡上濟</cell>
             <cell>仲明</cell>
           </row>
           <row>
-            <cell>袁曾潮</cell>
+            <cell>袁會潮</cell>
             <cell>伯信</cell>
           </row>
         </table>
@@ -3266,7 +3266,7 @@
           </row>
           <row>
             <cell>羅振常</cell>
-            <cell>棟源</cell>
+            <cell>東源</cell>
           </row>
           <row>
             <cell>應開忠</cell>
@@ -3306,7 +3306,7 @@
           </row>
           <row>
             <cell>盛鑑襄</cell>
-            <cell>遙偉</cell>
+            <cell>遜偉</cell>
           </row>
         </table>
         <table n="p034-tab03">
@@ -3327,7 +3327,7 @@
             <cell>槐青</cell>
           </row>
           <row>
-            <cell>洪曰泯</cell>
+            <cell>洪曰潤</cell>
             <cell>左湖</cell>
           </row>
           <row>
@@ -3355,11 +3355,11 @@
             <cell>森庭</cell>
           </row>
           <row>
-            <cell>朱鳳翎</cell>
+            <cell>朱鳳翶</cell>
             <cell>欽臣</cell>
           </row>
           <row>
-            <cell>畢蘊敏</cell>
+            <cell>畢蘅敏</cell>
             <cell>學卿</cell>
           </row>
           <row>
@@ -3373,7 +3373,7 @@
             <cell>子均</cell>
           </row>
           <row>
-            <cell>馮貞舉</cell>
+            <cell>馮貞羣</cell>
             <cell>孟顯</cell>
           </row>
           <row>
@@ -3417,7 +3417,7 @@
             <cell>伯均</cell>
           </row>
           <row>
-            <cell>畢蘊慎</cell>
+            <cell>畢蘅慎</cell>
             <cell>景甫</cell>
           </row>
           <row>
@@ -3435,7 +3435,7 @@
           </row>
           <row>
             <cell>邵斌</cell>
-            <cell>善微</cell>
+            <cell>善徵</cell>
           </row>
           <row>
             <cell>徐鍾騮</cell>
@@ -3446,7 +3446,7 @@
             <cell>芝室</cell>
           </row>
           <row>
-            <cell>邵繐裳</cell>
+            <cell>邵<gap reason="unresolved" quantity="1" unit="character" />棠</cell>
             <cell>靜山</cell>
           </row>
         </table>
@@ -3473,10 +3473,10 @@
         <fw type="running" n="p037-c015">保黎醫院報告</fw>
         <pb n="38" facs="#page-38" />
         <ab type="body" n="p038-c001">會</ab>
-        <ab type="body" n="p038-c002">第七條　決議事件以得到會員過半數之贊成為有效</ab>
+        <ab type="body" n="p038-c002">第七條　決議事件以得到會會員過半數之贊成為有效</ab>
         <ab type="body" n="p038-c003">第八條　左列事項於大會時議決之</ab>
         <ab type="body" n="p038-c004">（一）本會收入支出之決算</ab>
-        <ab type="body" n="p038-c005">（二）醫院舍之建築</ab>
+        <ab type="body" n="p038-c005">（二）醫院院舍之建築</ab>
         <ab type="body" n="p038-c006">（三）貴重醫具之購置</ab>
         <ab type="body" n="p038-c007">（四）其他關於臨時歲出經費之支出</ab>
         <ab type="body" n="p038-c008">第九條　左列事項由董事會掌之</ab>
@@ -3565,7 +3565,7 @@
           </row>
         </table>
         <ab type="body" n="p042-c003">一住院病人如欲隨帶僕役每月出膳費四元</ab>
-        <ab type="body" n="p042-c004">一住院病人進門時須先付十日之費以後每十日一結其住院未滿十日者亦須照繳十</ab>
+        <ab type="body" n="p042-c004">一住院病人進門時須先付十日之費以後每十日一結其住院未滿十日者亦須照聽十</ab>
         <ab type="body" n="p042-c005">日之費</ab>
         <ab type="body" n="p042-c006">一重要外科不論門診出診住院均須酌收手術費</ab>
         <ab type="body" n="p042-c007">一凡來院種痘者每名取苗洋二角若延請到家照出診例計算</ab>
@@ -3677,7 +3677,7 @@
           <row>
             <cell>十四</cell>
             <cell>二</cell>
-            <cell>徐鍾麟</cell>
+            <cell>徐鐘麟</cell>
             <cell>徐鍾驎</cell>
           </row>
           <row>

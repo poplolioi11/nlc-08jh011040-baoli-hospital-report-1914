@@ -8,18 +8,8 @@ This fourth report of the Baoli Medical Association at Cicheng, Zhejiang, record
 
 - JSON 保留欄位及各幅來源雜湊。TXT 可連讀，TEI 可供交換與字位掛接。
 
-- 全冊 48 幅均有另外一份 AI 原圖讀稿與比對。已根據原圖修正確認的歧讀，名錄和雙行小字仍有未定處。尚待人工校對。
+- 全冊 48 幅已做兩份 AI 影像讀稿比對。補讀第 7、11、20–22 幅的雙行小字，回圖訂正捐款人名、附註及其他可判定的歧讀。未定字逐處列候選，尚待人工全文校對。
 
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。來源影像的權利與使用條件見原件頁。
 
 - 資料整理者曲宸宇（Chen-Yu Chu）。 [ORCID](https://orcid.org/0009-0003-9738-6914)
-
-## 公開版本與引用 · Public editions
-
-- [Zenodo 固定版 v0.2.0](https://doi.org/10.5281/zenodo.24363887)
-- [Zenodo 版本總入口](https://doi.org/10.5281/zenodo.24363342)
-- [GitHub 固定版 v0.2.0](https://github.com/poplolioi11/nlc-08jh011040-baoli-hospital-report-1914/releases/tag/v0.2.0)
-- [中文維基文庫原文](https://zh.wikisource.org/wiki/Special:PermanentLink/13115244)
-- [古中國醫學史文獻轉錄資料社群](https://zenodo.org/communities/late-qing-medical-history)
-
-請用固定版本 ZIP 內的 `SHA256SUMS` 核對封存檔。主分支的說明及引用資料可隨 DOI 登記更新。
