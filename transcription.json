@@ -1,0 +1,8245 @@
+{
+  "key": "baoli",
+  "version": "0.1.0",
+  "title": "保黎醫會報告",
+  "title_en": "Baoli Yihui Baogao [Report of the Baoli Hospital Association]",
+  "author": "保黎醫會",
+  "publisher": "保黎醫會",
+  "place": "浙江慈城",
+  "year": 1914,
+  "year_basis": "館藏編目推定 [1914]；封面題「癸丑第四次刊布」",
+  "source": "https://commons.wikimedia.org/?curid=130965192",
+  "source_id": "中國國家圖書館 08jh011040／25506",
+  "file": "NLC416-08jh011040-25506_保黎醫會報告.pdf",
+  "pages": [
+    {
+      "page_id": "p001",
+      "image": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=1",
+      "source_sha256": "73b4418f469b41ec169ae303569632d4e0a2a38be89add8267e5dbce77a2443e",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 68234,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p001-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "保黎醫會",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p001-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "報告",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p001-c003",
+          "kind": "date",
+          "layer": "date",
+          "text": "癸丑第四次刊布",
+          "order": 200,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "heading": "complete",
+        "date": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p002",
+      "image": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=2",
+      "source_sha256": "910cb5350d5598a1e5b1766dc1921e710d384714c71443840e49f9b0a4fc5123",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 392026,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p002-c001",
+          "kind": "caption",
+          "layer": "caption",
+          "text": "本院新舍攝影圖",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p002-c002",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（一）頭門",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p002-c003",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（二）學生臥室",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p002-c004",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（三）醫士住宅",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p002-c005",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（四）過路",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p002-c006",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（五）男病房",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p002-c007",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（六）厨房",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p002-c008",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（七）棧房",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p002-c009",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（八）過路",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p002-c010",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（九）院長住宅",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p002-c011",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（十）女病房",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p002-c012",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "（十一）厠所",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p002-c013",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "六",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p002-c014",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "十",
+          "order": 1300,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "caption": "complete",
+        "figure_label": "complete",
+        "figure_labels": "verified-present"
+      },
+      "reading_questions": [
+        "照相圖上屋頂另有數字位置但二值掃描不清；保留可確定的六與十，其他待細圖核。外側影印方章排除。"
+      ],
+      "layout_notes": [],
+      "figures": [
+        {
+          "id": "p002-fig01",
+          "description": "新舍攝影，左側另有原件對號圖例。",
+          "bbox": null,
+          "labels_checked": true,
+          "labels_present": true
+        }
+      ]
+    },
+    {
+      "page_id": "p003",
+      "image": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=3",
+      "source_sha256": "a4c6244bb1688bd09be204de646c2a8e048664ed68a56380b9224c22a2eb40df",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 429385,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p003-c001",
+          "kind": "figure_label",
+          "layer": "figure_label",
+          "text": "保黎醫院落成典禮全體攝影",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p003-c002",
+          "kind": "caption",
+          "layer": "caption",
+          "text": "保黎醫院落成典禮來賓攝影",
+          "order": 100,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "figure_label": "complete",
+        "caption": "complete",
+        "figure_labels": "verified-present"
+      },
+      "reading_questions": [],
+      "layout_notes": [],
+      "figures": [
+        {
+          "id": "p003-fig01",
+          "description": "落成典禮全體攝影；照相框上有圖內文字，框下另有說明。",
+          "bbox": [
+            186,
+            473,
+            965,
+            1042
+          ],
+          "labels_checked": true,
+          "labels_present": true
+        }
+      ]
+    },
+    {
+      "page_id": "p004",
+      "image": 4,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=4",
+      "source_sha256": "1f1070e6097d582f5680eaa9e54252ecf9972b8cf70813696c3fee3042641981",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 407676,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p004-c001",
+          "kind": "caption",
+          "layer": "caption",
+          "text": "頸瘤已割之攝影",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p004-c002",
+          "kind": "caption",
+          "layer": "caption",
+          "text": "頸瘤未割之攝影",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p004-c003",
+          "kind": "caption",
+          "layer": "caption",
+          "text": "放水臌",
+          "order": 200,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "caption": "complete",
+        "figure_labels": "verified-present"
+      },
+      "reading_questions": [],
+      "layout_notes": [],
+      "figures": [
+        {
+          "id": "p004-fig01",
+          "description": "三幅醫院舊照，原刊圖說分別保留。",
+          "bbox": [
+            279,
+            350,
+            856,
+            1280
+          ],
+          "labels_checked": true,
+          "labels_present": true
+        }
+      ]
+    },
+    {
+      "page_id": "p005",
+      "image": 5,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=5",
+      "source_sha256": "b2fbb58d9367a2510ec9512b02fbfe657233dd152ffb0bbe2e42d58353092cb8",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 78891,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p005-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "癸丑年保黎醫院成績表",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p005-c002",
+          "kind": "annotation",
+          "layer": "annotation",
+          "text": "類別",
+          "order": 1500,
+          "bbox": null
+        },
+        {
+          "id": "p005-c003",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "一",
+          "order": 1600,
+          "bbox": null
+        },
+        {
+          "id": "p005-c004",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1700,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p005-tab01",
+          "title": "",
+          "value_labels": [
+            "月別",
+            "門診總數",
+            "出診",
+            "開瘡癤",
+            "脱牙齒",
+            "種牛痘",
+            "救服毒",
+            "放水腫"
+          ],
+          "rows": [
+            [
+              "正",
+              "八百零三",
+              "十五",
+              "十三",
+              "十五",
+              "",
+              "一",
+              "一"
+            ],
+            [
+              "二",
+              "六百四十六",
+              "十三",
+              "十七",
+              "十四",
+              "一",
+              "",
+              "二"
+            ],
+            [
+              "三",
+              "一千六百六十一",
+              "三十一",
+              "二十五",
+              "五十八",
+              "一百二十五",
+              "二",
+              "四"
+            ],
+            [
+              "四",
+              "一千七百七十二",
+              "三十",
+              "二十七",
+              "五十五",
+              "四十",
+              "二",
+              ""
+            ],
+            [
+              "五",
+              "一千六百五十七",
+              "七十五",
+              "四十一",
+              "八十六",
+              "七十六",
+              "一",
+              ""
+            ],
+            [
+              "六",
+              "一千二百五十八",
+              "四十九",
+              "二十三",
+              "九十九",
+              "二",
+              "一",
+              "一"
+            ],
+            [
+              "七",
+              "一千三百八十一",
+              "三十四",
+              "三十",
+              "九十二",
+              "",
+              "",
+              "一"
+            ],
+            [
+              "八",
+              "一千二百八十七",
+              "四十",
+              "九十八",
+              "一百十二",
+              "",
+              "",
+              "一"
+            ],
+            [
+              "九",
+              "一千二百八十五",
+              "五十三",
+              "七十七",
+              "五十九",
+              "",
+              "",
+              ""
+            ],
+            [
+              "十",
+              "一千二百九十一",
+              "四十三",
+              "四十四",
+              "一百十一",
+              "",
+              "",
+              "二"
+            ],
+            [
+              "十一",
+              "一千零二十四",
+              "四十四",
+              "十五",
+              "五十",
+              "一",
+              "",
+              "二"
+            ],
+            [
+              "十二",
+              "八百二十九",
+              "二十五",
+              "二十七",
+              "四十五",
+              "",
+              "",
+              "一"
+            ],
+            [
+              "總結",
+              "一萬四千八百九十四",
+              "四百五十二",
+              "四百三十",
+              "七百九十六",
+              "二百四十五",
+              "七",
+              "十五"
+            ]
+          ],
+          "order": 200,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "table": "complete",
+        "annotation": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p006",
+      "image": 6,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=6",
+      "source_sha256": "983591157ba64068baca1bb2b20a72f474d1cb446298130c092cd225e518fe48",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 41364,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p006-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二",
+          "order": 1600,
+          "bbox": null
+        },
+        {
+          "id": "p006-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1700,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p006-tab01",
+          "title": "",
+          "value_labels": [
+            "收產",
+            "戒煙",
+            "用安藥之割症",
+            "用麻藥之割症",
+            "附註"
+          ],
+          "rows": [
+            [
+              "二",
+              "三",
+              "一",
+              "一",
+              "住院男共計二百五十二人"
+            ],
+            [
+              "三",
+              "二",
+              "二",
+              "一",
+              ""
+            ],
+            [
+              "二",
+              "三",
+              "四",
+              "九",
+              ""
+            ],
+            [
+              "",
+              "二",
+              "八",
+              "十五",
+              ""
+            ],
+            [
+              "二",
+              "十",
+              "三",
+              "十七",
+              ""
+            ],
+            [
+              "",
+              "八",
+              "五",
+              "六",
+              ""
+            ],
+            [
+              "二",
+              "七",
+              "五",
+              "七",
+              "女共計八十一人"
+            ],
+            [
+              "二",
+              "五",
+              "四",
+              "六",
+              ""
+            ],
+            [
+              "",
+              "",
+              "六",
+              "六",
+              ""
+            ],
+            [
+              "四",
+              "三",
+              "五",
+              "七",
+              ""
+            ],
+            [
+              "二",
+              "十三",
+              "六",
+              "三",
+              ""
+            ],
+            [
+              "三",
+              "五",
+              "七",
+              "十",
+              ""
+            ],
+            [
+              "二十二",
+              "六十一",
+              "五十六",
+              "八十八",
+              ""
+            ]
+          ],
+          "order": 100,
+          "kind": "table",
+          "spans": [
+            {
+              "column_zero_based": 4,
+              "rows_zero_based": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+              ],
+              "value": "住院男共計二百五十二人"
+            },
+            {
+              "column_zero_based": 4,
+              "rows_zero_based": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+              ],
+              "value": "女共計八十一人"
+            }
+          ]
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「用安藥」中間字暫讀安，待對圖。"
+      ],
+      "layout_notes": [
+        "附註兩格分別跨第1至6列和第7至13列。格序承上幅月份，月名不重複加進文字。"
+      ]
+    },
+    {
+      "page_id": "p007",
+      "image": 7,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=7",
+      "source_sha256": "40214845a1a8e711b8c2a0dba476825ccb73d079cb37e2115beda2c0aeb28afd",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 54032,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p007-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "會計報告",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p007-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "癸丑年保黎醫會收支賬略",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p007-c003",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "▲收入之部",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p007-c004",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（子）會員會費（細目詳後會費報告）",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p007-c005",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共收洋一千三百七十元",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p007-c006",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（丑）特捐（細目詳後特捐報告）",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p007-c007",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p007-c008",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1300,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p007-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）本年會費",
+              "洋一千三百十元",
+              ""
+            ],
+            [
+              "（二）壬子會費",
+              "洋六十元",
+              ""
+            ]
+          ],
+          "order": 400,
+          "kind": "table"
+        },
+        {
+          "id": "p007-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）特捐",
+              "洋二千九百二十二元二角一分六釐",
+              ""
+            ],
+            [
+              "（二）特捐",
+              "洋二十六元",
+              "錢三十三千　合洋如下"
+            ],
+            [
+              "（三）經募",
+              "洋九十一元",
+              "馮成余君貳拾壹元　錢衍官君柒拾元"
+            ]
+          ],
+          "order": 800,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "table": "complete",
+        "total": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "（丑）特捐金額尾段與小字人名待回圖。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p008",
+      "image": 8,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=8",
+      "source_sha256": "c60094b9c5839ea6af825fde3b166f5206c237cd30431993a47b35f97088b1d0",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 45622,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p008-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共收洋三千零三十八元二角一分六釐",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p008-c002",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共收洋二百四十元",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p008-c003",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（卯）雜收",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p008-c004",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共收洋七十一元零三分六釐",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p008-c005",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（辰）暫收",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p008-c006",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共收洋一千三百七十元",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p008-c007",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（巳）舊存各款",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p008-c008",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "四",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p008-c009",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1400,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p008-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（寅）縣稅補助",
+              "洋二百四十元"
+            ]
+          ],
+          "order": 100,
+          "kind": "table"
+        },
+        {
+          "id": "p008-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）賣出浴盆",
+              "洋五十元"
+            ],
+            [
+              "（二）賣出火爐",
+              "洋十元"
+            ],
+            [
+              "（三）天成往來利息",
+              "洋三元七角四分三釐"
+            ],
+            [
+              "（四）涵源往來利息",
+              "洋五元二角七分一釐"
+            ]
+          ],
+          "order": 400,
+          "kind": "table"
+        },
+        {
+          "id": "p008-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）醫院基本金",
+              "洋一千三百七十元"
+            ]
+          ],
+          "order": 1000,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "total": "complete",
+        "table": "complete",
+        "heading": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p009",
+      "image": 9,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=9",
+      "source_sha256": "b752ae650a590a18731b78e4ce5ebbeba33396644156f1166618ef32e0155a58",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 53755,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p009-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共收洋二千六百三十元零四角零三釐",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p009-c002",
+          "kind": "total",
+          "layer": "total",
+          "text": "以上七項共計收洋八千七百十九元六角五分五釐",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p009-c003",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "▲支出之部",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p009-c004",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（甲）建築",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p009-c005",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "五",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p009-c006",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1400,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p009-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）女病房定洋",
+              "洋一千五百八十元"
+            ],
+            [
+              "（二）探租",
+              "洋三十六元"
+            ],
+            [
+              "（三）涵源莊",
+              "洋四十三元零三分二釐"
+            ],
+            [
+              "（四）錢天成",
+              "洋六百九十二元九角三分二釐"
+            ],
+            [
+              "（五）寧莊",
+              "洋二十五元一角二分"
+            ],
+            [
+              "（六）錢子忍",
+              "洋十元"
+            ],
+            [
+              "（七）路股",
+              "洋一百元"
+            ],
+            [
+              "（八）魏陔香",
+              "洋五元"
+            ],
+            [
+              "（九）現金",
+              "洋一百三十八元三角一分九釐"
+            ]
+          ],
+          "order": 0,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "total": "complete",
+        "heading": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p010",
+      "image": 10,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=10",
+      "source_sha256": "1bd7e34b91b2ad9c30819f743512d89558c59f7d3a30a873007bd0cf3dcb6c2a",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 67428,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p010-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋三千六百二十八元六角五分八釐",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p010-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（乙）置產",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p010-c003",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋三百六十元零五角",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p010-c004",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（丙）器具",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p010-c005",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "六",
+          "order": 1500,
+          "bbox": null
+        },
+        {
+          "id": "p010-c006",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1600,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p010-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）西式女病房四幢",
+              "洋二千三百五十五元",
+              ""
+            ],
+            [
+              "（二）頭門過路圍牆路砌及修繕",
+              "洋一千一百九十三元六角五分八釐",
+              ""
+            ],
+            [
+              "（三）補助掘河修路",
+              "洋八十元",
+              "門前"
+            ]
+          ],
+          "order": 0,
+          "kind": "table"
+        },
+        {
+          "id": "p010-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）葉氏田三畝五分六釐五毫",
+              "洋三百五十六元五角"
+            ],
+            [
+              "（二）解七分田租連秧",
+              "洋四元"
+            ]
+          ],
+          "order": 500,
+          "kind": "table"
+        },
+        {
+          "id": "p010-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）養病牀念五張籐榻三十張",
+              "洋一百九十六元五角"
+            ],
+            [
+              "（二）像柴爐二具連煙囪",
+              "洋四十四元零四分七釐"
+            ],
+            [
+              "（三）蘆簾鐵錫",
+              "洋四十四元二角"
+            ],
+            [
+              "（四）大時鳴鐘一架小一只",
+              "洋六十五元九角一分六釐"
+            ],
+            [
+              "（五）得律風三只開關一只",
+              "洋七十元"
+            ]
+          ],
+          "order": 900,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "total": "complete",
+        "heading": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「像柴爐」、「蘆簾鐵錫」、「念五」暫讀，待核字形。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p011",
+      "image": 11,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=11",
+      "source_sha256": "cea787919e6c9038b80956fd1cb6a5413e00f39944870bc01438da68560df0e0",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 79087,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p011-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋九百三十七元四角七分",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p011-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（丁）房租",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p011-c003",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋三十六元",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p011-c004",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（戊）舊該償還",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p011-c005",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "七",
+          "order": 1500,
+          "bbox": null
+        },
+        {
+          "id": "p011-c006",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1600,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p011-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（六）割症室鐵桌鐵水柜三眼面架等",
+              "洋六十六元七角三分",
+              ""
+            ],
+            [
+              "（七）器械櫥藥櫥藥桌藥櫃等",
+              "洋六十六元六角二分",
+              ""
+            ],
+            [
+              "（八）內外科室桌椅櫈及待診椅",
+              "洋七十八元七角",
+              ""
+            ],
+            [
+              "（九）七石缸七只洋鐵缸蓋及浴盆水壺",
+              "洋四十六元",
+              ""
+            ],
+            [
+              "（十）籐轎食櫥痰盂夜桶等",
+              "洋三十五元九角四分六釐",
+              ""
+            ],
+            [
+              "（十一）男女病房桌椅几櫈及院內另具",
+              "洋一百三十三元一角一分三釐",
+              ""
+            ],
+            [
+              "（十二）又夏布帳及草氈連布套",
+              "洋八十九元六角九分八釐",
+              ""
+            ]
+          ],
+          "order": 0,
+          "kind": "table"
+        },
+        {
+          "id": "p011-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）義莊房租全年",
+              "洋三十六元",
+              ""
+            ]
+          ],
+          "order": 900,
+          "kind": "table"
+        },
+        {
+          "id": "p011-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）還吳蓮記",
+              "洋一千二百零一元八角六分",
+              ""
+            ],
+            [
+              "（二）還馮辛存去年經募",
+              "洋五十元",
+              "捐款去年交到已列第三次報告之捐款花名本年方始　開示故將花名列後捐款報告而於此項踐付其款"
+            ]
+          ],
+          "order": 1200,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "total": "complete",
+        "heading": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "（戊）第二列有雙行小注，末段字形未定，須拆兩小欄放大核。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p012",
+      "image": 12,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=12",
+      "source_sha256": "30f9cf60d683b29cdd3cd67c69e8aac198238863945f10749c3541a70adfde33",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 68670,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p012-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋一千二百五十一元八角六分",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p012-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（己）雜項",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p012-c003",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋二百四十九元三角七分二釐",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p012-c004",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "八",
+          "order": 1400,
+          "bbox": null
+        },
+        {
+          "id": "p012-c005",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1500,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p012-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）癸丑報告書",
+              "洋六十六元三角"
+            ],
+            [
+              "（二）行落成禮及開常會茶飯",
+              "洋八十五元五角七分六釐"
+            ],
+            [
+              "（三）優先免費券及印刷另件",
+              "洋十元零七角五分"
+            ],
+            [
+              "（四）現貼及漢口匯捐款匯水",
+              "洋五元三角五分"
+            ],
+            [
+              "（五）錢牀進口稅",
+              "洋十八元七角五分"
+            ],
+            [
+              "（六）凍青樹一百支",
+              "洋五元"
+            ],
+            [
+              "（七）銅絲布十丈十字旗一首",
+              "洋十五元五角"
+            ],
+            [
+              "（八）簿籍紙劄信封郵費",
+              "洋十九元四角三分六釐"
+            ],
+            [
+              "（九）開除田戶及完糧川",
+              "洋九元二角四分"
+            ],
+            [
+              "（十）木器船力上河力及另用",
+              "洋十三元四角七分"
+            ]
+          ],
+          "order": 200,
+          "kind": "table"
+        },
+        {
+          "id": "p012-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（庚）醫院基本金",
+              "洋一千三百七十元"
+            ]
+          ],
+          "order": 1300,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "total": "complete",
+        "heading": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p013",
+      "image": 13,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=13",
+      "source_sha256": "233cd18ad891189915e1f029d71505c63545864ec6376674828e655ada4a5809",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 58531,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p013-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋一千三百七十元",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p013-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（辛）結存各款",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p013-c003",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共存洋八百八十五元七角九分五釐",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p013-c004",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "九",
+          "order": 1400,
+          "bbox": null
+        },
+        {
+          "id": "p013-c005",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1500,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p013-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）存錢天成",
+              "洋一百六十七元二角五分七釐"
+            ],
+            [
+              "（二）存涵源莊",
+              "洋二百八十五元五角一分四釐"
+            ],
+            [
+              "（三）存探租",
+              "洋三十六元"
+            ],
+            [
+              "（四）存戒煙局探租",
+              "洋十七元"
+            ],
+            [
+              "（五）存錢吟葦",
+              "洋九十八元三角八分"
+            ],
+            [
+              "（六）存陳謙夫",
+              "洋十一元一角一分一釐"
+            ],
+            [
+              "（七）存陳雲門",
+              "洋十元"
+            ],
+            [
+              "（八）存魏陔香",
+              "洋十元"
+            ],
+            [
+              "（九）存預備棉被花布",
+              "洋二十九元零八分七釐"
+            ],
+            [
+              "（十）存路股",
+              "洋一百元"
+            ],
+            [
+              "（十一）存現金",
+              "洋一百二十一元四角四分六釐"
+            ]
+          ],
+          "order": 200,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "total": "complete",
+        "heading": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p014",
+      "image": 14,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=14",
+      "source_sha256": "a509fae6d1a8eacbcad49bb93030160272aa5b0211b5da3b9998a54b29df8630",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 74334,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p014-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "以上八項共計支洋八千七百十九元六角五分五釐",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p014-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "保黎醫院收支報告",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p014-c003",
+          "kind": "date",
+          "layer": "date",
+          "text": "（二年五月一號起至三年一月三十一號止）",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p014-c004",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "▲收入之部",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p014-c005",
+          "kind": "total",
+          "layer": "total",
+          "text": "以上五項共計收洋五千八百七十八元九角四分七釐",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p014-c006",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "▲支出之部",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p014-c007",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋一千九百四十七元六角四分四釐",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p014-c008",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p014-c009",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1400,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p014-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（子）收門診醫藥費",
+              "洋二千一百四十元零五角八分七釐"
+            ],
+            [
+              "（丑）收出診醫藥費",
+              "洋七百八十元零五角五分三釐"
+            ],
+            [
+              "（寅）收住院病人膳宿醫藥費",
+              "洋二千三百三十二元八角零七釐"
+            ],
+            [
+              "（卯）收手術費",
+              "洋六十五元"
+            ],
+            [
+              "（辰）收董事補助（細目詳後董事捐報告）",
+              "洋五百六十元"
+            ]
+          ],
+          "order": 400,
+          "kind": "table"
+        },
+        {
+          "id": "p014-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（甲）支藥料",
+              "洋一千九百四十七元六角四分四釐"
+            ]
+          ],
+          "order": 1100,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "total": "complete",
+        "heading": "complete",
+        "date": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p015",
+      "image": 15,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=15",
+      "source_sha256": "6dd198efa0291b264bad3e95d74d7ec464f236068fce666ebb28defb275467fd",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 56041,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p015-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（乙）職員薪水",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p015-c002",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋一千八百五十元零三角二分八釐",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p015-c003",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（丙）膳食",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p015-c004",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋一千七百十九元三角七分九釐",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p015-c005",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（丁）器具",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p015-c006",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十一",
+          "order": 1400,
+          "bbox": null
+        },
+        {
+          "id": "p015-c007",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1500,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p015-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）院長",
+              "洋八百十元"
+            ],
+            [
+              "（二）醫士",
+              "洋七百八十二元二角三分二釐"
+            ],
+            [
+              "（三）會計",
+              "洋一百十元"
+            ],
+            [
+              "（四）僕役",
+              "洋一百四十九元零九分六釐"
+            ]
+          ],
+          "order": 100,
+          "kind": "table"
+        },
+        {
+          "id": "p015-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）職員及僕役",
+              "洋二百五十七元零六分一釐"
+            ],
+            [
+              "（二）住院病人",
+              "洋一千四百六十二元三角一分八釐"
+            ]
+          ],
+          "order": 700,
+          "kind": "table"
+        },
+        {
+          "id": "p015-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）厨房碗碟鑊鑊蓋等",
+              "洋三十一元六角"
+            ],
+            [
+              "（二）又飯桶大小念只",
+              "洋八元七角一分六釐"
+            ],
+            [
+              "（三）保險美孚燈",
+              "洋十九元八角一分四釐"
+            ]
+          ],
+          "order": 1100,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "table": "complete",
+        "total": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p016",
+      "image": 16,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=16",
+      "source_sha256": "d155c7530e7eee062f76b7915a5071da889c865ca803d2de8b06b1825e0881e7",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 57859,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p016-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋六十元零一角三分",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p016-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（戊）雜項",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p016-c003",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋二百二十一元四角六分六釐",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p016-c004",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "（己）暫付各款",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p016-c005",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十二",
+          "order": 1500,
+          "bbox": null
+        },
+        {
+          "id": "p016-c006",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1600,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p016-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）癸丑年日曆",
+              "洋六十元"
+            ],
+            [
+              "（二）簿籍紙劄草紙圖章等",
+              "洋十七元三角六分"
+            ],
+            [
+              "（三）方副報費及郵費信力",
+              "洋十二元五角二分"
+            ],
+            [
+              "（四）油燭茶水",
+              "洋八十八元五角四分三釐"
+            ],
+            [
+              "（五）掃箒揩布及修脚等",
+              "洋十六元四角零一釐"
+            ],
+            [
+              "（六）攝影（病房及病人）",
+              "洋十三元七角"
+            ],
+            [
+              "（七）零用洋皂火柴",
+              "洋十二元九角四分二釐"
+            ]
+          ],
+          "order": 200,
+          "kind": "table"
+        },
+        {
+          "id": "p016-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "（一）商務書館定三年日曆",
+              "洋四十元"
+            ],
+            [
+              "（二）厨頭徐阿金",
+              "洋四十元"
+            ],
+            [
+              "（三）存現",
+              "洋二十元"
+            ]
+          ],
+          "order": 1100,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "total": "complete",
+        "heading": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "（己）三項所列附印任存現數，算式與後幅小計需再核。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p017",
+      "image": 17,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=17",
+      "source_sha256": "ffbdec825773b6e6de73bd6328db59c32ee3a7375740517efb4638f509d67d16",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 78738,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p017-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "計共支洋八十元",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p017-c002",
+          "kind": "total",
+          "layer": "total",
+          "text": "以上六項共計支洋五千八百七十八元九角四分七釐",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p017-c003",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "癸丑年會費已繳諸君姓名報告於左",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p017-c004",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮吉生",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p017-c005",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮挺生",
+          "order": 301,
+          "bbox": null
+        },
+        {
+          "id": "p017-c006",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮撥先（壬子）",
+          "order": 302,
+          "bbox": null
+        },
+        {
+          "id": "p017-c007",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮辛存",
+          "order": 303,
+          "bbox": null
+        },
+        {
+          "id": "p017-c008",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮樵琴",
+          "order": 304,
+          "bbox": null
+        },
+        {
+          "id": "p017-c009",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮孟顯",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p017-c010",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮六皆",
+          "order": 401,
+          "bbox": null
+        },
+        {
+          "id": "p017-c011",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮芝艇",
+          "order": 402,
+          "bbox": null
+        },
+        {
+          "id": "p017-c012",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮咸博",
+          "order": 403,
+          "bbox": null
+        },
+        {
+          "id": "p017-c013",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮君木",
+          "order": 404,
+          "bbox": null
+        },
+        {
+          "id": "p017-c014",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮昧琴",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p017-c015",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮瑞卿",
+          "order": 501,
+          "bbox": null
+        },
+        {
+          "id": "p017-c016",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮萱庵",
+          "order": 502,
+          "bbox": null
+        },
+        {
+          "id": "p017-c017",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮安曾",
+          "order": 503,
+          "bbox": null
+        },
+        {
+          "id": "p017-c018",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮彥明（壬子）",
+          "order": 504,
+          "bbox": null
+        },
+        {
+          "id": "p017-c019",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮慶恆",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p017-c020",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮仲毅（壬子）",
+          "order": 601,
+          "bbox": null
+        },
+        {
+          "id": "p017-c021",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟棠",
+          "order": 602,
+          "bbox": null
+        },
+        {
+          "id": "p017-c022",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟蔚",
+          "order": 603,
+          "bbox": null
+        },
+        {
+          "id": "p017-c023",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢奎官",
+          "order": 604,
+          "bbox": null
+        },
+        {
+          "id": "p017-c024",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢純舫",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p017-c025",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢純舫（壬子）",
+          "order": 701,
+          "bbox": null
+        },
+        {
+          "id": "p017-c026",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢薔舫",
+          "order": 702,
+          "bbox": null
+        },
+        {
+          "id": "p017-c027",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢保璇女士",
+          "order": 703,
+          "bbox": null
+        },
+        {
+          "id": "p017-c028",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟萊",
+          "order": 704,
+          "bbox": null
+        },
+        {
+          "id": "p017-c029",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟棟",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p017-c030",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢善栽",
+          "order": 801,
+          "bbox": null
+        },
+        {
+          "id": "p017-c031",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢子聯",
+          "order": 802,
+          "bbox": null
+        },
+        {
+          "id": "p017-c032",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢貢甫",
+          "order": 803,
+          "bbox": null
+        },
+        {
+          "id": "p017-c033",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟葦",
+          "order": 804,
+          "bbox": null
+        },
+        {
+          "id": "p017-c034",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢子宸",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p017-c035",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周月如",
+          "order": 901,
+          "bbox": null
+        },
+        {
+          "id": "p017-c036",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周也達",
+          "order": 902,
+          "bbox": null
+        },
+        {
+          "id": "p017-c037",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周季歡",
+          "order": 903,
+          "bbox": null
+        },
+        {
+          "id": "p017-c038",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周鏡源",
+          "order": 904,
+          "bbox": null
+        },
+        {
+          "id": "p017-c039",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周渭漁",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p017-c040",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周蓮軒",
+          "order": 1001,
+          "bbox": null
+        },
+        {
+          "id": "p017-c041",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周玉衡",
+          "order": 1002,
+          "bbox": null
+        },
+        {
+          "id": "p017-c042",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周仰山",
+          "order": 1003,
+          "bbox": null
+        },
+        {
+          "id": "p017-c043",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "袁蓮塘",
+          "order": 1004,
+          "bbox": null
+        },
+        {
+          "id": "p017-c044",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "袁葆眞",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p017-c045",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "袁曾潮",
+          "order": 1101,
+          "bbox": null
+        },
+        {
+          "id": "p017-c046",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳謙夫",
+          "order": 1102,
+          "bbox": null
+        },
+        {
+          "id": "p017-c047",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳布雷",
+          "order": 1103,
+          "bbox": null
+        },
+        {
+          "id": "p017-c048",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳雲門",
+          "order": 1104,
+          "bbox": null
+        },
+        {
+          "id": "p017-c049",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳依仁",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p017-c050",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳庇懷",
+          "order": 1201,
+          "bbox": null
+        },
+        {
+          "id": "p017-c051",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "應華官",
+          "order": 1202,
+          "bbox": null
+        },
+        {
+          "id": "p017-c052",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "應松筠",
+          "order": 1203,
+          "bbox": null
+        },
+        {
+          "id": "p017-c053",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "應開忠",
+          "order": 1204,
+          "bbox": null
+        },
+        {
+          "id": "p017-c054",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十三",
+          "order": 1400,
+          "bbox": null
+        },
+        {
+          "id": "p017-c055",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1500,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "total": "complete",
+        "heading": "complete",
+        "roster": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "馮孟顯、馮今昧琴等姓名與三列後注「壬子」回圖確認。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p018",
+      "image": 18,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=18",
+      "source_sha256": "72f60f37b7d94864bec07bbf5846b07b79200175ad23fa39b689b22e37087a75",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 77954,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p018-c001",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孫叔申",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p018-c002",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孫蔚如",
+          "order": 1,
+          "bbox": null
+        },
+        {
+          "id": "p018-c003",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孫彬如",
+          "order": 2,
+          "bbox": null
+        },
+        {
+          "id": "p018-c004",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孫虹奎",
+          "order": 3,
+          "bbox": null
+        },
+        {
+          "id": "p018-c005",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孫荃墅",
+          "order": 4,
+          "bbox": null
+        },
+        {
+          "id": "p018-c006",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孫衡甫",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p018-c007",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "徐子琳",
+          "order": 101,
+          "bbox": null
+        },
+        {
+          "id": "p018-c008",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "徐子稱",
+          "order": 102,
+          "bbox": null
+        },
+        {
+          "id": "p018-c009",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "徐鍾麟",
+          "order": 103,
+          "bbox": null
+        },
+        {
+          "id": "p018-c010",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "徐和鈞",
+          "order": 104,
+          "bbox": null
+        },
+        {
+          "id": "p018-c011",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "朱藩生",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p018-c012",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "朱清奇",
+          "order": 201,
+          "bbox": null
+        },
+        {
+          "id": "p018-c013",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "朱清升",
+          "order": 202,
+          "bbox": null
+        },
+        {
+          "id": "p018-c014",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "朱欽臣",
+          "order": 203,
+          "bbox": null
+        },
+        {
+          "id": "p018-c015",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "羅振常",
+          "order": 204,
+          "bbox": null
+        },
+        {
+          "id": "p018-c016",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "羅紳伯",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p018-c017",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "羅祥龍",
+          "order": 301,
+          "bbox": null
+        },
+        {
+          "id": "p018-c018",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "羅葆君",
+          "order": 302,
+          "bbox": null
+        },
+        {
+          "id": "p018-c019",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "童茜香",
+          "order": 303,
+          "bbox": null
+        },
+        {
+          "id": "p018-c020",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "童友谷",
+          "order": 304,
+          "bbox": null
+        },
+        {
+          "id": "p018-c021",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "童錦蔚",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p018-c022",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "童詢霖",
+          "order": 401,
+          "bbox": null
+        },
+        {
+          "id": "p018-c023",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "嚴虎臣",
+          "order": 402,
+          "bbox": null
+        },
+        {
+          "id": "p018-c024",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "嚴循經",
+          "order": 403,
+          "bbox": null
+        },
+        {
+          "id": "p018-c025",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "嚴森庭",
+          "order": 404,
+          "bbox": null
+        },
+        {
+          "id": "p018-c026",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "嚴子均",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p018-c027",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "董廉卿",
+          "order": 501,
+          "bbox": null
+        },
+        {
+          "id": "p018-c028",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "董子宜",
+          "order": 502,
+          "bbox": null
+        },
+        {
+          "id": "p018-c029",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "董子咸",
+          "order": 503,
+          "bbox": null
+        },
+        {
+          "id": "p018-c030",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "董槐青",
+          "order": 504,
+          "bbox": null
+        },
+        {
+          "id": "p018-c031",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "俞穆卿",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p018-c032",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "俞元生",
+          "order": 601,
+          "bbox": null
+        },
+        {
+          "id": "p018-c033",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "俞季圭",
+          "order": 602,
+          "bbox": null
+        },
+        {
+          "id": "p018-c034",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "俞靜庵",
+          "order": 603,
+          "bbox": null
+        },
+        {
+          "id": "p018-c035",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "俞叔柱",
+          "order": 604,
+          "bbox": null
+        },
+        {
+          "id": "p018-c036",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "張壽生",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p018-c037",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "張本源",
+          "order": 701,
+          "bbox": null
+        },
+        {
+          "id": "p018-c038",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "蔡伯均",
+          "order": 702,
+          "bbox": null
+        },
+        {
+          "id": "p018-c039",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "蔡仲明",
+          "order": 703,
+          "bbox": null
+        },
+        {
+          "id": "p018-c040",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "蔡叔霖",
+          "order": 704,
+          "bbox": null
+        },
+        {
+          "id": "p018-c041",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "楊清甫",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p018-c042",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "楊安國",
+          "order": 801,
+          "bbox": null
+        },
+        {
+          "id": "p018-c043",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "楊微齋",
+          "order": 802,
+          "bbox": null
+        },
+        {
+          "id": "p018-c044",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "王琴樂",
+          "order": 803,
+          "bbox": null
+        },
+        {
+          "id": "p018-c045",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "王培坤",
+          "order": 804,
+          "bbox": null
+        },
+        {
+          "id": "p018-c046",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "王樹成",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p018-c047",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "秦殿卿（壬子）",
+          "order": 901,
+          "bbox": null
+        },
+        {
+          "id": "p018-c048",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "秦佑廷",
+          "order": 902,
+          "bbox": null
+        },
+        {
+          "id": "p018-c049",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "畢學卿",
+          "order": 903,
+          "bbox": null
+        },
+        {
+          "id": "p018-c050",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "畢景甫",
+          "order": 904,
+          "bbox": null
+        },
+        {
+          "id": "p018-c051",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "裘成水",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p018-c052",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "裘昌如",
+          "order": 1001,
+          "bbox": null
+        },
+        {
+          "id": "p018-c053",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "李韻標",
+          "order": 1002,
+          "bbox": null
+        },
+        {
+          "id": "p018-c054",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "李霞城",
+          "order": 1003,
+          "bbox": null
+        },
+        {
+          "id": "p018-c055",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陸晉亭",
+          "order": 1004,
+          "bbox": null
+        },
+        {
+          "id": "p018-c056",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陸思圻",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p018-c057",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "何吟茜",
+          "order": 1101,
+          "bbox": null
+        },
+        {
+          "id": "p018-c058",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "何璇卿",
+          "order": 1102,
+          "bbox": null
+        },
+        {
+          "id": "p018-c059",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "費冕卿",
+          "order": 1103,
+          "bbox": null
+        },
+        {
+          "id": "p018-c060",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "費子佩",
+          "order": 1104,
+          "bbox": null
+        },
+        {
+          "id": "p018-c061",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "魏陔香",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p018-c062",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "魏茹香",
+          "order": 1201,
+          "bbox": null
+        },
+        {
+          "id": "p018-c063",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "胡藍莊",
+          "order": 1202,
+          "bbox": null
+        },
+        {
+          "id": "p018-c064",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "胡君諱",
+          "order": 1203,
+          "bbox": null
+        },
+        {
+          "id": "p018-c065",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "葉峻琴",
+          "order": 1204,
+          "bbox": null
+        },
+        {
+          "id": "p018-c066",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "葉經伯",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p018-c067",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "任仲莘",
+          "order": 1301,
+          "bbox": null
+        },
+        {
+          "id": "p018-c068",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "鄔琢生",
+          "order": 1302,
+          "bbox": null
+        },
+        {
+          "id": "p018-c069",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "鄔雅香（壬子）",
+          "order": 1303,
+          "bbox": null
+        },
+        {
+          "id": "p018-c070",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "顧元琛",
+          "order": 1304,
+          "bbox": null
+        },
+        {
+          "id": "p018-c071",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十四",
+          "order": 1500,
+          "bbox": null
+        },
+        {
+          "id": "p018-c072",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1600,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "roster": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": [
+        "保持位置以右至左各欄排列。部分欄在第三帶移別姓，原排次保留。"
+      ]
+    },
+    {
+      "page_id": "p019",
+      "image": 19,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=19",
+      "source_sha256": "e185a03c2754f098336af185bbcf3b26c76f9262716315d3671df9bacb2d5d03",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 77363,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p019-c001",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "顧贊楚",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p019-c002",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "柳鏡齋",
+          "order": 1,
+          "bbox": null
+        },
+        {
+          "id": "p019-c003",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "林黎叔",
+          "order": 2,
+          "bbox": null
+        },
+        {
+          "id": "p019-c004",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "沈輔卿",
+          "order": 3,
+          "bbox": null
+        },
+        {
+          "id": "p019-c005",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "葛望澤",
+          "order": 4,
+          "bbox": null
+        },
+        {
+          "id": "p019-c006",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孔東采",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p019-c007",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "潘憲孫",
+          "order": 101,
+          "bbox": null
+        },
+        {
+          "id": "p019-c008",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "盛士廉",
+          "order": 102,
+          "bbox": null
+        },
+        {
+          "id": "p019-c009",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "史丕揚",
+          "order": 103,
+          "bbox": null
+        },
+        {
+          "id": "p019-c010",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "稽廷元",
+          "order": 104,
+          "bbox": null
+        },
+        {
+          "id": "p019-c011",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "尹鏞堂",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p019-c012",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "洪德蕃",
+          "order": 201,
+          "bbox": null
+        },
+        {
+          "id": "p019-c013",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "向平伯",
+          "order": 202,
+          "bbox": null
+        },
+        {
+          "id": "p019-c014",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "裘友莘",
+          "order": 203,
+          "bbox": null
+        },
+        {
+          "id": "p019-c015",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "趙芝室",
+          "order": 204,
+          "bbox": null
+        },
+        {
+          "id": "p019-c016",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "王魯山",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p019-c017",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮汲蒙",
+          "order": 301,
+          "bbox": null
+        },
+        {
+          "id": "p019-c018",
+          "kind": "total",
+          "layer": "total",
+          "text": "以上會員一百三十七人每名收到會費洋十元共計會費洋一千三百七十元",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p019-c019",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "癸丑年董事捐已繳諸君姓名報告於左",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p019-c020",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "任仲莘",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p019-c021",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周仰山",
+          "order": 601,
+          "bbox": null
+        },
+        {
+          "id": "p019-c022",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "柳鏡齋",
+          "order": 602,
+          "bbox": null
+        },
+        {
+          "id": "p019-c023",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳謙夫",
+          "order": 603,
+          "bbox": null
+        },
+        {
+          "id": "p019-c024",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "費冕卿",
+          "order": 604,
+          "bbox": null
+        },
+        {
+          "id": "p019-c025",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "葉經伯",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p019-c026",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "趙芝室",
+          "order": 701,
+          "bbox": null
+        },
+        {
+          "id": "p019-c027",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟葦",
+          "order": 702,
+          "bbox": null
+        },
+        {
+          "id": "p019-c028",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟棟",
+          "order": 703,
+          "bbox": null
+        },
+        {
+          "id": "p019-c029",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "顧元琛",
+          "order": 704,
+          "bbox": null
+        },
+        {
+          "id": "p019-c030",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "朱清奇",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p019-c031",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "周蓮軒",
+          "order": 801,
+          "bbox": null
+        },
+        {
+          "id": "p019-c032",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "徐祖祥",
+          "order": 802,
+          "bbox": null
+        },
+        {
+          "id": "p019-c033",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "孫衡甫",
+          "order": 803,
+          "bbox": null
+        },
+        {
+          "id": "p019-c034",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮樵琴",
+          "order": 804,
+          "bbox": null
+        },
+        {
+          "id": "p019-c035",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "畢學卿",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p019-c036",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "裘成水",
+          "order": 901,
+          "bbox": null
+        },
+        {
+          "id": "p019-c037",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟萊",
+          "order": 902,
+          "bbox": null
+        },
+        {
+          "id": "p019-c038",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "嚴子均",
+          "order": 903,
+          "bbox": null
+        },
+        {
+          "id": "p019-c039",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "何吟茜",
+          "order": 904,
+          "bbox": null
+        },
+        {
+          "id": "p019-c040",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "胡君諱",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p019-c041",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "陳依仁",
+          "order": 1001,
+          "bbox": null
+        },
+        {
+          "id": "p019-c042",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "童友谷",
+          "order": 1002,
+          "bbox": null
+        },
+        {
+          "id": "p019-c043",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "馮辛存",
+          "order": 1003,
+          "bbox": null
+        },
+        {
+          "id": "p019-c044",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "董子宜",
+          "order": 1004,
+          "bbox": null
+        },
+        {
+          "id": "p019-c045",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟蔚",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p019-c046",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "錢吟棠",
+          "order": 1101,
+          "bbox": null
+        },
+        {
+          "id": "p019-c047",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "羅紳伯",
+          "order": 1102,
+          "bbox": null
+        },
+        {
+          "id": "p019-c048",
+          "kind": "roster",
+          "layer": "roster",
+          "text": "葉峻琴",
+          "order": 1103,
+          "bbox": null
+        },
+        {
+          "id": "p019-c049",
+          "kind": "total",
+          "layer": "total",
+          "text": "以上董事二十九人每人收到董事捐二十元共計董事捐洋五百八十元",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p019-c050",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十五",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p019-c051",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1400,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "roster": "complete",
+        "total": "complete",
+        "heading": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p020",
+      "image": 20,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=20",
+      "source_sha256": "6a8b0925d709104679826b9202b6c64051f191eb7a775a60a2bebce796aea726",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 81089,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p020-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "捐款報告",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p020-c002",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十六",
+          "order": 2700,
+          "bbox": null
+        },
+        {
+          "id": "p020-c003",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 2800,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p020-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "嘉德堂羅",
+              "洋五百元",
+              "向平伯　應叔申來"
+            ],
+            [
+              "蔡雨巖君",
+              "洋二百元",
+              "陳謙夫來"
+            ],
+            [
+              "浙路公司",
+              "洋一百元",
+              ""
+            ],
+            [
+              "第四中學校長捐薪",
+              "洋六十元",
+              "共禮苹　陳謙夫來"
+            ],
+            [
+              "第四中學校長捐薪",
+              "洋六十元",
+              "范均之　陳談人來"
+            ],
+            [
+              "葉志強君",
+              "洋四十元",
+              "應松筠來"
+            ],
+            [
+              "蔡董氏",
+              "洋三十元",
+              "董子宜來"
+            ],
+            [
+              "姚元房",
+              "洋三十元",
+              "徐子稱來"
+            ],
+            [
+              "孫春庭君",
+              "洋三十元",
+              "袁潔泉來"
+            ],
+            [
+              "王錦銘君",
+              "洋二十元",
+              "錢吟葦來"
+            ],
+            [
+              "求是軒徐",
+              "洋二十元",
+              "徐子稱來"
+            ],
+            [
+              "蔣也萃君",
+              "洋二十元",
+              "孫蔚如來"
+            ]
+          ],
+          "order": 100,
+          "kind": "donor"
+        },
+        {
+          "id": "p020-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "羅門張氏",
+              "洋五百元",
+              "馮　君時　逸甫來"
+            ],
+            [
+              "董方氏",
+              "洋一百元",
+              "董子宜來"
+            ],
+            [
+              "裘成水君",
+              "洋九十二元",
+              "移助値"
+            ],
+            [
+              "錢吟葦君",
+              "洋七十元",
+              ""
+            ],
+            [
+              "周錫類堂",
+              "洋五十元",
+              "陳謙夫來"
+            ],
+            [
+              "美國井女士",
+              "洋三十元",
+              "吳蓮艇來"
+            ],
+            [
+              "警察署",
+              "洋三十元",
+              "毛楙卿來"
+            ],
+            [
+              "金知事",
+              "洋三十元",
+              ""
+            ],
+            [
+              "童錦吾君",
+              "洋二十元",
+              "胡君諱　何吟茜來"
+            ],
+            [
+              "徐祖祥君",
+              "洋二十元",
+              ""
+            ],
+            [
+              "金吟谷君",
+              "洋二十元",
+              ""
+            ],
+            [
+              "陳親親堂",
+              "洋二十元",
+              "陳雲門來"
+            ]
+          ],
+          "order": 1400,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "多處來款者雙行小字字形及次序待覆核，包括首項、兩筆第四中學校長及羅門張氏。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p021",
+      "image": 21,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=21",
+      "source_sha256": "ea3e5e6e52f66049ec280e99c5de62a711330ecff0273d7f84de3adf96d6ef11",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 86577,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p021-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十七",
+          "order": 2900,
+          "bbox": null
+        },
+        {
+          "id": "p021-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3000,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p021-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "洪詠春君",
+              "洋二十元",
+              ""
+            ],
+            [
+              "胡芭水君",
+              "洋二十元",
+              "袁潔泉來"
+            ],
+            [
+              "沈志善君",
+              "洋十六元",
+              "吳蓮艇來"
+            ],
+            [
+              "李贊侯君",
+              "洋十元",
+              "胡君諱　何吟茜來"
+            ],
+            [
+              "味經軒婆婆",
+              "洋十元",
+              "董子宜來"
+            ],
+            [
+              "嚴元和君",
+              "洋十元",
+              "吳蓮艇來"
+            ],
+            [
+              "陳慎餘堂",
+              "洋十元",
+              "徐子稱來"
+            ],
+            [
+              "泰慶號",
+              "洋十元",
+              "王志湘　馮辛存來"
+            ],
+            [
+              "洪夢亭君",
+              "洋十元",
+              "馮辛存　王志湘來"
+            ],
+            [
+              "王京欽君",
+              "洋十元",
+              ""
+            ],
+            [
+              "李寶成君",
+              "洋十元",
+              "袁潔泉來"
+            ],
+            [
+              "楊金生君",
+              "洋十元",
+              "袁潔泉來"
+            ],
+            [
+              "陳韻泉君",
+              "洋十元",
+              "同上"
+            ],
+            [
+              "石獻皋君",
+              "洋十元",
+              "袁潔泉來"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p021-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "馬雨堂君",
+              "洋二十元",
+              "袁潔泉來"
+            ],
+            [
+              "蛋公所",
+              "洋二十元",
+              "袁潔泉來"
+            ],
+            [
+              "無名氏",
+              "洋十二元五角六分",
+              ""
+            ],
+            [
+              "吳興氏",
+              "洋十元",
+              "楊寶甫來"
+            ],
+            [
+              "慎餘軒婆婆",
+              "洋十元",
+              "董子宜來"
+            ],
+            [
+              "袁孟琴君",
+              "洋十元",
+              "陳謙夫來"
+            ],
+            [
+              "職思居士",
+              "洋十元",
+              "吳蓮艇來"
+            ],
+            [
+              "元盛永",
+              "洋十元",
+              "馮辛存　王志湘來"
+            ],
+            [
+              "董維城君",
+              "洋十元",
+              "馮辛存來"
+            ],
+            [
+              "濟泰公典",
+              "洋十元",
+              "王京欽來"
+            ],
+            [
+              "劉寶餘君",
+              "洋十元",
+              "袁潔泉來"
+            ],
+            [
+              "鄭聲齋君",
+              "洋十元",
+              "同上"
+            ],
+            [
+              "王鳳年君",
+              "洋十元",
+              "同上"
+            ],
+            [
+              "慶和銀樓",
+              "洋十元",
+              "裘成水來"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p022",
+      "image": 22,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=22",
+      "source_sha256": "4441c95e1f01e42749b579b6773d75ce7f05c896f76af4599336d72e6161ba72",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 86287,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p022-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十八",
+          "order": 3000,
+          "bbox": null
+        },
+        {
+          "id": "p022-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3100,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p022-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "王羅女士",
+              "洋十元",
+              "馮子汀來"
+            ],
+            [
+              "孫文彬君",
+              "洋十元",
+              "錢子忍來"
+            ],
+            [
+              "無名氏",
+              "洋六元",
+              "周渭漁來"
+            ],
+            [
+              "協興公",
+              "洋五元",
+              "周蓮軒來"
+            ],
+            [
+              "孫表卿君",
+              "洋五元",
+              "陳謙夫來"
+            ],
+            [
+              "董維驥君",
+              "洋五元",
+              "董子宜來"
+            ],
+            [
+              "阜泰行",
+              "洋五元",
+              "徐子稱來"
+            ],
+            [
+              "莊慶耀君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "德昌木行",
+              "洋五元",
+              "石厚用來"
+            ],
+            [
+              "慎成木行",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "馮友生君",
+              "洋五元",
+              "陳謙夫來"
+            ],
+            [
+              "蘇承基君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "林瑞庭君",
+              "洋五元",
+              "錢經湘來"
+            ],
+            [
+              "秦子敬君",
+              "洋五元",
+              "王芝湘　馮辛存來"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p022-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "董仁信君",
+              "洋十元",
+              "錢純舫來"
+            ],
+            [
+              "乾源油行",
+              "洋十元",
+              "馮逿甫來"
+            ],
+            [
+              "錢純舫　經捐諸善士",
+              "洋五元九角一分六釐",
+              ""
+            ],
+            [
+              "恆豐永",
+              "洋五元",
+              "王芝香　馮辛存來"
+            ],
+            [
+              "邵子建君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "朱繼棠君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "馮慶齡君",
+              "洋五元",
+              "馮辛存來"
+            ],
+            [
+              "濟泰分典",
+              "洋五元",
+              "王京欽來"
+            ],
+            [
+              "顧壽仙君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "余留餘軒",
+              "洋五元",
+              "袁潔泉來"
+            ],
+            [
+              "戴慎餘堂",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "洪寶卿君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "寶隆洋行",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "恆豐泰",
+              "洋五元",
+              "同上"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「慎成木行」冊末勘誤表有正誤對照；原表與勘誤分別留錄。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p023",
+      "image": 23,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=23",
+      "source_sha256": "3fa354f02b5f1cb20402d0921e88bbd0b48129366ffd7286d59427e7ebc4d79b",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 85854,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p023-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "十九",
+          "order": 2900,
+          "bbox": null
+        },
+        {
+          "id": "p023-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3000,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p023-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "陳錫君",
+              "洋五元",
+              "袁潔泉來"
+            ],
+            [
+              "錢純舫君",
+              "洋五元",
+              "錢經湘來"
+            ],
+            [
+              "明德堂梁",
+              "洋五元",
+              "裘成水來"
+            ],
+            [
+              "漢口老大寶",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "慶雲樓",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "沈輔卿君",
+              "洋五元",
+              "洪左湖來"
+            ],
+            [
+              "周厚德君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "邵和麟君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "林簪壽君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "張慶雲樓",
+              "洋五元",
+              "裘成水來"
+            ],
+            [
+              "漢口丹鳳銀樓",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "朱丕衍君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "信泰厚",
+              "洋三元",
+              "周蓮軒來"
+            ],
+            [
+              "王英年君",
+              "洋三元",
+              "同上"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p023-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "長沙文元樓",
+              "洋五元",
+              "裘成水來"
+            ],
+            [
+              "王玉卿君",
+              "洋五元",
+              "同上"
+            ],
+            [
+              "馮羅女士",
+              "洋五元",
+              "馮子汀來"
+            ],
+            [
+              "陳羅女士",
+              "洋五元",
+              "陳曉娟來"
+            ],
+            [
+              "老恆茂行",
+              "洋五元",
+              "馮逿甫來"
+            ],
+            [
+              "胡少垣君",
+              "洋四元",
+              "周蓮軒來"
+            ],
+            [
+              "包廷璋君",
+              "洋四元",
+              "徐子稱來"
+            ],
+            [
+              "陳慎思君",
+              "洋四元",
+              "徐子稱來"
+            ],
+            [
+              "阮三鴻君",
+              "洋四元",
+              "徐子稱來"
+            ],
+            [
+              "宏大提莊",
+              "洋四元",
+              "王京欽來"
+            ],
+            [
+              "萃豐莊",
+              "洋四元",
+              "袁潔泉來"
+            ],
+            [
+              "生號",
+              "洋四元",
+              "裘成水來"
+            ],
+            [
+              "王許亭君",
+              "洋三元",
+              "王芾莊來"
+            ],
+            [
+              "鄭賀麓君",
+              "洋三元",
+              "周渭漁來"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p024",
+      "image": 24,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=24",
+      "source_sha256": "fc7f15886671ce5c1d1265d2e3abb0e438645d6d15db12e6a751650b12099801",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 76420,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p024-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十",
+          "order": 2900,
+          "bbox": null
+        },
+        {
+          "id": "p024-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3000,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p024-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "退步居",
+              "洋三元",
+              "王京欽來"
+            ],
+            [
+              "胡青輝君",
+              "洋三元",
+              "同上"
+            ],
+            [
+              "陸陳女士",
+              "洋三元",
+              "同上"
+            ],
+            [
+              "羅陳太太",
+              "洋二元",
+              "周蓮軒來"
+            ],
+            [
+              "顏東生君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "馮祖記",
+              "洋二元",
+              "王芾莊來"
+            ],
+            [
+              "姚嘉記",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "王法記",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "王渚記",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "王芾莊君",
+              "洋二元",
+              ""
+            ],
+            [
+              "陳蘭生君",
+              "洋二元",
+              "周渭漁來"
+            ],
+            [
+              "汪芝亭君",
+              "洋二元",
+              "徐子稱來"
+            ],
+            [
+              "桂慶宦君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "周光德君",
+              "洋二元",
+              "同上"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p024-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "方祖蔭君",
+              "洋三元",
+              "裘成水來"
+            ],
+            [
+              "陳曉女士",
+              "洋三元",
+              "陳曉娟來"
+            ],
+            [
+              "味善居",
+              "洋三元",
+              "馮彥明來"
+            ],
+            [
+              "陳慶全君",
+              "洋二元",
+              "徐子稱來"
+            ],
+            [
+              "張恆寶君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "張良左君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "汪慶容君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "莊衣榜君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "胡杭奎君",
+              "洋二元",
+              "陳謙夫來"
+            ],
+            [
+              "馮葉鳳眞",
+              "洋二元",
+              "葉德之來"
+            ],
+            [
+              "錢子章君",
+              "洋二元",
+              "錢經湘來"
+            ],
+            [
+              "施越明君",
+              "洋二元",
+              ""
+            ],
+            [
+              "協裕莊",
+              "洋二元",
+              "王京欽來"
+            ],
+            [
+              "嘉隱居",
+              "洋二元",
+              "同上"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p025",
+      "image": 25,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=25",
+      "source_sha256": "6c090b8668f32c5169034435e7167f393cf2ecba489cde386ec8d4461e10f3da",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 73080,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p025-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十一",
+          "order": 3000,
+          "bbox": null
+        },
+        {
+          "id": "p025-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3100,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p025-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "方曙初君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "延益莊",
+              "洋二元",
+              "王京欽來"
+            ],
+            [
+              "太倉鹽棧",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "朱存仁堂",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "萬年樓",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "正和祥",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "廣源義",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "精生居",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "協源祥",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "同心永號",
+              "洋二元",
+              "袁潔泉來"
+            ],
+            [
+              "震豐祥",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "童仁三君",
+              "洋二元",
+              "錢經湘來"
+            ],
+            [
+              "陳樂序軒",
+              "洋二元",
+              "裘成水來"
+            ],
+            [
+              "洪絅君",
+              "洋二元",
+              "陳曉娟來"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p025-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "徐宏泰",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "縵雲廬方",
+              "洋二元",
+              "裘成水來"
+            ],
+            [
+              "久成金號",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "翁文椒女士",
+              "洋二元",
+              "陳曉娟來"
+            ],
+            [
+              "方美琴女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "聶望女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "丁菊貞女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "孫璇範女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "韓振芳女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "徐玉英女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "費芳暉女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "范曰貞女士",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "李志君",
+              "洋二元",
+              "同上"
+            ],
+            [
+              "方婉琴女士",
+              "洋二元",
+              "同上"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「翁文椒女士」按原表，末幅勘誤列同處姓名改讀。保留來源異文並排。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p026",
+      "image": 26,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=26",
+      "source_sha256": "902b3897fbea050c0aa41c513bfe4667d0073097935c58f7b76c32a901bf6141",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 72748,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p026-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十二",
+          "order": 3000,
+          "bbox": null
+        },
+        {
+          "id": "p026-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3100,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p026-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "無力子",
+              "洋一元",
+              "周蓮軒來"
+            ],
+            [
+              "錢見一君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "馮雪兆君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "錢何太太",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "馮陳太太",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "周學文君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "周聯卿君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "何馮太太",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "周陳太太",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "錢鴻範君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "錢鴻威君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "洪楚生君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "鄭祖佑君",
+              "洋一元",
+              "周渭漁來"
+            ],
+            [
+              "鄭慶甫君",
+              "洋一元",
+              "同上"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p026-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "陳德禔君",
+              "洋一元",
+              "周蓮軒來"
+            ],
+            [
+              "鄭禹祥君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "楊仲篪君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "鄭桂良君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "楊兆益君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "沈祥裕君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳沛華君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "馮書記",
+              "洋一元",
+              "王芾莊來"
+            ],
+            [
+              "馮費氏",
+              "洋一元",
+              "王芾莊來"
+            ],
+            [
+              "王志記",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "玉少記",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "周懷玉君",
+              "洋一元",
+              "周渭漁來"
+            ],
+            [
+              "李柏林君",
+              "洋一元",
+              "錢經湘來"
+            ],
+            [
+              "袁蓉庵君",
+              "洋一元",
+              "同上"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "按原表「李柏林君」；末幅勘誤列另讀。未改正文。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p027",
+      "image": 27,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=27",
+      "source_sha256": "3062caed4cbda14919ddf7452763a8dfdad9448adda3d216291e3780bf321b9d",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 72703,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p027-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十三",
+          "order": 2900,
+          "bbox": null
+        },
+        {
+          "id": "p027-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3000,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p027-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "鄭子衡君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "王友竹君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "李楚湘君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "李筱笙君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "潘愚廬君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "鄭星楚君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "周品金君",
+              "洋一元",
+              "董子宜來"
+            ],
+            [
+              "水衰君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "董敦涵君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "虞揖蓀君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "無名氏",
+              "洋一元",
+              "裘成水來"
+            ],
+            [
+              "張鐘韻君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "張泉生君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "胡祥發君",
+              "洋一元",
+              "同上"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p027-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "鄭樵臣君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "鄭性初君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳晉發君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "秦蓮生君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "秦坤房",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "袁琇庵君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "鄭以莊君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "管翰芳君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "費承濟君",
+              "洋一元",
+              "王京欽來"
+            ],
+            [
+              "萱壽堂秦",
+              "洋一元",
+              "裘成水來"
+            ],
+            [
+              "沈月英女士",
+              "洋一元",
+              "陳曉娟來"
+            ],
+            [
+              "方珊琴女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "葛令瑤女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "吳蓮卿女士",
+              "洋一元",
+              "同上"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p028",
+      "image": 28,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=28",
+      "source_sha256": "825fde294cde98dbe5a5891fe46db4037f66e9eaf5877978b26f08ecbac569fa",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 72399,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p028-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十四",
+          "order": 2900,
+          "bbox": null
+        },
+        {
+          "id": "p028-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 3000,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p028-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "夏寶礪君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "葉葆初君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "無名氏",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "裘會祺君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "馮祖華君",
+              "洋一元",
+              "陳曉娟來"
+            ],
+            [
+              "朱松橋君",
+              "洋一元",
+              "裘成水來"
+            ],
+            [
+              "沈振華女士",
+              "洋一元",
+              "陳曉娟來"
+            ],
+            [
+              "丁秀貞女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "楊先生",
+              "洋一元",
+              "陳曉娟來"
+            ],
+            [
+              "趙先生",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "朱先生",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "王允默君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "周秀雅女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳如蘭女士",
+              "洋一元",
+              "同上"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p028-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "莊韻舫女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "方寶琴女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "葉宗英女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "童薰琴女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "金愛華女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "王寶貞女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "葉梅仙女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳馥卿女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "蔡同滋君",
+              "洋一元",
+              "周錫祁來"
+            ],
+            [
+              "徐珩君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "應彥君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳孝鎬君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "郭梅麓君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "董祥麟君",
+              "洋一元",
+              "同上"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p029",
+      "image": 29,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=29",
+      "source_sha256": "7ab429b5cb1abc3c66c84163e47e330b196c46978f92a295db1015dddc74f503",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 72819,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p029-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十五",
+          "order": 2800,
+          "bbox": null
+        },
+        {
+          "id": "p029-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 2900,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p029-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "趙蟬貞女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "丁素貞女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳淑娟女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳婉娟女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳萱君",
+              "洋一元",
+              "周錫祁來"
+            ],
+            [
+              "周寶康君",
+              "洋四角三分五釐",
+              ""
+            ],
+            [
+              "秦泉清君",
+              "洋四角三分五釐",
+              ""
+            ],
+            [
+              "眞記號",
+              "錢五千文",
+              "袁潔泉來"
+            ],
+            [
+              "省記",
+              "錢三千文",
+              "同上"
+            ],
+            [
+              "從記",
+              "錢二千文",
+              "同上"
+            ],
+            [
+              "德生祥",
+              "錢二千文",
+              "同上"
+            ],
+            [
+              "寶隆行",
+              "錢二千文",
+              "同上"
+            ],
+            [
+              "順豐號",
+              "錢二千文",
+              "同上"
+            ],
+            [
+              "同豐號",
+              "錢二千文",
+              "同上"
+            ]
+          ],
+          "order": 0,
+          "kind": "donor"
+        },
+        {
+          "id": "p029-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "董履安君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "董長齡君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "徐秋章女士",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "董瑞龍君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "陳慶麒君",
+              "洋一元",
+              "同上"
+            ],
+            [
+              "童麟趾君",
+              "洋四角三分五釐",
+              ""
+            ],
+            [
+              "沈伯英君",
+              "洋四角三分五釐",
+              ""
+            ],
+            [
+              "三益恆",
+              "錢四千文",
+              "袁潔泉來"
+            ],
+            [
+              "無名氏",
+              "錢三千文",
+              "同上"
+            ],
+            [
+              "公興存",
+              "錢二千文",
+              "同上"
+            ],
+            [
+              "謙信行",
+              "錢二千文",
+              "同上"
+            ],
+            [
+              "仁大號",
+              "錢二千文",
+              "同上"
+            ],
+            [
+              "禮和號",
+              "錢二千文",
+              "同上"
+            ]
+          ],
+          "order": 1500,
+          "kind": "donor"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p030",
+      "image": 30,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=30",
+      "source_sha256": "e0121d754701803b514a1c9d7e4c3d55e1ac6f8b22c3389ab53fe37bc8435d2a",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 24148,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p030-c001",
+          "kind": "total",
+          "layer": "total",
+          "text": "共計捐助洋二千九百二十一元二角一分六釐",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p030-c002",
+          "kind": "total",
+          "layer": "total",
+          "text": "共計捐助錢三十三千文合洋二十六元",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p030-c003",
+          "kind": "total",
+          "layer": "total",
+          "text": "兩共捐助洋二千九百四十七元二角一分六釐",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p030-c004",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十六",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p030-c005",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 400,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "total": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p031",
+      "image": 31,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=31",
+      "source_sha256": "6908f1a27c9b8526594046cf004521962c77359d6798dd1dd929b8a0f1f0ba21",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 87014,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p031-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "癸丑年董事會員姓名錄",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p031-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "董事部（以筆畫簡繁為序）",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p031-c003",
+          "kind": "role",
+          "layer": "role",
+          "text": "總董",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p031-c004",
+          "kind": "role",
+          "layer": "role",
+          "text": "董事",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p031-c005",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "會員部（以入會先後為序）",
+          "order": 3600,
+          "bbox": null
+        },
+        {
+          "id": "p031-c006",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十七",
+          "order": 4200,
+          "bbox": null
+        },
+        {
+          "id": "p031-c007",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 4300,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p031-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "錢保杭",
+              "吟葦"
+            ]
+          ],
+          "order": 300,
+          "kind": "namepair"
+        },
+        {
+          "id": "p031-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "任企尹",
+              "仲莘"
+            ],
+            [
+              "朱奇",
+              "清奇"
+            ],
+            [
+              "何育杰",
+              "吟茜"
+            ],
+            [
+              "周光熊",
+              "仰山"
+            ],
+            [
+              "周彬",
+              "蓮軒"
+            ],
+            [
+              "胡良箴",
+              "君諱"
+            ],
+            [
+              "柳在洲",
+              "鏡齋"
+            ],
+            [
+              "徐鍾麟",
+              "祖祥"
+            ],
+            [
+              "陳鴻達",
+              "依仁"
+            ],
+            [
+              "陳夏常",
+              "謙夫"
+            ],
+            [
+              "孫遵法",
+              "衡甫"
+            ],
+            [
+              "童國炳",
+              "友谷"
+            ],
+            [
+              "費紹冠",
+              "冕卿"
+            ],
+            [
+              "馮紹勤",
+              "樵琴"
+            ],
+            [
+              "馮宜銘",
+              "辛存"
+            ],
+            [
+              "葉念經",
+              "經伯"
+            ],
+            [
+              "葉維梁",
+              "峻琴"
+            ],
+            [
+              "畢蘊敏",
+              "學卿"
+            ],
+            [
+              "董孝欽",
+              "子宜"
+            ],
+            [
+              "趙家蓀",
+              "芝室"
+            ],
+            [
+              "裘廷驥",
+              "成水"
+            ],
+            [
+              "蔡上治",
+              "伯均"
+            ],
+            [
+              "錢懋羣",
+              "吟葦"
+            ],
+            [
+              "錢保杭",
+              "吟葦"
+            ],
+            [
+              "錢保康",
+              "吟蔚"
+            ],
+            [
+              "錢保基",
+              "吟萊"
+            ],
+            [
+              "錢保夷",
+              "吟棠"
+            ],
+            [
+              "錢保唐",
+              "吟棟"
+            ],
+            [
+              "嚴義彬",
+              "子均"
+            ],
+            [
+              "顧釗",
+              "元琛"
+            ],
+            [
+              "羅泰榮",
+              "紳伯"
+            ]
+          ],
+          "order": 500,
+          "kind": "namepair"
+        },
+        {
+          "id": "p031-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "馮毓華",
+              "汲蒙"
+            ],
+            [
+              "馮宜銘",
+              "辛存"
+            ],
+            [
+              "馮全琪",
+              "瑞卿"
+            ],
+            [
+              "馮紹勤",
+              "樵琴"
+            ]
+          ],
+          "order": 3700,
+          "kind": "namepair"
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "role": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "分排主名與下側名號欄；未將字號或職位外推。筆畫密會員姓名待回圖。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p032",
+      "image": 32,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=32",
+      "source_sha256": "8a5147f2d9c7368c1bda209f716b33db9182e1be899d21af539e55fc1876d2af",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 94022,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p032-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十八",
+          "order": 6000,
+          "bbox": null
+        },
+        {
+          "id": "p032-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 6100,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p032-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "馮保謙",
+              "六皆"
+            ],
+            [
+              "錢保杭",
+              "吟葦"
+            ],
+            [
+              "錢保瑜",
+              "子聯"
+            ],
+            [
+              "周銃汝",
+              "月如"
+            ],
+            [
+              "陳訓正",
+              "庇懷"
+            ],
+            [
+              "董孝欽",
+              "子宜"
+            ],
+            [
+              "葉維梁",
+              "峻琴"
+            ],
+            [
+              "嚴寶瑾",
+              "虎臣"
+            ],
+            [
+              "林端輔",
+              "黎叔"
+            ],
+            [
+              "袁兆墀",
+              "漢卿"
+            ],
+            [
+              "陸元春",
+              "晉亭"
+            ],
+            [
+              "馮維勛",
+              "昧琴"
+            ],
+            [
+              "馮保初",
+              "撥先"
+            ],
+            [
+              "錢經勛",
+              "長生"
+            ]
+          ],
+          "order": 0,
+          "kind": "namepair"
+        },
+        {
+          "id": "p032-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "馮公弼",
+              "乃千"
+            ],
+            [
+              "錢保夷",
+              "吟棠"
+            ],
+            [
+              "錢經湘",
+              "純舫"
+            ],
+            [
+              "周毓勛",
+              "鏡源"
+            ],
+            [
+              "陳夏常",
+              "謙夫"
+            ],
+            [
+              "俞斯珩",
+              "季圭"
+            ],
+            [
+              "魏錫蘭",
+              "陔香"
+            ],
+            [
+              "徐祖祥",
+              "鍾麟"
+            ],
+            [
+              "任企尹",
+              "仲莘"
+            ],
+            [
+              "盛鼎年",
+              "士廉"
+            ],
+            [
+              "馮忠敷",
+              "芝艇"
+            ],
+            [
+              "馮延瑄",
+              "季良"
+            ],
+            [
+              "馮保祿",
+              "仲毅"
+            ],
+            [
+              "錢文杏",
+              "奎官"
+            ]
+          ],
+          "order": 1500,
+          "kind": "namepair"
+        },
+        {
+          "id": "p032-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "錢懋羣",
+              "吟葦"
+            ],
+            [
+              "錢保唐",
+              "吟棟"
+            ],
+            [
+              "孫文楣",
+              "蔚如"
+            ],
+            [
+              "周光熊",
+              "仰山"
+            ],
+            [
+              "陳鴻達",
+              "依仁"
+            ],
+            [
+              "俞鴻楷",
+              "叔柱"
+            ],
+            [
+              "翁傳洄",
+              "厚甫"
+            ],
+            [
+              "何育杰",
+              "吟茜"
+            ],
+            [
+              "朱奇",
+              "清奇"
+            ],
+            [
+              "葛崇瀚",
+              "望澤"
+            ],
+            [
+              "馮保忠",
+              "進思"
+            ],
+            [
+              "馮彥輔",
+              "康濟"
+            ],
+            [
+              "馮玕",
+              "君木"
+            ],
+            [
+              "錢楚書",
+              "寶善"
+            ]
+          ],
+          "order": 3000,
+          "kind": "namepair"
+        },
+        {
+          "id": "p032-tab04",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "錢保基",
+              "吟萊"
+            ],
+            [
+              "錢保琛",
+              "子忍"
+            ],
+            [
+              "孫紹康",
+              "荃墅"
+            ],
+            [
+              "應啓墀",
+              "叔申"
+            ],
+            [
+              "董承欽",
+              "子咸"
+            ],
+            [
+              "葉念經",
+              "經伯"
+            ],
+            [
+              "胡良箴",
+              "君諱"
+            ],
+            [
+              "柳在洲",
+              "鏡齋"
+            ],
+            [
+              "楊瑞曾",
+              "微齋"
+            ],
+            [
+              "孔昭鑒",
+              "東采"
+            ],
+            [
+              "馮敏楷",
+              "萱庵"
+            ],
+            [
+              "馮配明",
+              "吉生"
+            ],
+            [
+              "馮燮範",
+              "挺生"
+            ],
+            [
+              "錢保康",
+              "吟蔚"
+            ]
+          ],
+          "order": 4500,
+          "kind": "namepair"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "若干名號無法確認本圖原字的細部，待獨立回圖，不靠前代名錄強改。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p033",
+      "image": 33,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=33",
+      "source_sha256": "cbf65b7560798eee84314eca21b8dde7e8bd6da9b34bc156b14a3af157c10413",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 92052,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p033-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "二十九",
+          "order": 6000,
+          "bbox": null
+        },
+        {
+          "id": "p033-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 6100,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p033-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "錢輔仁",
+              "善栽"
+            ],
+            [
+              "周兆熊",
+              "渭漁"
+            ],
+            [
+              "董世鐸",
+              "廉卿"
+            ],
+            [
+              "裘適駿",
+              "友莘"
+            ],
+            [
+              "鄔之器",
+              "琢生"
+            ],
+            [
+              "袁禮讓",
+              "蓮塘"
+            ],
+            [
+              "陳韓芳",
+              "祥熊"
+            ],
+            [
+              "楊乘瑄",
+              "清甫"
+            ],
+            [
+              "徐韜",
+              "和鈞"
+            ],
+            [
+              "胡炘藻",
+              "藍莊"
+            ],
+            [
+              "朱鳳翮",
+              "慶升"
+            ],
+            [
+              "魏友枋",
+              "仲車"
+            ],
+            [
+              "向復章",
+              "平伯"
+            ],
+            [
+              "孫遵法",
+              "衡甫"
+            ]
+          ],
+          "order": 0,
+          "kind": "namepair"
+        },
+        {
+          "id": "p033-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "周銃鎬",
+              "也達"
+            ],
+            [
+              "周彬",
+              "蓮軒"
+            ],
+            [
+              "應鏞鋁",
+              "葆甫"
+            ],
+            [
+              "裘廷驥",
+              "成水"
+            ],
+            [
+              "鄔德懿",
+              "雅香"
+            ],
+            [
+              "袁應麒",
+              "葆眞"
+            ],
+            [
+              "陳文康",
+              "安夫"
+            ],
+            [
+              "張福年",
+              "壽孫"
+            ],
+            [
+              "葉懋宣",
+              "德之"
+            ],
+            [
+              "方熊",
+              "蔓甫"
+            ],
+            [
+              "童文燊",
+              "茜香"
+            ],
+            [
+              "李思沅",
+              "湘帆"
+            ],
+            [
+              "孫文柱",
+              "虹奎"
+            ],
+            [
+              "陳訓恩",
+              "布雷"
+            ]
+          ],
+          "order": 1500,
+          "kind": "namepair"
+        },
+        {
+          "id": "p033-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "周家珩",
+              "玉衡"
+            ],
+            [
+              "羅翔",
+              "祥龍"
+            ],
+            [
+              "應其鈞",
+              "慶生"
+            ],
+            [
+              "裘光燊",
+              "精如"
+            ],
+            [
+              "尹耕莘",
+              "仰伊"
+            ],
+            [
+              "俞鴻梵",
+              "靜庵"
+            ],
+            [
+              "洪家揚",
+              "庭蔭"
+            ],
+            [
+              "楊安國",
+              "家楷"
+            ],
+            [
+              "葉秉良",
+              "叔眉"
+            ],
+            [
+              "方震餘",
+              "善初"
+            ],
+            [
+              "王培坤",
+              "厚卿"
+            ],
+            [
+              "陸思圻",
+              ""
+            ],
+            [
+              "秦開",
+              "殿卿"
+            ],
+            [
+              "羅泰榮",
+              "紳伯"
+            ]
+          ],
+          "order": 3000,
+          "kind": "namepair"
+        },
+        {
+          "id": "p033-tab04",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "周銃圭",
+              "季歡"
+            ],
+            [
+              "羅寶坰",
+              "葆君"
+            ],
+            [
+              "應其欽",
+              "慶泰"
+            ],
+            [
+              "鄭敏",
+              "魯臣"
+            ],
+            [
+              "尹聯華",
+              "鏞聲"
+            ],
+            [
+              "俞昌大",
+              "元生"
+            ],
+            [
+              "林嵒言",
+              "欽璧"
+            ],
+            [
+              "徐繩武",
+              "可城"
+            ],
+            [
+              "胡蓮雛",
+              "斐卿"
+            ],
+            [
+              "何勛",
+              "欽耻"
+            ],
+            [
+              "翁傳瑛",
+              "企望"
+            ],
+            [
+              "潘鳳九",
+              "憲孫"
+            ],
+            [
+              "秦佑廷",
+              ""
+            ],
+            [
+              "徐瀾",
+              "芝麟"
+            ]
+          ],
+          "order": 4500,
+          "kind": "namepair"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "磨損的複筆姓名先按可見部件讀，待回圖對應筆畫。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p034",
+      "image": 34,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=34",
+      "source_sha256": "9e80b6fb82c2af7a79d14ea38bbe4c43fe76a099f80d1b605dfe5f23c5a23716",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 90696,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p034-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十",
+          "order": 6000,
+          "bbox": null
+        },
+        {
+          "id": "p034-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 6100,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p034-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "洪允祥",
+              "樵苓"
+            ],
+            [
+              "馮度",
+              "威博"
+            ],
+            [
+              "馮善富",
+              "安曾"
+            ],
+            [
+              "周秉眞",
+              "野鹿"
+            ],
+            [
+              "應松筠",
+              "茂生"
+            ],
+            [
+              "洪翥",
+              "德蕃"
+            ],
+            [
+              "王仁佑",
+              "樹成"
+            ],
+            [
+              "童詢霖",
+              ""
+            ],
+            [
+              "張建隆",
+              "本源"
+            ],
+            [
+              "孫彬如",
+              ""
+            ],
+            [
+              "顧釗",
+              "元琛"
+            ],
+            [
+              "陳崇愷",
+              "雲門"
+            ],
+            [
+              "蔡上濬",
+              "仲明"
+            ],
+            [
+              "袁曾潮",
+              "伯信"
+            ]
+          ],
+          "order": 0,
+          "kind": "namepair"
+        },
+        {
+          "id": "p034-tab02",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "費紹冠",
+              "冕卿"
+            ],
+            [
+              "馮宜椿",
+              "慶恆"
+            ],
+            [
+              "錢保放",
+              "貢甫"
+            ],
+            [
+              "羅振常",
+              "棟源"
+            ],
+            [
+              "應開忠",
+              "尹卿"
+            ],
+            [
+              "洪家頤",
+              "壽蔭"
+            ],
+            [
+              "王唐音",
+              "琴樂"
+            ],
+            [
+              "童錦吾",
+              ""
+            ],
+            [
+              "李鏡第",
+              "霞城"
+            ],
+            [
+              "史錫華",
+              "丕揚"
+            ],
+            [
+              "顧寶楚",
+              ""
+            ],
+            [
+              "朱煥",
+              "藩生"
+            ],
+            [
+              "蔡上澤",
+              "叔霖"
+            ],
+            [
+              "盛鑑襄",
+              "遙偉"
+            ]
+          ],
+          "order": 1500,
+          "kind": "namepair"
+        },
+        {
+          "id": "p034-tab03",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "何其樞",
+              "璇卿"
+            ],
+            [
+              "馮淵",
+              "知先"
+            ],
+            [
+              "錢薔舫",
+              ""
+            ],
+            [
+              "董維城",
+              "槐青"
+            ],
+            [
+              "洪曰泯",
+              "左湖"
+            ],
+            [
+              "洪維猷",
+              "甄宜"
+            ],
+            [
+              "裘慶照",
+              "昌如"
+            ],
+            [
+              "童錦蔚",
+              "金輝"
+            ],
+            [
+              "李士鋆",
+              "韻標"
+            ],
+            [
+              "稽廷元",
+              "霽聞"
+            ],
+            [
+              "嚴寶珍",
+              "森庭"
+            ],
+            [
+              "朱鳳翎",
+              "欽臣"
+            ],
+            [
+              "畢蘊敏",
+              "學卿"
+            ],
+            [
+              "費相瑗",
+              "子佩"
+            ]
+          ],
+          "order": 3000,
+          "kind": "namepair"
+        },
+        {
+          "id": "p034-tab04",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "嚴義彬",
+              "子均"
+            ],
+            [
+              "馮貞舉",
+              "孟顯"
+            ],
+            [
+              "錢保璇女士",
+              ""
+            ],
+            [
+              "應華官",
+              ""
+            ],
+            [
+              "洪承祁",
+              "競健"
+            ],
+            [
+              "洪文鐸",
+              "詠筌"
+            ],
+            [
+              "童國炳",
+              "友谷"
+            ],
+            [
+              "魏錫萃",
+              "茹香"
+            ],
+            [
+              "翁玉如",
+              ""
+            ],
+            [
+              "俞鴻楙",
+              "穆卿"
+            ],
+            [
+              "嚴循經",
+              ""
+            ],
+            [
+              "蔡上治",
+              "伯均"
+            ],
+            [
+              "畢蘊慎",
+              "景甫"
+            ],
+            [
+              "沈鴻照",
+              ""
+            ]
+          ],
+          "order": 4500,
+          "kind": "namepair"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「畢蘊敏」名下似低一小組字跡，等第二讀分辨為版式／原筆或後加。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p035",
+      "image": 35,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=35",
+      "source_sha256": "05686044b411289f2377eec341e39d3645d8309da557019111f0b10890391fdd",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 20801,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p035-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十一",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p035-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 600,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p035-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "沈輔卿",
+              ""
+            ],
+            [
+              "邵斌",
+              "善微"
+            ],
+            [
+              "徐鍾騮",
+              "子稱"
+            ],
+            [
+              "趙家蓀",
+              "芝室"
+            ],
+            [
+              "邵繐裳",
+              "靜山"
+            ]
+          ],
+          "order": 0,
+          "kind": "namepair"
+        }
+      ],
+      "layer_states": {
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p036",
+      "image": 36,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=36",
+      "source_sha256": "214095e829c35b2d71ed27a5d74673109bb3df067408137406f7f39f2e4ac73b",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 18376,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p036-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十二",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p036-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 200,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "folio": "complete",
+        "running": "complete",
+        "figure_labels": "absent-after-visual-check"
+      },
+      "reading_questions": [],
+      "layout_notes": [
+        "僅版心、原頁碼與花草飾圖；飾圖內無字。"
+      ],
+      "figures": [
+        {
+          "id": "p036-fig01",
+          "description": "中央花草飾圖。",
+          "bbox": [
+            405,
+            721,
+            581,
+            965
+          ],
+          "labels_checked": true,
+          "labels_present": false
+        }
+      ]
+    },
+    {
+      "page_id": "p037",
+      "image": 37,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=37",
+      "source_sha256": "5a0ab0e125facabb6d1c2c7de96972147fbc03d50ca6e3ed1b4dcd7c372f6e3b",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 100820,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p037-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "第五次常會修正保黎醫會章程",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p037-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "第一條　本會以使一般人民減除疾痛漸臻康強為目的",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p037-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "第二條　為達前條之目的由會中籌費設立醫院一所卽名曰保黎醫院",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p037-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "第三條　凡贊成本會宗旨而克盡第十條之義務者得為本會會員",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p037-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "第四條　本會之職員如左",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p037-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "（一）總董一人綜理會務由董事互選任之",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p037-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "（二）董事無定員輔佐總董處理會務凡會員願盡第九條第四項之義務者均為董事",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p037-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "（三）醫院院長兼醫士一人掌醫院內一切事務由董事會延聘",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p037-c009",
+          "kind": "body",
+          "layer": "body",
+          "text": "（四）醫士若干人稟承院長掌醫病調藥事宜由院長商同董事會延聘",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p037-c010",
+          "kind": "body",
+          "layer": "body",
+          "text": "（五）醫院幹事一人稟承院長掌醫院之庶務由院長商同董事會延聘",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p037-c011",
+          "kind": "body",
+          "layer": "body",
+          "text": "（六）會計一人掌本會經費之出入由會員公舉",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p037-c012",
+          "kind": "body",
+          "layer": "body",
+          "text": "第五條　各職員之任期均為一年",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p037-c013",
+          "kind": "body",
+          "layer": "body",
+          "text": "第六條　每年三月九月由總董擇日通告各會員開大會一次但有特別事故得開臨時",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p037-c014",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十三",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p037-c015",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1400,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "heading": "complete",
+        "body": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p038",
+      "image": 38,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=38",
+      "source_sha256": "3bc1850979d952ebf824459c60bb53ef7e0ff86bebc3998cc9ebcb5cbe892598",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 64333,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p038-c001",
+          "kind": "body",
+          "layer": "body",
+          "text": "會",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p038-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "第七條　決議事件以得到會員過半數之贊成為有效",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p038-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "第八條　左列事項於大會時議決之",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p038-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "（一）本會收入支出之決算",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p038-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "（二）醫院舍之建築",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p038-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "（三）貴重醫具之購置",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p038-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "（四）其他關於臨時歲出經費之支出",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p038-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "第九條　左列事項由董事會掌之",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p038-c009",
+          "kind": "body",
+          "layer": "body",
+          "text": "（一）本會經常歲出入經費之預算",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p038-c010",
+          "kind": "body",
+          "layer": "body",
+          "text": "（二）第四條所列關於董事會職掌之事件",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p038-c011",
+          "kind": "body",
+          "layer": "body",
+          "text": "（三）徵集各項報告印送於各會員",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p038-c012",
+          "kind": "body",
+          "layer": "body",
+          "text": "（四）經常歲出經費不足由各董事平均分擔籌補",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p038-c013",
+          "kind": "body",
+          "layer": "body",
+          "text": "第十條　會員年納會費銀拾元",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p038-c014",
+          "kind": "body",
+          "layer": "body",
+          "text": "第十一條　會費用途須經大會之議決",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p038-c015",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十四",
+          "order": 1400,
+          "bbox": null
+        },
+        {
+          "id": "p038-c016",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1500,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "body": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p039",
+      "image": 39,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=39",
+      "source_sha256": "ca1705ae18f340868ff6b47ab918c4f6aed9827f9f8c76f8ddeb3ca9ea62246f",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 52151,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p039-c001",
+          "kind": "body",
+          "layer": "body",
+          "text": "第十二條　會員得享左列之權利",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p039-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "（一）每會員每年得向本會領門診免費券五張凡貧病無力醫治者各會員得給與該",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p039-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "券經院長查驗後卽得免費",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p039-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "（二）每會員每年贈以優先券五張醫院門診日期持此券有提前請診之權",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p039-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "第十三條　會員既經入會三年內不得出會但有特別事故經大會時公認者不在此例",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p039-c006",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十五",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p039-c007",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 600,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "body": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p040",
+      "image": 40,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=40",
+      "source_sha256": "8f4a8494a3171bcf0bd1ce8a49dd705986558a8f6b45c99510811773a6ec8b10",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 17674,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p040-c001",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十六",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p040-c002",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 200,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "folio": "complete",
+        "running": "complete",
+        "figure_labels": "absent-after-visual-check"
+      },
+      "reading_questions": [],
+      "layout_notes": [
+        "僅版心、原頁碼與花卉飾圖；飾圖內無字。"
+      ],
+      "figures": [
+        {
+          "id": "p040-fig01",
+          "description": "中央花卉飾圖。",
+          "bbox": [
+            390,
+            607,
+            569,
+            859
+          ],
+          "labels_checked": true,
+          "labels_present": false
+        }
+      ]
+    },
+    {
+      "page_id": "p041",
+      "image": 41,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=41",
+      "source_sha256": "762ba7660dce5d5c4ca3e68bfa5bdde866bf4f49e8cfb1ea322b6dc10e2d31b3",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 95705,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p041-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "第五次常會修正保黎醫院診例",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p041-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "一每日上午九時至十二時為門診時間下午一時至四時為出診時間",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p041-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "一逢禮拜二禮拜五門診時間每人取號金五十文藥資小洋壹角",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p041-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "一除禮拜二五兩日外餘日之門診時間每人取醫金小洋三角藥資照原價酌收",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p041-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "一本院特備優先券一種每張售洋壹元持此券者門診時間得享優先診治之權利",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p041-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "一除優先券外診治次第以籌號先後為準不得凌越",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p041-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "一出診掛號以上午十二點鐘為限並須詳報病狀以便隨帶藥料",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p041-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "一出診醫金依路之遠近定之",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p041-c009",
+          "kind": "body",
+          "layer": "body",
+          "text": "列表如下",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p041-c010",
+          "kind": "body",
+          "layer": "body",
+          "text": "一星夜出診及救治服毒藥金照上率加倍",
+          "order": 1700,
+          "bbox": null
+        },
+        {
+          "id": "p041-c011",
+          "kind": "body",
+          "layer": "body",
+          "text": "一出診只及本人但同居親屬請求帶診者每名收醫費洋壹元",
+          "order": 1800,
+          "bbox": null
+        },
+        {
+          "id": "p041-c012",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十七",
+          "order": 1900,
+          "bbox": null
+        },
+        {
+          "id": "p041-c013",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 2000,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p041-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "城內",
+              "一元"
+            ],
+            [
+              "七里",
+              "二元"
+            ],
+            [
+              "十五里",
+              "三元"
+            ],
+            [
+              "二十里",
+              "四元"
+            ],
+            [
+              "二十五里",
+              "五元"
+            ],
+            [
+              "三十里",
+              "六元"
+            ],
+            [
+              "三十五里",
+              "七元"
+            ],
+            [
+              "四十里",
+              "八元"
+            ]
+          ],
+          "order": 900,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "body": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p042",
+      "image": 42,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=42",
+      "source_sha256": "f369895231de5198cd12f05b1d2c848f7ce2ebb503d6f676ae7fb292594033b8",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 78316,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p042-c001",
+          "kind": "body",
+          "layer": "body",
+          "text": "一接收難產照出診例外加收手術費洋拾元",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p042-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "一必須住院醫治之疾病人須覓妥實保人并具願書方可進院其每月應納之費如左",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p042-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "一住院病人如欲隨帶僕役每月出膳費四元",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p042-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "一住院病人進門時須先付十日之費以後每十日一結其住院未滿十日者亦須照繳十",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p042-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "日之費",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p042-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "一重要外科不論門診出診住院均須酌收手術費",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p042-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "一凡來院種痘者每名取苗洋二角若延請到家照出診例計算",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p042-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "一貧乏之家經會員之證明院長之許可得減收其醫藥費",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p042-c009",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十八",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p042-c010",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1200,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p042-tab01",
+          "title": "",
+          "value_labels": [],
+          "rows": [
+            [
+              "普通病房",
+              "每月收醫費住宿費六元藥費不取"
+            ],
+            [
+              "二等病房",
+              "每月收醫費住宿費十二元藥費照算"
+            ],
+            [
+              "頭等病房",
+              "每月收醫費住宿費二十二元藥費照算"
+            ]
+          ],
+          "order": 200,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "body": "complete",
+        "table": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p043",
+      "image": 43,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=43",
+      "source_sha256": "ed991a797aa172dc411288d3dbe3d0f90e4fbda244861921493212c90dc6b4be",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 107516,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p043-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "紀事",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p043-c002",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "醫院之自立",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p043-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "醫院組織之始。以絀於資故。與吳君蓮艇約。每年津貼吳貳百金。為飲食資。而器械藥料診",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p043-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "金。出入贏絀。皆由吳自任。約以三年為期。癸丑春。三年期滿。是時新建病房適落成。規模既",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p043-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "大。所需經費自多。未能更以前事責吳君。二年三月。開會討論其事。議者有曰。醫院無鉅萬",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p043-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "基本金。終無持久望。為今之計。當以會員會費及捐募所得。積為基本金。而醫院常費之不",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p043-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "足。宜別籌方法以彌補之。於是乃議決分經費為經常臨時二部。建築器械等費。為臨時費。",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p043-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "由會中捐募所得之特捐充之。薪水藥料膳食等費。為經常費。院中所收醫藥費之外。如尚",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p043-c009",
+          "kind": "body",
+          "layer": "body",
+          "text": "不足。由董事會擔任之。會員會費及臨時門餘款。均積為基本金。以鞏固其基礎。四月。董事",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p043-c010",
+          "kind": "body",
+          "layer": "body",
+          "text": "會成立。乃以五月朔新病房遷入之日。為自立開始之第一日。而前三年中吳君所置之器",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p043-c011",
+          "kind": "body",
+          "layer": "body",
+          "text": "械藥料。皆由醫會備價購回焉。",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p043-c012",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "女病房之建築",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p043-c013",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "三十九",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p043-c014",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1400,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "heading": "complete",
+        "body": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「臨時門餘款」疑似門或問，原處詞義待核。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p044",
+      "image": 44,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=44",
+      "source_sha256": "37e4c782dafaed08f559bf531de4e51190648c12ba24bca8fe63fc7c88b295a5",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 98827,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p044-c001",
+          "kind": "body",
+          "layer": "body",
+          "text": "男病房既落成。而女病房亦未能聽其苟焉不備也。於是就男病房東北隅隙地。構樓屋四",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p044-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "楹。以居婦女之治病者。舊有之地不足。則購葉氏田以益之。屋以二月作始。四月竣工。",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p044-c003",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "九月常會記事",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p044-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "九月七日。開第五次常會。議決事件如左。",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p044-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "（一）議男女普通病房。所以優惠貧病之人。每名每月收費七元。倘嫌太鉅。議決減除壹元。",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p044-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "每名每月收費六元。",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p044-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "（二）議出診醫金定價太昂。以致鄉間病家。不敢延請。議決照原定表減半。而將診例第七",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p044-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "條覆診減半四字刪去。",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p044-c009",
+          "kind": "body",
+          "layer": "body",
+          "text": "（三）議會員入會。全為公益起見。若所享權利太重。迹近自私。議決將會章第十二條第三",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p044-c010",
+          "kind": "body",
+          "layer": "body",
+          "text": "項刪除。",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p044-c011",
+          "kind": "body",
+          "layer": "body",
+          "text": "（四）議新屋落成。不能不開會以紀念之。議決十月十日下午開落成紀念會。",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p044-c012",
+          "kind": "body",
+          "layer": "body",
+          "text": "（五）本年臨時支出費。不敷千餘元。議決暫於基本金項下借用。待籌有特捐。卽行歸還。",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p044-c013",
+          "kind": "body",
+          "layer": "body",
+          "text": "（六）議決常會日期。每年三月九月兩期舉行。",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p044-c014",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "落成紀念會紀事",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p044-c015",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "四十",
+          "order": 1500,
+          "bbox": null
+        },
+        {
+          "id": "p044-c016",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1600,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "body": "complete",
+        "heading": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「以益之」按本幅目驗，冊末勘誤表原載對照；不默套。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p045",
+      "image": 45,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=45",
+      "source_sha256": "958eee0fa2ed87b4ceac31b04c2fded6abcf411b3fdf3695aa92c28966a2e286",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 140904,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p045-c001",
+          "kind": "body",
+          "layer": "body",
+          "text": "十月初十日。行新舍落成紀念會。申甬各報。均經記載。而以四明日報所載。為不謬於事實。",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p045-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "茲將該報所記。轉載於左。以資觀覽焉。",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p045-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "保黎醫院添築新舍。於雙十節行落成禮。是日適值國慶紀念之期。各學校俱放假。前往觀",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p045-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "禮者更形擁擠。計中西男女來賓約四五百人。會場在院側保黎醫會事務所內。佈置周密。",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p045-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "秩序整齊。高懸甬上中等工業學校自造五十支燭光汽油燈一架。光亮明耀。尤為奇特。而",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p045-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "各處贈獻品頗多。不及枚舉。午後一時振鈴開會。軍樂隊奏樂後。首由會長錢吟葦君述開",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p045-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "會辭。將該院成立之原因。歷年之成績。院長吳蓮艇君之熱心。會員陳謙夫君等建築時之",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p045-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "勤勞。以及捐助經費諸大善士之慷慨。一一報告。併望自茲以後。諸會員仍行協力維持。以",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p045-c009",
+          "kind": "body",
+          "layer": "body",
+          "text": "期該院達到完全目的。誠誠懇懇。千有餘言。聽者均為動容。嗣由縣知事金吟谷君演說。略",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p045-c010",
+          "kind": "body",
+          "layer": "body",
+          "text": "謂該院落成之日。適為正式大總統履任之期。中華民國。開萬年有道之基。卽保黎醫院垂",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p045-c011",
+          "kind": "body",
+          "layer": "body",
+          "text": "百世長存之光。活國活人。兩相比較。并將該院直接間接之關係。客觀主觀之感念。闡發無",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p045-c012",
+          "kind": "body",
+          "layer": "body",
+          "text": "遺。而於各鄉各邑之聞風興起。尤三注意。一時掌聲雷動。極表歡迎。嗣由宋牧師演說。滔滔",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p045-c013",
+          "kind": "body",
+          "layer": "body",
+          "text": "汩汩。層出不窮。婆心苦口。喚醒癡迷。而能不拋本題。於西醫之優點。該院之特色。均曲為道",
+          "order": 1200,
+          "bbox": null
+        },
+        {
+          "id": "p045-c014",
+          "kind": "body",
+          "layer": "body",
+          "text": "出。殊覺動人聽聞。嗣由西賓蘭雅谷醫士演說。略謂該院可賀之點有三。中國內地人民。多",
+          "order": 1300,
+          "bbox": null
+        },
+        {
+          "id": "p045-c015",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "四十一",
+          "order": 1500,
+          "bbox": null
+        },
+        {
+          "id": "p045-c016",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1600,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "body": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [
+        "「尤三注意」小字首讀未定。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p046",
+      "image": 46,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=46",
+      "source_sha256": "9d373a40e6f63d9008fb1e6631eb7562909f5dba735e1472fbe227f0a96d45fc",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 109364,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p046-c001",
+          "kind": "body",
+          "layer": "body",
+          "text": "不知西醫之善。而慈谿人獨能深信不疑。發起斯院。知識實加人一等。此可賀者一。中國人",
+          "order": 0,
+          "bbox": null
+        },
+        {
+          "id": "p046-c002",
+          "kind": "body",
+          "layer": "body",
+          "text": "性多鄙吝。雖明知醫院為慈善之事業。而吝於出費。今慈谿人獨能集成鉅款。創造斯院。熱",
+          "order": 100,
+          "bbox": null
+        },
+        {
+          "id": "p046-c003",
+          "kind": "body",
+          "layer": "body",
+          "text": "心亦加人一等。此可賀者二。中國人知西醫者鮮。知醫而能立品者尤鮮。醫院雖成。而主任",
+          "order": 200,
+          "bbox": null
+        },
+        {
+          "id": "p046-c004",
+          "kind": "body",
+          "layer": "body",
+          "text": "不得其人。轉足為累。今慈谿人獨能聘請吳君蓮艇為院長。其學術品行均加人一等。此可",
+          "order": 300,
+          "bbox": null
+        },
+        {
+          "id": "p046-c005",
+          "kind": "body",
+          "layer": "body",
+          "text": "賀者三。辭簡意賅。聽者均為鼓掌。嗣由徐公俠君。何曼君。相繼演說。均能就本題立論。加以",
+          "order": 400,
+          "bbox": null
+        },
+        {
+          "id": "p046-c006",
+          "kind": "body",
+          "layer": "body",
+          "text": "旁徵曲引。大聲疾呼。發人深省。終由院長吳君蓮艇。會長錢君吟葦。致謝辭。吳君則謙謙有",
+          "order": 500,
+          "bbox": null
+        },
+        {
+          "id": "p046-c007",
+          "kind": "body",
+          "layer": "body",
+          "text": "容。不敢自滿。錢君則殷殷致意。感謝來賓。遂奏軍樂。振鈴散會。由交際幹事。延來賓入醫院",
+          "order": 600,
+          "bbox": null
+        },
+        {
+          "id": "p046-c008",
+          "kind": "body",
+          "layer": "body",
+          "text": "茶點。攝影。盡歡而散。已鐘鳴五下。",
+          "order": 700,
+          "bbox": null
+        },
+        {
+          "id": "p046-c009",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "助器誌謝",
+          "order": 800,
+          "bbox": null
+        },
+        {
+          "id": "p046-c010",
+          "kind": "body",
+          "layer": "body",
+          "text": "博聞社圖書社解散後社中所存器具。有大菜桌溫州椅籐椅玻璃櫥小圓桌七石缸玻窗",
+          "order": 900,
+          "bbox": null
+        },
+        {
+          "id": "p046-c011",
+          "kind": "body",
+          "layer": "body",
+          "text": "磁痰盂等計六十餘件經該社諸君議決儘數移助本會特此誌謝",
+          "order": 1000,
+          "bbox": null
+        },
+        {
+          "id": "p046-c012",
+          "kind": "folio",
+          "layer": "folio",
+          "text": "四十二",
+          "order": 1100,
+          "bbox": null
+        },
+        {
+          "id": "p046-c013",
+          "kind": "running",
+          "layer": "running",
+          "text": "保黎醫院報告",
+          "order": 1200,
+          "bbox": null
+        }
+      ],
+      "tables": [],
+      "layer_states": {
+        "body": "complete",
+        "heading": "complete",
+        "folio": "complete",
+        "running": "complete"
+      },
+      "reading_questions": [],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p047",
+      "image": 47,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=47",
+      "source_sha256": "c36585d4b223f33acfc251e25263ad4ff03cdafe7a9883c4a6a82874e155dd47",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 40859,
+      "layout_reviewed": true,
+      "units": [
+        {
+          "id": "p047-c001",
+          "kind": "heading",
+          "layer": "heading",
+          "text": "勘誤表",
+          "order": 0,
+          "bbox": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "p047-tab01",
+          "title": "",
+          "value_labels": [
+            "頁碼",
+            "行數",
+            "誤",
+            "正"
+          ],
+          "rows": [
+            [
+              "八",
+              "八",
+              "凍青樹",
+              "冬青樹"
+            ],
+            [
+              "十",
+              "八",
+              "洋五百六十元",
+              "洋五百八十元"
+            ],
+            [
+              "十",
+              "九",
+              "洋五千八百七十八元",
+              "五千八百九十八元"
+            ],
+            [
+              "十三",
+              "二",
+              "洋五千八百七十八元",
+              "五千八百九十八元"
+            ],
+            [
+              "十四",
+              "一",
+              "孫叔申",
+              "應叔申"
+            ],
+            [
+              "十四",
+              "二",
+              "徐鍾麟",
+              "徐鍾驎"
+            ],
+            [
+              "十八",
+              "十",
+              "慎成木行",
+              "慎成木號"
+            ],
+            [
+              "十九",
+              "八",
+              "陳慎思君",
+              "陳慎思居"
+            ],
+            [
+              "二十一",
+              "四",
+              "翁文椒女士",
+              "翁文淑女士"
+            ],
+            [
+              "二十二",
+              "十三",
+              "李柏林君",
+              "呂柏林君"
+            ],
+            [
+              "二十三",
+              "八",
+              "下同上二字衍",
+              ""
+            ],
+            [
+              "四十",
+              "二",
+              "則購葉氏田以蓋之",
+              "則購葉氏田以益之"
+            ],
+            [
+              "十三",
+              "二",
+              "洋八十元",
+              "一百元"
+            ]
+          ],
+          "order": 200,
+          "kind": "table"
+        }
+      ],
+      "layer_states": {
+        "heading": "complete",
+        "table": "complete"
+      },
+      "reading_questions": [
+        "徐鍾字後的兩個異體，原刻差異與碼位待核。末行異次序依圖保留。"
+      ],
+      "layout_notes": []
+    },
+    {
+      "page_id": "p048",
+      "image": 48,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=48",
+      "source_sha256": "f1d30fb41ce4c231e97696ebf062276bd435569ad55d327dab08568061548b49",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 14095,
+      "layout_reviewed": true,
+      "units": [],
+      "tables": [],
+      "layer_states": {
+        "later_marks": "excluded-by-policy",
+        "original_text": "absent-after-visual-check"
+      },
+      "reading_questions": [],
+      "layout_notes": [],
+      "blank": "末幅僅後加館藏手寫標記，無可見原刊文字"
+    }
+  ],
+  "image_count": 48,
+  "main_range": [
+    2,
+    47
+  ],
+  "source_pdf_sha256": "a6cb713a5eda98dd0e53a82059bd04d51a32c3c0192bd768b9c29191f5bb2c9a",
+  "notes_zh": "《保黎醫會報告》記錄浙江慈城保黎醫院癸丑年（1913）的院務成績、會計帳、捐助名錄、會務章程、院規及紀事。底本為中國國家圖書館 08jh011040／25506，掃描含封面、照片圖說、逐欄正文和逐格帳表，48 幅皆保留定位。",
+  "notes_en": "This fourth report of the Baoli Medical Association at Cicheng, Zhejiang, records the hospital’s 1913 activities through monthly statistics, accounts, donors’ and members’ names, bylaws, administrative rules and building captions. The catalog estimates publication in 1914. Every transcribed scan has a source locator.",
+  "corrections": [
+    "影像 2：照相圖上屋頂另有數字位置但二值掃描不清；保留可確定的六與十，其他待細圖核。外側影印方章排除。",
+    "影像 6：「用安藥」中間字暫讀安，待對圖。",
+    "影像 7：（丑）特捐金額尾段與小字人名待回圖。",
+    "影像 10：「像柴爐」、「蘆簾鐵錫」、「念五」暫讀，待核字形。",
+    "影像 11：（戊）第二列有雙行小注，末段字形未定，須拆兩小欄放大核。",
+    "影像 16：（己）三項所列附印任存現數，算式與後幅小計需再核。",
+    "影像 17：馮孟顯、馮今昧琴等姓名與三列後注「壬子」回圖確認。",
+    "影像 20：多處來款者雙行小字字形及次序待覆核，包括首項、兩筆第四中學校長及羅門張氏。",
+    "影像 22：「慎成木行」冊末勘誤表有正誤對照；原表與勘誤分別留錄。",
+    "影像 25：「翁文椒女士」按原表，末幅勘誤列同處姓名改讀。保留來源異文並排。",
+    "影像 26：按原表「李柏林君」；末幅勘誤列另讀。未改正文。",
+    "影像 31：分排主名與下側名號欄；未將字號或職位外推。筆畫密會員姓名待回圖。",
+    "影像 32：若干名號無法確認本圖原字的細部，待獨立回圖，不靠前代名錄強改。",
+    "影像 33：磨損的複筆姓名先按可見部件讀，待回圖對應筆畫。",
+    "影像 34：「畢蘊敏」名下似低一小組字跡，等第二讀分辨為版式／原筆或後加。",
+    "影像 43：「臨時門餘款」疑似門或問，原處詞義待核。",
+    "影像 44：「以益之」按本幅目驗，冊末勘誤表原載對照；不默套。",
+    "影像 45：「尤三注意」小字首讀未定。",
+    "影像 47：徐鍾字後的兩個異體，原刻差異與碼位待核。末行異次序依圖保留。",
+    "原刊以「癸丑第四次刊布」題簽定位。第 14 幅另記民國二年五月一日起至三年一月三十一日止。",
+    "第 2 幅為側排影像，以轉正工作圖讀標示。原圖連結和頁序沿來源 PDF。未把書上後加館章、架號和識別標記當原刊文字。",
+    "目驗原刊表格所見空欄不補零。收支差額及勘誤表所列的正誤都應並存，第二輪以前不得據計算自行改寫。",
+    "圖版像素未打包。照片框內的原刊字樣及框外的原題分列；第 2 幅屋頂淺色細小部分仍有疑字。",
+    "封底有後加館藏管理記號，未見原刊文字。保留影像定位供核。"
+  ],
+  "keywords": [
+    "醫學史",
+    "慈城",
+    "保黎醫院",
+    "醫療慈善",
+    "院務報告",
+    "會計報告",
+    "medical history",
+    "Cicheng",
+    "hospital annual reports",
+    "medical philanthropy",
+    "donor registers"
+  ],
+  "year_label": "約1914年（原刊題癸丑，報告1913年）",
+  "quality_summary": "全冊 AI 輔助初錄。原刊本文、表格、圖中文字與勘誤按底本分層，後加館藏記號另列位置。疑讀已標記，尚待人工逐字判讀。"
+}

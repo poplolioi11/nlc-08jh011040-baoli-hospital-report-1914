@@ -1,0 +1,3730 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>保黎醫會報告</title>
+        <title type="translated">Baoli Yihui Baogao [Report of the Baoli Hospital Association]</title>
+        <author>保黎醫會</author>
+        <respStmt>
+          <resp>數位轉錄整理</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">曲宸宇</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>曲宸宇</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">原刊公有領域。</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">新撰編輯說明與資料編碼採 CC BY 4.0。</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>保黎醫會報告</title>
+          <publisher>保黎醫會</publisher>
+          <pubPlace>浙江慈城</pubPlace>
+          <date when="1914">約1914年（原刊題癸丑，報告1913年）</date>
+          <idno type="shelfmark">中國國家圖書館 08jh011040／25506</idno>
+          <ref target="https://commons.wikimedia.org/?curid=130965192" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" xml:id="page-1">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=1" />
+    </surface>
+    <surface n="2" xml:id="page-2">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=2" />
+    </surface>
+    <surface n="3" xml:id="page-3">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=3" />
+    </surface>
+    <surface n="4" xml:id="page-4">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=4" />
+    </surface>
+    <surface n="5" xml:id="page-5">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=5" />
+    </surface>
+    <surface n="6" xml:id="page-6">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=6" />
+    </surface>
+    <surface n="7" xml:id="page-7">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=7" />
+    </surface>
+    <surface n="8" xml:id="page-8">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=8" />
+    </surface>
+    <surface n="9" xml:id="page-9">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=9" />
+    </surface>
+    <surface n="10" xml:id="page-10">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=10" />
+    </surface>
+    <surface n="11" xml:id="page-11">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=11" />
+    </surface>
+    <surface n="12" xml:id="page-12">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=12" />
+    </surface>
+    <surface n="13" xml:id="page-13">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=13" />
+    </surface>
+    <surface n="14" xml:id="page-14">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=14" />
+    </surface>
+    <surface n="15" xml:id="page-15">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=15" />
+    </surface>
+    <surface n="16" xml:id="page-16">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=16" />
+    </surface>
+    <surface n="17" xml:id="page-17">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=17" />
+    </surface>
+    <surface n="18" xml:id="page-18">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=18" />
+    </surface>
+    <surface n="19" xml:id="page-19">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=19" />
+    </surface>
+    <surface n="20" xml:id="page-20">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=20" />
+    </surface>
+    <surface n="21" xml:id="page-21">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=21" />
+    </surface>
+    <surface n="22" xml:id="page-22">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=22" />
+    </surface>
+    <surface n="23" xml:id="page-23">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=23" />
+    </surface>
+    <surface n="24" xml:id="page-24">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=24" />
+    </surface>
+    <surface n="25" xml:id="page-25">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=25" />
+    </surface>
+    <surface n="26" xml:id="page-26">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=26" />
+    </surface>
+    <surface n="27" xml:id="page-27">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=27" />
+    </surface>
+    <surface n="28" xml:id="page-28">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=28" />
+    </surface>
+    <surface n="29" xml:id="page-29">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=29" />
+    </surface>
+    <surface n="30" xml:id="page-30">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=30" />
+    </surface>
+    <surface n="31" xml:id="page-31">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=31" />
+    </surface>
+    <surface n="32" xml:id="page-32">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=32" />
+    </surface>
+    <surface n="33" xml:id="page-33">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=33" />
+    </surface>
+    <surface n="34" xml:id="page-34">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=34" />
+    </surface>
+    <surface n="35" xml:id="page-35">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=35" />
+    </surface>
+    <surface n="36" xml:id="page-36">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=36" />
+    </surface>
+    <surface n="37" xml:id="page-37">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=37" />
+    </surface>
+    <surface n="38" xml:id="page-38">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=38" />
+    </surface>
+    <surface n="39" xml:id="page-39">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=39" />
+    </surface>
+    <surface n="40" xml:id="page-40">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=40" />
+    </surface>
+    <surface n="41" xml:id="page-41">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=41" />
+    </surface>
+    <surface n="42" xml:id="page-42">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=42" />
+    </surface>
+    <surface n="43" xml:id="page-43">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=43" />
+    </surface>
+    <surface n="44" xml:id="page-44">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=44" />
+    </surface>
+    <surface n="45" xml:id="page-45">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=45" />
+    </surface>
+    <surface n="46" xml:id="page-46">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=46" />
+    </surface>
+    <surface n="47" xml:id="page-47">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=47" />
+    </surface>
+    <surface n="48" xml:id="page-48">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/54/NLC416-08jh011040-25506_%E4%BF%9D%E9%BB%8E%E9%86%AB%E6%9C%83%E5%A0%B1%E5%91%8A.pdf#page=48" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="historical-transcription">
+        <pb n="1" facs="#page-1" />
+        <ab type="heading" n="p001-c001">保黎醫會</ab>
+        <ab type="heading" n="p001-c002">報告</ab>
+        <ab type="date" n="p001-c003">癸丑第四次刊布</ab>
+        <pb n="2" facs="#page-2" />
+        <ab type="caption" n="p002-c001">本院新舍攝影圖</ab>
+        <ab type="figure_label" n="p002-c002">（一）頭門</ab>
+        <ab type="figure_label" n="p002-c003">（二）學生臥室</ab>
+        <ab type="figure_label" n="p002-c004">（三）醫士住宅</ab>
+        <ab type="figure_label" n="p002-c005">（四）過路</ab>
+        <ab type="figure_label" n="p002-c006">（五）男病房</ab>
+        <ab type="figure_label" n="p002-c007">（六）厨房</ab>
+        <ab type="figure_label" n="p002-c008">（七）棧房</ab>
+        <ab type="figure_label" n="p002-c009">（八）過路</ab>
+        <ab type="figure_label" n="p002-c010">（九）院長住宅</ab>
+        <ab type="figure_label" n="p002-c011">（十）女病房</ab>
+        <ab type="figure_label" n="p002-c012">（十一）厠所</ab>
+        <ab type="figure_label" n="p002-c013">六</ab>
+        <ab type="figure_label" n="p002-c014">十</ab>
+        <pb n="3" facs="#page-3" />
+        <ab type="figure_label" n="p003-c001">保黎醫院落成典禮全體攝影</ab>
+        <ab type="caption" n="p003-c002">保黎醫院落成典禮來賓攝影</ab>
+        <pb n="4" facs="#page-4" />
+        <ab type="caption" n="p004-c001">頸瘤已割之攝影</ab>
+        <ab type="caption" n="p004-c002">頸瘤未割之攝影</ab>
+        <ab type="caption" n="p004-c003">放水臌</ab>
+        <pb n="5" facs="#page-5" />
+        <ab type="heading" n="p005-c001">癸丑年保黎醫院成績表</ab>
+        <table n="p005-tab01">
+          <row role="label">
+            <cell>月別</cell>
+            <cell>門診總數</cell>
+            <cell>出診</cell>
+            <cell>開瘡癤</cell>
+            <cell>脱牙齒</cell>
+            <cell>種牛痘</cell>
+            <cell>救服毒</cell>
+            <cell>放水腫</cell>
+          </row>
+          <row>
+            <cell>正</cell>
+            <cell>八百零三</cell>
+            <cell>十五</cell>
+            <cell>十三</cell>
+            <cell>十五</cell>
+            <cell />
+            <cell>一</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>二</cell>
+            <cell>六百四十六</cell>
+            <cell>十三</cell>
+            <cell>十七</cell>
+            <cell>十四</cell>
+            <cell>一</cell>
+            <cell />
+            <cell>二</cell>
+          </row>
+          <row>
+            <cell>三</cell>
+            <cell>一千六百六十一</cell>
+            <cell>三十一</cell>
+            <cell>二十五</cell>
+            <cell>五十八</cell>
+            <cell>一百二十五</cell>
+            <cell>二</cell>
+            <cell>四</cell>
+          </row>
+          <row>
+            <cell>四</cell>
+            <cell>一千七百七十二</cell>
+            <cell>三十</cell>
+            <cell>二十七</cell>
+            <cell>五十五</cell>
+            <cell>四十</cell>
+            <cell>二</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>五</cell>
+            <cell>一千六百五十七</cell>
+            <cell>七十五</cell>
+            <cell>四十一</cell>
+            <cell>八十六</cell>
+            <cell>七十六</cell>
+            <cell>一</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>六</cell>
+            <cell>一千二百五十八</cell>
+            <cell>四十九</cell>
+            <cell>二十三</cell>
+            <cell>九十九</cell>
+            <cell>二</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>七</cell>
+            <cell>一千三百八十一</cell>
+            <cell>三十四</cell>
+            <cell>三十</cell>
+            <cell>九十二</cell>
+            <cell />
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>八</cell>
+            <cell>一千二百八十七</cell>
+            <cell>四十</cell>
+            <cell>九十八</cell>
+            <cell>一百十二</cell>
+            <cell />
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>九</cell>
+            <cell>一千二百八十五</cell>
+            <cell>五十三</cell>
+            <cell>七十七</cell>
+            <cell>五十九</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>十</cell>
+            <cell>一千二百九十一</cell>
+            <cell>四十三</cell>
+            <cell>四十四</cell>
+            <cell>一百十一</cell>
+            <cell />
+            <cell />
+            <cell>二</cell>
+          </row>
+          <row>
+            <cell>十一</cell>
+            <cell>一千零二十四</cell>
+            <cell>四十四</cell>
+            <cell>十五</cell>
+            <cell>五十</cell>
+            <cell>一</cell>
+            <cell />
+            <cell>二</cell>
+          </row>
+          <row>
+            <cell>十二</cell>
+            <cell>八百二十九</cell>
+            <cell>二十五</cell>
+            <cell>二十七</cell>
+            <cell>四十五</cell>
+            <cell />
+            <cell />
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>總結</cell>
+            <cell>一萬四千八百九十四</cell>
+            <cell>四百五十二</cell>
+            <cell>四百三十</cell>
+            <cell>七百九十六</cell>
+            <cell>二百四十五</cell>
+            <cell>七</cell>
+            <cell>十五</cell>
+          </row>
+        </table>
+        <ab type="annotation" n="p005-c002">類別</ab>
+        <fw type="folio" n="p005-c003">一</fw>
+        <fw type="running" n="p005-c004">保黎醫院報告</fw>
+        <pb n="6" facs="#page-6" />
+        <table n="p006-tab01">
+          <row role="label">
+            <cell>收產</cell>
+            <cell>戒煙</cell>
+            <cell>用安藥之割症</cell>
+            <cell>用麻藥之割症</cell>
+            <cell>附註</cell>
+          </row>
+          <row>
+            <cell>二</cell>
+            <cell>三</cell>
+            <cell>一</cell>
+            <cell>一</cell>
+            <cell rows="6">住院男共計二百五十二人</cell>
+          </row>
+          <row>
+            <cell>三</cell>
+            <cell>二</cell>
+            <cell>二</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>二</cell>
+            <cell>三</cell>
+            <cell>四</cell>
+            <cell>九</cell>
+          </row>
+          <row>
+            <cell />
+            <cell>二</cell>
+            <cell>八</cell>
+            <cell>十五</cell>
+          </row>
+          <row>
+            <cell>二</cell>
+            <cell>十</cell>
+            <cell>三</cell>
+            <cell>十七</cell>
+          </row>
+          <row>
+            <cell />
+            <cell>八</cell>
+            <cell>五</cell>
+            <cell>六</cell>
+          </row>
+          <row>
+            <cell>二</cell>
+            <cell>七</cell>
+            <cell>五</cell>
+            <cell>七</cell>
+            <cell rows="7">女共計八十一人</cell>
+          </row>
+          <row>
+            <cell>二</cell>
+            <cell>五</cell>
+            <cell>四</cell>
+            <cell>六</cell>
+          </row>
+          <row>
+            <cell />
+            <cell />
+            <cell>六</cell>
+            <cell>六</cell>
+          </row>
+          <row>
+            <cell>四</cell>
+            <cell>三</cell>
+            <cell>五</cell>
+            <cell>七</cell>
+          </row>
+          <row>
+            <cell>二</cell>
+            <cell>十三</cell>
+            <cell>六</cell>
+            <cell>三</cell>
+          </row>
+          <row>
+            <cell>三</cell>
+            <cell>五</cell>
+            <cell>七</cell>
+            <cell>十</cell>
+          </row>
+          <row>
+            <cell>二十二</cell>
+            <cell>六十一</cell>
+            <cell>五十六</cell>
+            <cell>八十八</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p006-c001">二</fw>
+        <fw type="running" n="p006-c002">保黎醫院報告</fw>
+        <pb n="7" facs="#page-7" />
+        <ab type="heading" n="p007-c001">會計報告</ab>
+        <ab type="heading" n="p007-c002">癸丑年保黎醫會收支賬略</ab>
+        <ab type="heading" n="p007-c003">▲收入之部</ab>
+        <ab type="heading" n="p007-c004">（子）會員會費（細目詳後會費報告）</ab>
+        <table n="p007-tab01">
+          <row>
+            <cell>（一）本年會費</cell>
+            <cell>洋一千三百十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（二）壬子會費</cell>
+            <cell>洋六十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="total" n="p007-c005">計共收洋一千三百七十元</ab>
+        <ab type="heading" n="p007-c006">（丑）特捐（細目詳後特捐報告）</ab>
+        <table n="p007-tab02">
+          <row>
+            <cell>（一）特捐</cell>
+            <cell>洋二千九百二十二元二角一分六釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（二）特捐</cell>
+            <cell>洋二十六元</cell>
+            <cell>錢三十三千　合洋如下</cell>
+          </row>
+          <row>
+            <cell>（三）經募</cell>
+            <cell>洋九十一元</cell>
+            <cell>馮成余君貳拾壹元　錢衍官君柒拾元</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p007-c007">三</fw>
+        <fw type="running" n="p007-c008">保黎醫院報告</fw>
+        <pb n="8" facs="#page-8" />
+        <ab type="total" n="p008-c001">計共收洋三千零三十八元二角一分六釐</ab>
+        <table n="p008-tab01">
+          <row>
+            <cell>（寅）縣稅補助</cell>
+            <cell>洋二百四十元</cell>
+          </row>
+        </table>
+        <ab type="total" n="p008-c002">計共收洋二百四十元</ab>
+        <ab type="heading" n="p008-c003">（卯）雜收</ab>
+        <table n="p008-tab02">
+          <row>
+            <cell>（一）賣出浴盆</cell>
+            <cell>洋五十元</cell>
+          </row>
+          <row>
+            <cell>（二）賣出火爐</cell>
+            <cell>洋十元</cell>
+          </row>
+          <row>
+            <cell>（三）天成往來利息</cell>
+            <cell>洋三元七角四分三釐</cell>
+          </row>
+          <row>
+            <cell>（四）涵源往來利息</cell>
+            <cell>洋五元二角七分一釐</cell>
+          </row>
+        </table>
+        <ab type="total" n="p008-c004">計共收洋七十一元零三分六釐</ab>
+        <ab type="heading" n="p008-c005">（辰）暫收</ab>
+        <table n="p008-tab03">
+          <row>
+            <cell>（一）醫院基本金</cell>
+            <cell>洋一千三百七十元</cell>
+          </row>
+        </table>
+        <ab type="total" n="p008-c006">計共收洋一千三百七十元</ab>
+        <ab type="heading" n="p008-c007">（巳）舊存各款</ab>
+        <fw type="folio" n="p008-c008">四</fw>
+        <fw type="running" n="p008-c009">保黎醫院報告</fw>
+        <pb n="9" facs="#page-9" />
+        <table n="p009-tab01">
+          <row>
+            <cell>（一）女病房定洋</cell>
+            <cell>洋一千五百八十元</cell>
+          </row>
+          <row>
+            <cell>（二）探租</cell>
+            <cell>洋三十六元</cell>
+          </row>
+          <row>
+            <cell>（三）涵源莊</cell>
+            <cell>洋四十三元零三分二釐</cell>
+          </row>
+          <row>
+            <cell>（四）錢天成</cell>
+            <cell>洋六百九十二元九角三分二釐</cell>
+          </row>
+          <row>
+            <cell>（五）寧莊</cell>
+            <cell>洋二十五元一角二分</cell>
+          </row>
+          <row>
+            <cell>（六）錢子忍</cell>
+            <cell>洋十元</cell>
+          </row>
+          <row>
+            <cell>（七）路股</cell>
+            <cell>洋一百元</cell>
+          </row>
+          <row>
+            <cell>（八）魏陔香</cell>
+            <cell>洋五元</cell>
+          </row>
+          <row>
+            <cell>（九）現金</cell>
+            <cell>洋一百三十八元三角一分九釐</cell>
+          </row>
+        </table>
+        <ab type="total" n="p009-c001">計共收洋二千六百三十元零四角零三釐</ab>
+        <ab type="total" n="p009-c002">以上七項共計收洋八千七百十九元六角五分五釐</ab>
+        <ab type="heading" n="p009-c003">▲支出之部</ab>
+        <ab type="heading" n="p009-c004">（甲）建築</ab>
+        <fw type="folio" n="p009-c005">五</fw>
+        <fw type="running" n="p009-c006">保黎醫院報告</fw>
+        <pb n="10" facs="#page-10" />
+        <table n="p010-tab01">
+          <row>
+            <cell>（一）西式女病房四幢</cell>
+            <cell>洋二千三百五十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（二）頭門過路圍牆路砌及修繕</cell>
+            <cell>洋一千一百九十三元六角五分八釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（三）補助掘河修路</cell>
+            <cell>洋八十元</cell>
+            <cell>門前</cell>
+          </row>
+        </table>
+        <ab type="total" n="p010-c001">計共支洋三千六百二十八元六角五分八釐</ab>
+        <ab type="heading" n="p010-c002">（乙）置產</ab>
+        <table n="p010-tab02">
+          <row>
+            <cell>（一）葉氏田三畝五分六釐五毫</cell>
+            <cell>洋三百五十六元五角</cell>
+          </row>
+          <row>
+            <cell>（二）解七分田租連秧</cell>
+            <cell>洋四元</cell>
+          </row>
+        </table>
+        <ab type="total" n="p010-c003">計共支洋三百六十元零五角</ab>
+        <ab type="heading" n="p010-c004">（丙）器具</ab>
+        <table n="p010-tab03">
+          <row>
+            <cell>（一）養病牀念五張籐榻三十張</cell>
+            <cell>洋一百九十六元五角</cell>
+          </row>
+          <row>
+            <cell>（二）像柴爐二具連煙囪</cell>
+            <cell>洋四十四元零四分七釐</cell>
+          </row>
+          <row>
+            <cell>（三）蘆簾鐵錫</cell>
+            <cell>洋四十四元二角</cell>
+          </row>
+          <row>
+            <cell>（四）大時鳴鐘一架小一只</cell>
+            <cell>洋六十五元九角一分六釐</cell>
+          </row>
+          <row>
+            <cell>（五）得律風三只開關一只</cell>
+            <cell>洋七十元</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p010-c005">六</fw>
+        <fw type="running" n="p010-c006">保黎醫院報告</fw>
+        <pb n="11" facs="#page-11" />
+        <table n="p011-tab01">
+          <row>
+            <cell>（六）割症室鐵桌鐵水柜三眼面架等</cell>
+            <cell>洋六十六元七角三分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（七）器械櫥藥櫥藥桌藥櫃等</cell>
+            <cell>洋六十六元六角二分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（八）內外科室桌椅櫈及待診椅</cell>
+            <cell>洋七十八元七角</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（九）七石缸七只洋鐵缸蓋及浴盆水壺</cell>
+            <cell>洋四十六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（十）籐轎食櫥痰盂夜桶等</cell>
+            <cell>洋三十五元九角四分六釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（十一）男女病房桌椅几櫈及院內另具</cell>
+            <cell>洋一百三十三元一角一分三釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（十二）又夏布帳及草氈連布套</cell>
+            <cell>洋八十九元六角九分八釐</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="total" n="p011-c001">計共支洋九百三十七元四角七分</ab>
+        <ab type="heading" n="p011-c002">（丁）房租</ab>
+        <table n="p011-tab02">
+          <row>
+            <cell>（一）義莊房租全年</cell>
+            <cell>洋三十六元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="total" n="p011-c003">計共支洋三十六元</ab>
+        <ab type="heading" n="p011-c004">（戊）舊該償還</ab>
+        <table n="p011-tab03">
+          <row>
+            <cell>（一）還吳蓮記</cell>
+            <cell>洋一千二百零一元八角六分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>（二）還馮辛存去年經募</cell>
+            <cell>洋五十元</cell>
+            <cell>捐款去年交到已列第三次報告之捐款花名本年方始　開示故將花名列後捐款報告而於此項踐付其款</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p011-c005">七</fw>
+        <fw type="running" n="p011-c006">保黎醫院報告</fw>
+        <pb n="12" facs="#page-12" />
+        <ab type="total" n="p012-c001">計共支洋一千二百五十一元八角六分</ab>
+        <ab type="heading" n="p012-c002">（己）雜項</ab>
+        <table n="p012-tab01">
+          <row>
+            <cell>（一）癸丑報告書</cell>
+            <cell>洋六十六元三角</cell>
+          </row>
+          <row>
+            <cell>（二）行落成禮及開常會茶飯</cell>
+            <cell>洋八十五元五角七分六釐</cell>
+          </row>
+          <row>
+            <cell>（三）優先免費券及印刷另件</cell>
+            <cell>洋十元零七角五分</cell>
+          </row>
+          <row>
+            <cell>（四）現貼及漢口匯捐款匯水</cell>
+            <cell>洋五元三角五分</cell>
+          </row>
+          <row>
+            <cell>（五）錢牀進口稅</cell>
+            <cell>洋十八元七角五分</cell>
+          </row>
+          <row>
+            <cell>（六）凍青樹一百支</cell>
+            <cell>洋五元</cell>
+          </row>
+          <row>
+            <cell>（七）銅絲布十丈十字旗一首</cell>
+            <cell>洋十五元五角</cell>
+          </row>
+          <row>
+            <cell>（八）簿籍紙劄信封郵費</cell>
+            <cell>洋十九元四角三分六釐</cell>
+          </row>
+          <row>
+            <cell>（九）開除田戶及完糧川</cell>
+            <cell>洋九元二角四分</cell>
+          </row>
+          <row>
+            <cell>（十）木器船力上河力及另用</cell>
+            <cell>洋十三元四角七分</cell>
+          </row>
+        </table>
+        <ab type="total" n="p012-c003">計共支洋二百四十九元三角七分二釐</ab>
+        <table n="p012-tab02">
+          <row>
+            <cell>（庚）醫院基本金</cell>
+            <cell>洋一千三百七十元</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p012-c004">八</fw>
+        <fw type="running" n="p012-c005">保黎醫院報告</fw>
+        <pb n="13" facs="#page-13" />
+        <ab type="total" n="p013-c001">計共支洋一千三百七十元</ab>
+        <ab type="heading" n="p013-c002">（辛）結存各款</ab>
+        <table n="p013-tab01">
+          <row>
+            <cell>（一）存錢天成</cell>
+            <cell>洋一百六十七元二角五分七釐</cell>
+          </row>
+          <row>
+            <cell>（二）存涵源莊</cell>
+            <cell>洋二百八十五元五角一分四釐</cell>
+          </row>
+          <row>
+            <cell>（三）存探租</cell>
+            <cell>洋三十六元</cell>
+          </row>
+          <row>
+            <cell>（四）存戒煙局探租</cell>
+            <cell>洋十七元</cell>
+          </row>
+          <row>
+            <cell>（五）存錢吟葦</cell>
+            <cell>洋九十八元三角八分</cell>
+          </row>
+          <row>
+            <cell>（六）存陳謙夫</cell>
+            <cell>洋十一元一角一分一釐</cell>
+          </row>
+          <row>
+            <cell>（七）存陳雲門</cell>
+            <cell>洋十元</cell>
+          </row>
+          <row>
+            <cell>（八）存魏陔香</cell>
+            <cell>洋十元</cell>
+          </row>
+          <row>
+            <cell>（九）存預備棉被花布</cell>
+            <cell>洋二十九元零八分七釐</cell>
+          </row>
+          <row>
+            <cell>（十）存路股</cell>
+            <cell>洋一百元</cell>
+          </row>
+          <row>
+            <cell>（十一）存現金</cell>
+            <cell>洋一百二十一元四角四分六釐</cell>
+          </row>
+        </table>
+        <ab type="total" n="p013-c003">計共存洋八百八十五元七角九分五釐</ab>
+        <fw type="folio" n="p013-c004">九</fw>
+        <fw type="running" n="p013-c005">保黎醫院報告</fw>
+        <pb n="14" facs="#page-14" />
+        <ab type="total" n="p014-c001">以上八項共計支洋八千七百十九元六角五分五釐</ab>
+        <ab type="heading" n="p014-c002">保黎醫院收支報告</ab>
+        <ab type="date" n="p014-c003">（二年五月一號起至三年一月三十一號止）</ab>
+        <ab type="heading" n="p014-c004">▲收入之部</ab>
+        <table n="p014-tab01">
+          <row>
+            <cell>（子）收門診醫藥費</cell>
+            <cell>洋二千一百四十元零五角八分七釐</cell>
+          </row>
+          <row>
+            <cell>（丑）收出診醫藥費</cell>
+            <cell>洋七百八十元零五角五分三釐</cell>
+          </row>
+          <row>
+            <cell>（寅）收住院病人膳宿醫藥費</cell>
+            <cell>洋二千三百三十二元八角零七釐</cell>
+          </row>
+          <row>
+            <cell>（卯）收手術費</cell>
+            <cell>洋六十五元</cell>
+          </row>
+          <row>
+            <cell>（辰）收董事補助（細目詳後董事捐報告）</cell>
+            <cell>洋五百六十元</cell>
+          </row>
+        </table>
+        <ab type="total" n="p014-c005">以上五項共計收洋五千八百七十八元九角四分七釐</ab>
+        <ab type="heading" n="p014-c006">▲支出之部</ab>
+        <table n="p014-tab02">
+          <row>
+            <cell>（甲）支藥料</cell>
+            <cell>洋一千九百四十七元六角四分四釐</cell>
+          </row>
+        </table>
+        <ab type="total" n="p014-c007">計共支洋一千九百四十七元六角四分四釐</ab>
+        <fw type="folio" n="p014-c008">十</fw>
+        <fw type="running" n="p014-c009">保黎醫院報告</fw>
+        <pb n="15" facs="#page-15" />
+        <ab type="heading" n="p015-c001">（乙）職員薪水</ab>
+        <table n="p015-tab01">
+          <row>
+            <cell>（一）院長</cell>
+            <cell>洋八百十元</cell>
+          </row>
+          <row>
+            <cell>（二）醫士</cell>
+            <cell>洋七百八十二元二角三分二釐</cell>
+          </row>
+          <row>
+            <cell>（三）會計</cell>
+            <cell>洋一百十元</cell>
+          </row>
+          <row>
+            <cell>（四）僕役</cell>
+            <cell>洋一百四十九元零九分六釐</cell>
+          </row>
+        </table>
+        <ab type="total" n="p015-c002">計共支洋一千八百五十元零三角二分八釐</ab>
+        <ab type="heading" n="p015-c003">（丙）膳食</ab>
+        <table n="p015-tab02">
+          <row>
+            <cell>（一）職員及僕役</cell>
+            <cell>洋二百五十七元零六分一釐</cell>
+          </row>
+          <row>
+            <cell>（二）住院病人</cell>
+            <cell>洋一千四百六十二元三角一分八釐</cell>
+          </row>
+        </table>
+        <ab type="total" n="p015-c004">計共支洋一千七百十九元三角七分九釐</ab>
+        <ab type="heading" n="p015-c005">（丁）器具</ab>
+        <table n="p015-tab03">
+          <row>
+            <cell>（一）厨房碗碟鑊鑊蓋等</cell>
+            <cell>洋三十一元六角</cell>
+          </row>
+          <row>
+            <cell>（二）又飯桶大小念只</cell>
+            <cell>洋八元七角一分六釐</cell>
+          </row>
+          <row>
+            <cell>（三）保險美孚燈</cell>
+            <cell>洋十九元八角一分四釐</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p015-c006">十一</fw>
+        <fw type="running" n="p015-c007">保黎醫院報告</fw>
+        <pb n="16" facs="#page-16" />
+        <ab type="total" n="p016-c001">計共支洋六十元零一角三分</ab>
+        <ab type="heading" n="p016-c002">（戊）雜項</ab>
+        <table n="p016-tab01">
+          <row>
+            <cell>（一）癸丑年日曆</cell>
+            <cell>洋六十元</cell>
+          </row>
+          <row>
+            <cell>（二）簿籍紙劄草紙圖章等</cell>
+            <cell>洋十七元三角六分</cell>
+          </row>
+          <row>
+            <cell>（三）方副報費及郵費信力</cell>
+            <cell>洋十二元五角二分</cell>
+          </row>
+          <row>
+            <cell>（四）油燭茶水</cell>
+            <cell>洋八十八元五角四分三釐</cell>
+          </row>
+          <row>
+            <cell>（五）掃箒揩布及修脚等</cell>
+            <cell>洋十六元四角零一釐</cell>
+          </row>
+          <row>
+            <cell>（六）攝影（病房及病人）</cell>
+            <cell>洋十三元七角</cell>
+          </row>
+          <row>
+            <cell>（七）零用洋皂火柴</cell>
+            <cell>洋十二元九角四分二釐</cell>
+          </row>
+        </table>
+        <ab type="total" n="p016-c003">計共支洋二百二十一元四角六分六釐</ab>
+        <ab type="heading" n="p016-c004">（己）暫付各款</ab>
+        <table n="p016-tab02">
+          <row>
+            <cell>（一）商務書館定三年日曆</cell>
+            <cell>洋四十元</cell>
+          </row>
+          <row>
+            <cell>（二）厨頭徐阿金</cell>
+            <cell>洋四十元</cell>
+          </row>
+          <row>
+            <cell>（三）存現</cell>
+            <cell>洋二十元</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p016-c005">十二</fw>
+        <fw type="running" n="p016-c006">保黎醫院報告</fw>
+        <pb n="17" facs="#page-17" />
+        <ab type="total" n="p017-c001">計共支洋八十元</ab>
+        <ab type="total" n="p017-c002">以上六項共計支洋五千八百七十八元九角四分七釐</ab>
+        <ab type="heading" n="p017-c003">癸丑年會費已繳諸君姓名報告於左</ab>
+        <ab type="roster" n="p017-c004">馮吉生</ab>
+        <ab type="roster" n="p017-c005">馮挺生</ab>
+        <ab type="roster" n="p017-c006">馮撥先（壬子）</ab>
+        <ab type="roster" n="p017-c007">馮辛存</ab>
+        <ab type="roster" n="p017-c008">馮樵琴</ab>
+        <ab type="roster" n="p017-c009">馮孟顯</ab>
+        <ab type="roster" n="p017-c010">馮六皆</ab>
+        <ab type="roster" n="p017-c011">馮芝艇</ab>
+        <ab type="roster" n="p017-c012">馮咸博</ab>
+        <ab type="roster" n="p017-c013">馮君木</ab>
+        <ab type="roster" n="p017-c014">馮昧琴</ab>
+        <ab type="roster" n="p017-c015">馮瑞卿</ab>
+        <ab type="roster" n="p017-c016">馮萱庵</ab>
+        <ab type="roster" n="p017-c017">馮安曾</ab>
+        <ab type="roster" n="p017-c018">馮彥明（壬子）</ab>
+        <ab type="roster" n="p017-c019">馮慶恆</ab>
+        <ab type="roster" n="p017-c020">馮仲毅（壬子）</ab>
+        <ab type="roster" n="p017-c021">錢吟棠</ab>
+        <ab type="roster" n="p017-c022">錢吟蔚</ab>
+        <ab type="roster" n="p017-c023">錢奎官</ab>
+        <ab type="roster" n="p017-c024">錢純舫</ab>
+        <ab type="roster" n="p017-c025">錢純舫（壬子）</ab>
+        <ab type="roster" n="p017-c026">錢薔舫</ab>
+        <ab type="roster" n="p017-c027">錢保璇女士</ab>
+        <ab type="roster" n="p017-c028">錢吟萊</ab>
+        <ab type="roster" n="p017-c029">錢吟棟</ab>
+        <ab type="roster" n="p017-c030">錢善栽</ab>
+        <ab type="roster" n="p017-c031">錢子聯</ab>
+        <ab type="roster" n="p017-c032">錢貢甫</ab>
+        <ab type="roster" n="p017-c033">錢吟葦</ab>
+        <ab type="roster" n="p017-c034">錢子宸</ab>
+        <ab type="roster" n="p017-c035">周月如</ab>
+        <ab type="roster" n="p017-c036">周也達</ab>
+        <ab type="roster" n="p017-c037">周季歡</ab>
+        <ab type="roster" n="p017-c038">周鏡源</ab>
+        <ab type="roster" n="p017-c039">周渭漁</ab>
+        <ab type="roster" n="p017-c040">周蓮軒</ab>
+        <ab type="roster" n="p017-c041">周玉衡</ab>
+        <ab type="roster" n="p017-c042">周仰山</ab>
+        <ab type="roster" n="p017-c043">袁蓮塘</ab>
+        <ab type="roster" n="p017-c044">袁葆眞</ab>
+        <ab type="roster" n="p017-c045">袁曾潮</ab>
+        <ab type="roster" n="p017-c046">陳謙夫</ab>
+        <ab type="roster" n="p017-c047">陳布雷</ab>
+        <ab type="roster" n="p017-c048">陳雲門</ab>
+        <ab type="roster" n="p017-c049">陳依仁</ab>
+        <ab type="roster" n="p017-c050">陳庇懷</ab>
+        <ab type="roster" n="p017-c051">應華官</ab>
+        <ab type="roster" n="p017-c052">應松筠</ab>
+        <ab type="roster" n="p017-c053">應開忠</ab>
+        <fw type="folio" n="p017-c054">十三</fw>
+        <fw type="running" n="p017-c055">保黎醫院報告</fw>
+        <pb n="18" facs="#page-18" />
+        <ab type="roster" n="p018-c001">孫叔申</ab>
+        <ab type="roster" n="p018-c002">孫蔚如</ab>
+        <ab type="roster" n="p018-c003">孫彬如</ab>
+        <ab type="roster" n="p018-c004">孫虹奎</ab>
+        <ab type="roster" n="p018-c005">孫荃墅</ab>
+        <ab type="roster" n="p018-c006">孫衡甫</ab>
+        <ab type="roster" n="p018-c007">徐子琳</ab>
+        <ab type="roster" n="p018-c008">徐子稱</ab>
+        <ab type="roster" n="p018-c009">徐鍾麟</ab>
+        <ab type="roster" n="p018-c010">徐和鈞</ab>
+        <ab type="roster" n="p018-c011">朱藩生</ab>
+        <ab type="roster" n="p018-c012">朱清奇</ab>
+        <ab type="roster" n="p018-c013">朱清升</ab>
+        <ab type="roster" n="p018-c014">朱欽臣</ab>
+        <ab type="roster" n="p018-c015">羅振常</ab>
+        <ab type="roster" n="p018-c016">羅紳伯</ab>
+        <ab type="roster" n="p018-c017">羅祥龍</ab>
+        <ab type="roster" n="p018-c018">羅葆君</ab>
+        <ab type="roster" n="p018-c019">童茜香</ab>
+        <ab type="roster" n="p018-c020">童友谷</ab>
+        <ab type="roster" n="p018-c021">童錦蔚</ab>
+        <ab type="roster" n="p018-c022">童詢霖</ab>
+        <ab type="roster" n="p018-c023">嚴虎臣</ab>
+        <ab type="roster" n="p018-c024">嚴循經</ab>
+        <ab type="roster" n="p018-c025">嚴森庭</ab>
+        <ab type="roster" n="p018-c026">嚴子均</ab>
+        <ab type="roster" n="p018-c027">董廉卿</ab>
+        <ab type="roster" n="p018-c028">董子宜</ab>
+        <ab type="roster" n="p018-c029">董子咸</ab>
+        <ab type="roster" n="p018-c030">董槐青</ab>
+        <ab type="roster" n="p018-c031">俞穆卿</ab>
+        <ab type="roster" n="p018-c032">俞元生</ab>
+        <ab type="roster" n="p018-c033">俞季圭</ab>
+        <ab type="roster" n="p018-c034">俞靜庵</ab>
+        <ab type="roster" n="p018-c035">俞叔柱</ab>
+        <ab type="roster" n="p018-c036">張壽生</ab>
+        <ab type="roster" n="p018-c037">張本源</ab>
+        <ab type="roster" n="p018-c038">蔡伯均</ab>
+        <ab type="roster" n="p018-c039">蔡仲明</ab>
+        <ab type="roster" n="p018-c040">蔡叔霖</ab>
+        <ab type="roster" n="p018-c041">楊清甫</ab>
+        <ab type="roster" n="p018-c042">楊安國</ab>
+        <ab type="roster" n="p018-c043">楊微齋</ab>
+        <ab type="roster" n="p018-c044">王琴樂</ab>
+        <ab type="roster" n="p018-c045">王培坤</ab>
+        <ab type="roster" n="p018-c046">王樹成</ab>
+        <ab type="roster" n="p018-c047">秦殿卿（壬子）</ab>
+        <ab type="roster" n="p018-c048">秦佑廷</ab>
+        <ab type="roster" n="p018-c049">畢學卿</ab>
+        <ab type="roster" n="p018-c050">畢景甫</ab>
+        <ab type="roster" n="p018-c051">裘成水</ab>
+        <ab type="roster" n="p018-c052">裘昌如</ab>
+        <ab type="roster" n="p018-c053">李韻標</ab>
+        <ab type="roster" n="p018-c054">李霞城</ab>
+        <ab type="roster" n="p018-c055">陸晉亭</ab>
+        <ab type="roster" n="p018-c056">陸思圻</ab>
+        <ab type="roster" n="p018-c057">何吟茜</ab>
+        <ab type="roster" n="p018-c058">何璇卿</ab>
+        <ab type="roster" n="p018-c059">費冕卿</ab>
+        <ab type="roster" n="p018-c060">費子佩</ab>
+        <ab type="roster" n="p018-c061">魏陔香</ab>
+        <ab type="roster" n="p018-c062">魏茹香</ab>
+        <ab type="roster" n="p018-c063">胡藍莊</ab>
+        <ab type="roster" n="p018-c064">胡君諱</ab>
+        <ab type="roster" n="p018-c065">葉峻琴</ab>
+        <ab type="roster" n="p018-c066">葉經伯</ab>
+        <ab type="roster" n="p018-c067">任仲莘</ab>
+        <ab type="roster" n="p018-c068">鄔琢生</ab>
+        <ab type="roster" n="p018-c069">鄔雅香（壬子）</ab>
+        <ab type="roster" n="p018-c070">顧元琛</ab>
+        <fw type="folio" n="p018-c071">十四</fw>
+        <fw type="running" n="p018-c072">保黎醫院報告</fw>
+        <pb n="19" facs="#page-19" />
+        <ab type="roster" n="p019-c001">顧贊楚</ab>
+        <ab type="roster" n="p019-c002">柳鏡齋</ab>
+        <ab type="roster" n="p019-c003">林黎叔</ab>
+        <ab type="roster" n="p019-c004">沈輔卿</ab>
+        <ab type="roster" n="p019-c005">葛望澤</ab>
+        <ab type="roster" n="p019-c006">孔東采</ab>
+        <ab type="roster" n="p019-c007">潘憲孫</ab>
+        <ab type="roster" n="p019-c008">盛士廉</ab>
+        <ab type="roster" n="p019-c009">史丕揚</ab>
+        <ab type="roster" n="p019-c010">稽廷元</ab>
+        <ab type="roster" n="p019-c011">尹鏞堂</ab>
+        <ab type="roster" n="p019-c012">洪德蕃</ab>
+        <ab type="roster" n="p019-c013">向平伯</ab>
+        <ab type="roster" n="p019-c014">裘友莘</ab>
+        <ab type="roster" n="p019-c015">趙芝室</ab>
+        <ab type="roster" n="p019-c016">王魯山</ab>
+        <ab type="roster" n="p019-c017">馮汲蒙</ab>
+        <ab type="total" n="p019-c018">以上會員一百三十七人每名收到會費洋十元共計會費洋一千三百七十元</ab>
+        <ab type="heading" n="p019-c019">癸丑年董事捐已繳諸君姓名報告於左</ab>
+        <ab type="roster" n="p019-c020">任仲莘</ab>
+        <ab type="roster" n="p019-c021">周仰山</ab>
+        <ab type="roster" n="p019-c022">柳鏡齋</ab>
+        <ab type="roster" n="p019-c023">陳謙夫</ab>
+        <ab type="roster" n="p019-c024">費冕卿</ab>
+        <ab type="roster" n="p019-c025">葉經伯</ab>
+        <ab type="roster" n="p019-c026">趙芝室</ab>
+        <ab type="roster" n="p019-c027">錢吟葦</ab>
+        <ab type="roster" n="p019-c028">錢吟棟</ab>
+        <ab type="roster" n="p019-c029">顧元琛</ab>
+        <ab type="roster" n="p019-c030">朱清奇</ab>
+        <ab type="roster" n="p019-c031">周蓮軒</ab>
+        <ab type="roster" n="p019-c032">徐祖祥</ab>
+        <ab type="roster" n="p019-c033">孫衡甫</ab>
+        <ab type="roster" n="p019-c034">馮樵琴</ab>
+        <ab type="roster" n="p019-c035">畢學卿</ab>
+        <ab type="roster" n="p019-c036">裘成水</ab>
+        <ab type="roster" n="p019-c037">錢吟萊</ab>
+        <ab type="roster" n="p019-c038">嚴子均</ab>
+        <ab type="roster" n="p019-c039">何吟茜</ab>
+        <ab type="roster" n="p019-c040">胡君諱</ab>
+        <ab type="roster" n="p019-c041">陳依仁</ab>
+        <ab type="roster" n="p019-c042">童友谷</ab>
+        <ab type="roster" n="p019-c043">馮辛存</ab>
+        <ab type="roster" n="p019-c044">董子宜</ab>
+        <ab type="roster" n="p019-c045">錢吟蔚</ab>
+        <ab type="roster" n="p019-c046">錢吟棠</ab>
+        <ab type="roster" n="p019-c047">羅紳伯</ab>
+        <ab type="roster" n="p019-c048">葉峻琴</ab>
+        <ab type="total" n="p019-c049">以上董事二十九人每人收到董事捐二十元共計董事捐洋五百八十元</ab>
+        <fw type="folio" n="p019-c050">十五</fw>
+        <fw type="running" n="p019-c051">保黎醫院報告</fw>
+        <pb n="20" facs="#page-20" />
+        <ab type="heading" n="p020-c001">捐款報告</ab>
+        <table n="p020-tab01">
+          <row>
+            <cell>嘉德堂羅</cell>
+            <cell>洋五百元</cell>
+            <cell>向平伯　應叔申來</cell>
+          </row>
+          <row>
+            <cell>蔡雨巖君</cell>
+            <cell>洋二百元</cell>
+            <cell>陳謙夫來</cell>
+          </row>
+          <row>
+            <cell>浙路公司</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>第四中學校長捐薪</cell>
+            <cell>洋六十元</cell>
+            <cell>共禮苹　陳謙夫來</cell>
+          </row>
+          <row>
+            <cell>第四中學校長捐薪</cell>
+            <cell>洋六十元</cell>
+            <cell>范均之　陳談人來</cell>
+          </row>
+          <row>
+            <cell>葉志強君</cell>
+            <cell>洋四十元</cell>
+            <cell>應松筠來</cell>
+          </row>
+          <row>
+            <cell>蔡董氏</cell>
+            <cell>洋三十元</cell>
+            <cell>董子宜來</cell>
+          </row>
+          <row>
+            <cell>姚元房</cell>
+            <cell>洋三十元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>孫春庭君</cell>
+            <cell>洋三十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>王錦銘君</cell>
+            <cell>洋二十元</cell>
+            <cell>錢吟葦來</cell>
+          </row>
+          <row>
+            <cell>求是軒徐</cell>
+            <cell>洋二十元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>蔣也萃君</cell>
+            <cell>洋二十元</cell>
+            <cell>孫蔚如來</cell>
+          </row>
+        </table>
+        <table n="p020-tab02">
+          <row>
+            <cell>羅門張氏</cell>
+            <cell>洋五百元</cell>
+            <cell>馮　君時　逸甫來</cell>
+          </row>
+          <row>
+            <cell>董方氏</cell>
+            <cell>洋一百元</cell>
+            <cell>董子宜來</cell>
+          </row>
+          <row>
+            <cell>裘成水君</cell>
+            <cell>洋九十二元</cell>
+            <cell>移助値</cell>
+          </row>
+          <row>
+            <cell>錢吟葦君</cell>
+            <cell>洋七十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周錫類堂</cell>
+            <cell>洋五十元</cell>
+            <cell>陳謙夫來</cell>
+          </row>
+          <row>
+            <cell>美國井女士</cell>
+            <cell>洋三十元</cell>
+            <cell>吳蓮艇來</cell>
+          </row>
+          <row>
+            <cell>警察署</cell>
+            <cell>洋三十元</cell>
+            <cell>毛楙卿來</cell>
+          </row>
+          <row>
+            <cell>金知事</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>童錦吾君</cell>
+            <cell>洋二十元</cell>
+            <cell>胡君諱　何吟茜來</cell>
+          </row>
+          <row>
+            <cell>徐祖祥君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>金吟谷君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳親親堂</cell>
+            <cell>洋二十元</cell>
+            <cell>陳雲門來</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p020-c002">十六</fw>
+        <fw type="running" n="p020-c003">保黎醫院報告</fw>
+        <pb n="21" facs="#page-21" />
+        <table n="p021-tab01">
+          <row>
+            <cell>洪詠春君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡芭水君</cell>
+            <cell>洋二十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>沈志善君</cell>
+            <cell>洋十六元</cell>
+            <cell>吳蓮艇來</cell>
+          </row>
+          <row>
+            <cell>李贊侯君</cell>
+            <cell>洋十元</cell>
+            <cell>胡君諱　何吟茜來</cell>
+          </row>
+          <row>
+            <cell>味經軒婆婆</cell>
+            <cell>洋十元</cell>
+            <cell>董子宜來</cell>
+          </row>
+          <row>
+            <cell>嚴元和君</cell>
+            <cell>洋十元</cell>
+            <cell>吳蓮艇來</cell>
+          </row>
+          <row>
+            <cell>陳慎餘堂</cell>
+            <cell>洋十元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>泰慶號</cell>
+            <cell>洋十元</cell>
+            <cell>王志湘　馮辛存來</cell>
+          </row>
+          <row>
+            <cell>洪夢亭君</cell>
+            <cell>洋十元</cell>
+            <cell>馮辛存　王志湘來</cell>
+          </row>
+          <row>
+            <cell>王京欽君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李寶成君</cell>
+            <cell>洋十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>楊金生君</cell>
+            <cell>洋十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>陳韻泉君</cell>
+            <cell>洋十元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>石獻皋君</cell>
+            <cell>洋十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+        </table>
+        <table n="p021-tab02">
+          <row>
+            <cell>馬雨堂君</cell>
+            <cell>洋二十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>蛋公所</cell>
+            <cell>洋二十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋十二元五角六分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳興氏</cell>
+            <cell>洋十元</cell>
+            <cell>楊寶甫來</cell>
+          </row>
+          <row>
+            <cell>慎餘軒婆婆</cell>
+            <cell>洋十元</cell>
+            <cell>董子宜來</cell>
+          </row>
+          <row>
+            <cell>袁孟琴君</cell>
+            <cell>洋十元</cell>
+            <cell>陳謙夫來</cell>
+          </row>
+          <row>
+            <cell>職思居士</cell>
+            <cell>洋十元</cell>
+            <cell>吳蓮艇來</cell>
+          </row>
+          <row>
+            <cell>元盛永</cell>
+            <cell>洋十元</cell>
+            <cell>馮辛存　王志湘來</cell>
+          </row>
+          <row>
+            <cell>董維城君</cell>
+            <cell>洋十元</cell>
+            <cell>馮辛存來</cell>
+          </row>
+          <row>
+            <cell>濟泰公典</cell>
+            <cell>洋十元</cell>
+            <cell>王京欽來</cell>
+          </row>
+          <row>
+            <cell>劉寶餘君</cell>
+            <cell>洋十元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>鄭聲齋君</cell>
+            <cell>洋十元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>王鳳年君</cell>
+            <cell>洋十元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>慶和銀樓</cell>
+            <cell>洋十元</cell>
+            <cell>裘成水來</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p021-c001">十七</fw>
+        <fw type="running" n="p021-c002">保黎醫院報告</fw>
+        <pb n="22" facs="#page-22" />
+        <table n="p022-tab01">
+          <row>
+            <cell>王羅女士</cell>
+            <cell>洋十元</cell>
+            <cell>馮子汀來</cell>
+          </row>
+          <row>
+            <cell>孫文彬君</cell>
+            <cell>洋十元</cell>
+            <cell>錢子忍來</cell>
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋六元</cell>
+            <cell>周渭漁來</cell>
+          </row>
+          <row>
+            <cell>協興公</cell>
+            <cell>洋五元</cell>
+            <cell>周蓮軒來</cell>
+          </row>
+          <row>
+            <cell>孫表卿君</cell>
+            <cell>洋五元</cell>
+            <cell>陳謙夫來</cell>
+          </row>
+          <row>
+            <cell>董維驥君</cell>
+            <cell>洋五元</cell>
+            <cell>董子宜來</cell>
+          </row>
+          <row>
+            <cell>阜泰行</cell>
+            <cell>洋五元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>莊慶耀君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>德昌木行</cell>
+            <cell>洋五元</cell>
+            <cell>石厚用來</cell>
+          </row>
+          <row>
+            <cell>慎成木行</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮友生君</cell>
+            <cell>洋五元</cell>
+            <cell>陳謙夫來</cell>
+          </row>
+          <row>
+            <cell>蘇承基君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>林瑞庭君</cell>
+            <cell>洋五元</cell>
+            <cell>錢經湘來</cell>
+          </row>
+          <row>
+            <cell>秦子敬君</cell>
+            <cell>洋五元</cell>
+            <cell>王芝湘　馮辛存來</cell>
+          </row>
+        </table>
+        <table n="p022-tab02">
+          <row>
+            <cell>董仁信君</cell>
+            <cell>洋十元</cell>
+            <cell>錢純舫來</cell>
+          </row>
+          <row>
+            <cell>乾源油行</cell>
+            <cell>洋十元</cell>
+            <cell>馮逿甫來</cell>
+          </row>
+          <row>
+            <cell>錢純舫　經捐諸善士</cell>
+            <cell>洋五元九角一分六釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>恆豐永</cell>
+            <cell>洋五元</cell>
+            <cell>王芝香　馮辛存來</cell>
+          </row>
+          <row>
+            <cell>邵子建君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>朱繼棠君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮慶齡君</cell>
+            <cell>洋五元</cell>
+            <cell>馮辛存來</cell>
+          </row>
+          <row>
+            <cell>濟泰分典</cell>
+            <cell>洋五元</cell>
+            <cell>王京欽來</cell>
+          </row>
+          <row>
+            <cell>顧壽仙君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>余留餘軒</cell>
+            <cell>洋五元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>戴慎餘堂</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>洪寶卿君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>寶隆洋行</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>恆豐泰</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p022-c001">十八</fw>
+        <fw type="running" n="p022-c002">保黎醫院報告</fw>
+        <pb n="23" facs="#page-23" />
+        <table n="p023-tab01">
+          <row>
+            <cell>陳錫君</cell>
+            <cell>洋五元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>錢純舫君</cell>
+            <cell>洋五元</cell>
+            <cell>錢經湘來</cell>
+          </row>
+          <row>
+            <cell>明德堂梁</cell>
+            <cell>洋五元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>漢口老大寶</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>慶雲樓</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>沈輔卿君</cell>
+            <cell>洋五元</cell>
+            <cell>洪左湖來</cell>
+          </row>
+          <row>
+            <cell>周厚德君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>邵和麟君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>林簪壽君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>張慶雲樓</cell>
+            <cell>洋五元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>漢口丹鳳銀樓</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>朱丕衍君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>信泰厚</cell>
+            <cell>洋三元</cell>
+            <cell>周蓮軒來</cell>
+          </row>
+          <row>
+            <cell>王英年君</cell>
+            <cell>洋三元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <table n="p023-tab02">
+          <row>
+            <cell>長沙文元樓</cell>
+            <cell>洋五元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>王玉卿君</cell>
+            <cell>洋五元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮羅女士</cell>
+            <cell>洋五元</cell>
+            <cell>馮子汀來</cell>
+          </row>
+          <row>
+            <cell>陳羅女士</cell>
+            <cell>洋五元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+          <row>
+            <cell>老恆茂行</cell>
+            <cell>洋五元</cell>
+            <cell>馮逿甫來</cell>
+          </row>
+          <row>
+            <cell>胡少垣君</cell>
+            <cell>洋四元</cell>
+            <cell>周蓮軒來</cell>
+          </row>
+          <row>
+            <cell>包廷璋君</cell>
+            <cell>洋四元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>陳慎思君</cell>
+            <cell>洋四元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>阮三鴻君</cell>
+            <cell>洋四元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>宏大提莊</cell>
+            <cell>洋四元</cell>
+            <cell>王京欽來</cell>
+          </row>
+          <row>
+            <cell>萃豐莊</cell>
+            <cell>洋四元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>生號</cell>
+            <cell>洋四元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>王許亭君</cell>
+            <cell>洋三元</cell>
+            <cell>王芾莊來</cell>
+          </row>
+          <row>
+            <cell>鄭賀麓君</cell>
+            <cell>洋三元</cell>
+            <cell>周渭漁來</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p023-c001">十九</fw>
+        <fw type="running" n="p023-c002">保黎醫院報告</fw>
+        <pb n="24" facs="#page-24" />
+        <table n="p024-tab01">
+          <row>
+            <cell>退步居</cell>
+            <cell>洋三元</cell>
+            <cell>王京欽來</cell>
+          </row>
+          <row>
+            <cell>胡青輝君</cell>
+            <cell>洋三元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陸陳女士</cell>
+            <cell>洋三元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>羅陳太太</cell>
+            <cell>洋二元</cell>
+            <cell>周蓮軒來</cell>
+          </row>
+          <row>
+            <cell>顏東生君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮祖記</cell>
+            <cell>洋二元</cell>
+            <cell>王芾莊來</cell>
+          </row>
+          <row>
+            <cell>姚嘉記</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>王法記</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>王渚記</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>王芾莊君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳蘭生君</cell>
+            <cell>洋二元</cell>
+            <cell>周渭漁來</cell>
+          </row>
+          <row>
+            <cell>汪芝亭君</cell>
+            <cell>洋二元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>桂慶宦君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>周光德君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <table n="p024-tab02">
+          <row>
+            <cell>方祖蔭君</cell>
+            <cell>洋三元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>陳曉女士</cell>
+            <cell>洋三元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+          <row>
+            <cell>味善居</cell>
+            <cell>洋三元</cell>
+            <cell>馮彥明來</cell>
+          </row>
+          <row>
+            <cell>陳慶全君</cell>
+            <cell>洋二元</cell>
+            <cell>徐子稱來</cell>
+          </row>
+          <row>
+            <cell>張恆寶君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>張良左君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>汪慶容君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>莊衣榜君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>胡杭奎君</cell>
+            <cell>洋二元</cell>
+            <cell>陳謙夫來</cell>
+          </row>
+          <row>
+            <cell>馮葉鳳眞</cell>
+            <cell>洋二元</cell>
+            <cell>葉德之來</cell>
+          </row>
+          <row>
+            <cell>錢子章君</cell>
+            <cell>洋二元</cell>
+            <cell>錢經湘來</cell>
+          </row>
+          <row>
+            <cell>施越明君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>協裕莊</cell>
+            <cell>洋二元</cell>
+            <cell>王京欽來</cell>
+          </row>
+          <row>
+            <cell>嘉隱居</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p024-c001">二十</fw>
+        <fw type="running" n="p024-c002">保黎醫院報告</fw>
+        <pb n="25" facs="#page-25" />
+        <table n="p025-tab01">
+          <row>
+            <cell>方曙初君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>延益莊</cell>
+            <cell>洋二元</cell>
+            <cell>王京欽來</cell>
+          </row>
+          <row>
+            <cell>太倉鹽棧</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>朱存仁堂</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>萬年樓</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>正和祥</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>廣源義</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>精生居</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>協源祥</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>同心永號</cell>
+            <cell>洋二元</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>震豐祥</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>童仁三君</cell>
+            <cell>洋二元</cell>
+            <cell>錢經湘來</cell>
+          </row>
+          <row>
+            <cell>陳樂序軒</cell>
+            <cell>洋二元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>洪絅君</cell>
+            <cell>洋二元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+        </table>
+        <table n="p025-tab02">
+          <row>
+            <cell>徐宏泰</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>縵雲廬方</cell>
+            <cell>洋二元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>久成金號</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>翁文椒女士</cell>
+            <cell>洋二元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+          <row>
+            <cell>方美琴女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>聶望女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>丁菊貞女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>孫璇範女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>韓振芳女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>徐玉英女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>費芳暉女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>范曰貞女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>李志君</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>方婉琴女士</cell>
+            <cell>洋二元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p025-c001">二十一</fw>
+        <fw type="running" n="p025-c002">保黎醫院報告</fw>
+        <pb n="26" facs="#page-26" />
+        <table n="p026-tab01">
+          <row>
+            <cell>無力子</cell>
+            <cell>洋一元</cell>
+            <cell>周蓮軒來</cell>
+          </row>
+          <row>
+            <cell>錢見一君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮雪兆君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>錢何太太</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮陳太太</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>周學文君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>周聯卿君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>何馮太太</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>周陳太太</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>錢鴻範君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>錢鴻威君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>洪楚生君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>鄭祖佑君</cell>
+            <cell>洋一元</cell>
+            <cell>周渭漁來</cell>
+          </row>
+          <row>
+            <cell>鄭慶甫君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <table n="p026-tab02">
+          <row>
+            <cell>陳德禔君</cell>
+            <cell>洋一元</cell>
+            <cell>周蓮軒來</cell>
+          </row>
+          <row>
+            <cell>鄭禹祥君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>楊仲篪君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>鄭桂良君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>楊兆益君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>沈祥裕君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳沛華君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮書記</cell>
+            <cell>洋一元</cell>
+            <cell>王芾莊來</cell>
+          </row>
+          <row>
+            <cell>馮費氏</cell>
+            <cell>洋一元</cell>
+            <cell>王芾莊來</cell>
+          </row>
+          <row>
+            <cell>王志記</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>玉少記</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>周懷玉君</cell>
+            <cell>洋一元</cell>
+            <cell>周渭漁來</cell>
+          </row>
+          <row>
+            <cell>李柏林君</cell>
+            <cell>洋一元</cell>
+            <cell>錢經湘來</cell>
+          </row>
+          <row>
+            <cell>袁蓉庵君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p026-c001">二十二</fw>
+        <fw type="running" n="p026-c002">保黎醫院報告</fw>
+        <pb n="27" facs="#page-27" />
+        <table n="p027-tab01">
+          <row>
+            <cell>鄭子衡君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>王友竹君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>李楚湘君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>李筱笙君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>潘愚廬君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>鄭星楚君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>周品金君</cell>
+            <cell>洋一元</cell>
+            <cell>董子宜來</cell>
+          </row>
+          <row>
+            <cell>水衰君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>董敦涵君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>虞揖蓀君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋一元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>張鐘韻君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>張泉生君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>胡祥發君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <table n="p027-tab02">
+          <row>
+            <cell>鄭樵臣君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>鄭性初君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳晉發君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>秦蓮生君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>秦坤房</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>袁琇庵君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>鄭以莊君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>管翰芳君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>費承濟君</cell>
+            <cell>洋一元</cell>
+            <cell>王京欽來</cell>
+          </row>
+          <row>
+            <cell>萱壽堂秦</cell>
+            <cell>洋一元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>沈月英女士</cell>
+            <cell>洋一元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+          <row>
+            <cell>方珊琴女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>葛令瑤女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>吳蓮卿女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p027-c001">二十三</fw>
+        <fw type="running" n="p027-c002">保黎醫院報告</fw>
+        <pb n="28" facs="#page-28" />
+        <table n="p028-tab01">
+          <row>
+            <cell>夏寶礪君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>葉葆初君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>裘會祺君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>馮祖華君</cell>
+            <cell>洋一元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+          <row>
+            <cell>朱松橋君</cell>
+            <cell>洋一元</cell>
+            <cell>裘成水來</cell>
+          </row>
+          <row>
+            <cell>沈振華女士</cell>
+            <cell>洋一元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+          <row>
+            <cell>丁秀貞女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>楊先生</cell>
+            <cell>洋一元</cell>
+            <cell>陳曉娟來</cell>
+          </row>
+          <row>
+            <cell>趙先生</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>朱先生</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>王允默君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>周秀雅女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳如蘭女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <table n="p028-tab02">
+          <row>
+            <cell>莊韻舫女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>方寶琴女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>葉宗英女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>童薰琴女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>金愛華女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>王寶貞女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>葉梅仙女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳馥卿女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>蔡同滋君</cell>
+            <cell>洋一元</cell>
+            <cell>周錫祁來</cell>
+          </row>
+          <row>
+            <cell>徐珩君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>應彥君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳孝鎬君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>郭梅麓君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>董祥麟君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p028-c001">二十四</fw>
+        <fw type="running" n="p028-c002">保黎醫院報告</fw>
+        <pb n="29" facs="#page-29" />
+        <table n="p029-tab01">
+          <row>
+            <cell>趙蟬貞女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>丁素貞女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳淑娟女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳婉娟女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳萱君</cell>
+            <cell>洋一元</cell>
+            <cell>周錫祁來</cell>
+          </row>
+          <row>
+            <cell>周寶康君</cell>
+            <cell>洋四角三分五釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>秦泉清君</cell>
+            <cell>洋四角三分五釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>眞記號</cell>
+            <cell>錢五千文</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>省記</cell>
+            <cell>錢三千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>從記</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>德生祥</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>寶隆行</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>順豐號</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>同豐號</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <table n="p029-tab02">
+          <row>
+            <cell>董履安君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>董長齡君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>徐秋章女士</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>董瑞龍君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>陳慶麒君</cell>
+            <cell>洋一元</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>童麟趾君</cell>
+            <cell>洋四角三分五釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈伯英君</cell>
+            <cell>洋四角三分五釐</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>三益恆</cell>
+            <cell>錢四千文</cell>
+            <cell>袁潔泉來</cell>
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>錢三千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>公興存</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>謙信行</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>仁大號</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+          <row>
+            <cell>禮和號</cell>
+            <cell>錢二千文</cell>
+            <cell>同上</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p029-c001">二十五</fw>
+        <fw type="running" n="p029-c002">保黎醫院報告</fw>
+        <pb n="30" facs="#page-30" />
+        <ab type="total" n="p030-c001">共計捐助洋二千九百二十一元二角一分六釐</ab>
+        <ab type="total" n="p030-c002">共計捐助錢三十三千文合洋二十六元</ab>
+        <ab type="total" n="p030-c003">兩共捐助洋二千九百四十七元二角一分六釐</ab>
+        <fw type="folio" n="p030-c004">二十六</fw>
+        <fw type="running" n="p030-c005">保黎醫院報告</fw>
+        <pb n="31" facs="#page-31" />
+        <ab type="heading" n="p031-c001">癸丑年董事會員姓名錄</ab>
+        <ab type="heading" n="p031-c002">董事部（以筆畫簡繁為序）</ab>
+        <ab type="role" n="p031-c003">總董</ab>
+        <table n="p031-tab01">
+          <row>
+            <cell>錢保杭</cell>
+            <cell>吟葦</cell>
+          </row>
+        </table>
+        <ab type="role" n="p031-c004">董事</ab>
+        <table n="p031-tab02">
+          <row>
+            <cell>任企尹</cell>
+            <cell>仲莘</cell>
+          </row>
+          <row>
+            <cell>朱奇</cell>
+            <cell>清奇</cell>
+          </row>
+          <row>
+            <cell>何育杰</cell>
+            <cell>吟茜</cell>
+          </row>
+          <row>
+            <cell>周光熊</cell>
+            <cell>仰山</cell>
+          </row>
+          <row>
+            <cell>周彬</cell>
+            <cell>蓮軒</cell>
+          </row>
+          <row>
+            <cell>胡良箴</cell>
+            <cell>君諱</cell>
+          </row>
+          <row>
+            <cell>柳在洲</cell>
+            <cell>鏡齋</cell>
+          </row>
+          <row>
+            <cell>徐鍾麟</cell>
+            <cell>祖祥</cell>
+          </row>
+          <row>
+            <cell>陳鴻達</cell>
+            <cell>依仁</cell>
+          </row>
+          <row>
+            <cell>陳夏常</cell>
+            <cell>謙夫</cell>
+          </row>
+          <row>
+            <cell>孫遵法</cell>
+            <cell>衡甫</cell>
+          </row>
+          <row>
+            <cell>童國炳</cell>
+            <cell>友谷</cell>
+          </row>
+          <row>
+            <cell>費紹冠</cell>
+            <cell>冕卿</cell>
+          </row>
+          <row>
+            <cell>馮紹勤</cell>
+            <cell>樵琴</cell>
+          </row>
+          <row>
+            <cell>馮宜銘</cell>
+            <cell>辛存</cell>
+          </row>
+          <row>
+            <cell>葉念經</cell>
+            <cell>經伯</cell>
+          </row>
+          <row>
+            <cell>葉維梁</cell>
+            <cell>峻琴</cell>
+          </row>
+          <row>
+            <cell>畢蘊敏</cell>
+            <cell>學卿</cell>
+          </row>
+          <row>
+            <cell>董孝欽</cell>
+            <cell>子宜</cell>
+          </row>
+          <row>
+            <cell>趙家蓀</cell>
+            <cell>芝室</cell>
+          </row>
+          <row>
+            <cell>裘廷驥</cell>
+            <cell>成水</cell>
+          </row>
+          <row>
+            <cell>蔡上治</cell>
+            <cell>伯均</cell>
+          </row>
+          <row>
+            <cell>錢懋羣</cell>
+            <cell>吟葦</cell>
+          </row>
+          <row>
+            <cell>錢保杭</cell>
+            <cell>吟葦</cell>
+          </row>
+          <row>
+            <cell>錢保康</cell>
+            <cell>吟蔚</cell>
+          </row>
+          <row>
+            <cell>錢保基</cell>
+            <cell>吟萊</cell>
+          </row>
+          <row>
+            <cell>錢保夷</cell>
+            <cell>吟棠</cell>
+          </row>
+          <row>
+            <cell>錢保唐</cell>
+            <cell>吟棟</cell>
+          </row>
+          <row>
+            <cell>嚴義彬</cell>
+            <cell>子均</cell>
+          </row>
+          <row>
+            <cell>顧釗</cell>
+            <cell>元琛</cell>
+          </row>
+          <row>
+            <cell>羅泰榮</cell>
+            <cell>紳伯</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p031-c005">會員部（以入會先後為序）</ab>
+        <table n="p031-tab03">
+          <row>
+            <cell>馮毓華</cell>
+            <cell>汲蒙</cell>
+          </row>
+          <row>
+            <cell>馮宜銘</cell>
+            <cell>辛存</cell>
+          </row>
+          <row>
+            <cell>馮全琪</cell>
+            <cell>瑞卿</cell>
+          </row>
+          <row>
+            <cell>馮紹勤</cell>
+            <cell>樵琴</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p031-c006">二十七</fw>
+        <fw type="running" n="p031-c007">保黎醫院報告</fw>
+        <pb n="32" facs="#page-32" />
+        <table n="p032-tab01">
+          <row>
+            <cell>馮保謙</cell>
+            <cell>六皆</cell>
+          </row>
+          <row>
+            <cell>錢保杭</cell>
+            <cell>吟葦</cell>
+          </row>
+          <row>
+            <cell>錢保瑜</cell>
+            <cell>子聯</cell>
+          </row>
+          <row>
+            <cell>周銃汝</cell>
+            <cell>月如</cell>
+          </row>
+          <row>
+            <cell>陳訓正</cell>
+            <cell>庇懷</cell>
+          </row>
+          <row>
+            <cell>董孝欽</cell>
+            <cell>子宜</cell>
+          </row>
+          <row>
+            <cell>葉維梁</cell>
+            <cell>峻琴</cell>
+          </row>
+          <row>
+            <cell>嚴寶瑾</cell>
+            <cell>虎臣</cell>
+          </row>
+          <row>
+            <cell>林端輔</cell>
+            <cell>黎叔</cell>
+          </row>
+          <row>
+            <cell>袁兆墀</cell>
+            <cell>漢卿</cell>
+          </row>
+          <row>
+            <cell>陸元春</cell>
+            <cell>晉亭</cell>
+          </row>
+          <row>
+            <cell>馮維勛</cell>
+            <cell>昧琴</cell>
+          </row>
+          <row>
+            <cell>馮保初</cell>
+            <cell>撥先</cell>
+          </row>
+          <row>
+            <cell>錢經勛</cell>
+            <cell>長生</cell>
+          </row>
+        </table>
+        <table n="p032-tab02">
+          <row>
+            <cell>馮公弼</cell>
+            <cell>乃千</cell>
+          </row>
+          <row>
+            <cell>錢保夷</cell>
+            <cell>吟棠</cell>
+          </row>
+          <row>
+            <cell>錢經湘</cell>
+            <cell>純舫</cell>
+          </row>
+          <row>
+            <cell>周毓勛</cell>
+            <cell>鏡源</cell>
+          </row>
+          <row>
+            <cell>陳夏常</cell>
+            <cell>謙夫</cell>
+          </row>
+          <row>
+            <cell>俞斯珩</cell>
+            <cell>季圭</cell>
+          </row>
+          <row>
+            <cell>魏錫蘭</cell>
+            <cell>陔香</cell>
+          </row>
+          <row>
+            <cell>徐祖祥</cell>
+            <cell>鍾麟</cell>
+          </row>
+          <row>
+            <cell>任企尹</cell>
+            <cell>仲莘</cell>
+          </row>
+          <row>
+            <cell>盛鼎年</cell>
+            <cell>士廉</cell>
+          </row>
+          <row>
+            <cell>馮忠敷</cell>
+            <cell>芝艇</cell>
+          </row>
+          <row>
+            <cell>馮延瑄</cell>
+            <cell>季良</cell>
+          </row>
+          <row>
+            <cell>馮保祿</cell>
+            <cell>仲毅</cell>
+          </row>
+          <row>
+            <cell>錢文杏</cell>
+            <cell>奎官</cell>
+          </row>
+        </table>
+        <table n="p032-tab03">
+          <row>
+            <cell>錢懋羣</cell>
+            <cell>吟葦</cell>
+          </row>
+          <row>
+            <cell>錢保唐</cell>
+            <cell>吟棟</cell>
+          </row>
+          <row>
+            <cell>孫文楣</cell>
+            <cell>蔚如</cell>
+          </row>
+          <row>
+            <cell>周光熊</cell>
+            <cell>仰山</cell>
+          </row>
+          <row>
+            <cell>陳鴻達</cell>
+            <cell>依仁</cell>
+          </row>
+          <row>
+            <cell>俞鴻楷</cell>
+            <cell>叔柱</cell>
+          </row>
+          <row>
+            <cell>翁傳洄</cell>
+            <cell>厚甫</cell>
+          </row>
+          <row>
+            <cell>何育杰</cell>
+            <cell>吟茜</cell>
+          </row>
+          <row>
+            <cell>朱奇</cell>
+            <cell>清奇</cell>
+          </row>
+          <row>
+            <cell>葛崇瀚</cell>
+            <cell>望澤</cell>
+          </row>
+          <row>
+            <cell>馮保忠</cell>
+            <cell>進思</cell>
+          </row>
+          <row>
+            <cell>馮彥輔</cell>
+            <cell>康濟</cell>
+          </row>
+          <row>
+            <cell>馮玕</cell>
+            <cell>君木</cell>
+          </row>
+          <row>
+            <cell>錢楚書</cell>
+            <cell>寶善</cell>
+          </row>
+        </table>
+        <table n="p032-tab04">
+          <row>
+            <cell>錢保基</cell>
+            <cell>吟萊</cell>
+          </row>
+          <row>
+            <cell>錢保琛</cell>
+            <cell>子忍</cell>
+          </row>
+          <row>
+            <cell>孫紹康</cell>
+            <cell>荃墅</cell>
+          </row>
+          <row>
+            <cell>應啓墀</cell>
+            <cell>叔申</cell>
+          </row>
+          <row>
+            <cell>董承欽</cell>
+            <cell>子咸</cell>
+          </row>
+          <row>
+            <cell>葉念經</cell>
+            <cell>經伯</cell>
+          </row>
+          <row>
+            <cell>胡良箴</cell>
+            <cell>君諱</cell>
+          </row>
+          <row>
+            <cell>柳在洲</cell>
+            <cell>鏡齋</cell>
+          </row>
+          <row>
+            <cell>楊瑞曾</cell>
+            <cell>微齋</cell>
+          </row>
+          <row>
+            <cell>孔昭鑒</cell>
+            <cell>東采</cell>
+          </row>
+          <row>
+            <cell>馮敏楷</cell>
+            <cell>萱庵</cell>
+          </row>
+          <row>
+            <cell>馮配明</cell>
+            <cell>吉生</cell>
+          </row>
+          <row>
+            <cell>馮燮範</cell>
+            <cell>挺生</cell>
+          </row>
+          <row>
+            <cell>錢保康</cell>
+            <cell>吟蔚</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p032-c001">二十八</fw>
+        <fw type="running" n="p032-c002">保黎醫院報告</fw>
+        <pb n="33" facs="#page-33" />
+        <table n="p033-tab01">
+          <row>
+            <cell>錢輔仁</cell>
+            <cell>善栽</cell>
+          </row>
+          <row>
+            <cell>周兆熊</cell>
+            <cell>渭漁</cell>
+          </row>
+          <row>
+            <cell>董世鐸</cell>
+            <cell>廉卿</cell>
+          </row>
+          <row>
+            <cell>裘適駿</cell>
+            <cell>友莘</cell>
+          </row>
+          <row>
+            <cell>鄔之器</cell>
+            <cell>琢生</cell>
+          </row>
+          <row>
+            <cell>袁禮讓</cell>
+            <cell>蓮塘</cell>
+          </row>
+          <row>
+            <cell>陳韓芳</cell>
+            <cell>祥熊</cell>
+          </row>
+          <row>
+            <cell>楊乘瑄</cell>
+            <cell>清甫</cell>
+          </row>
+          <row>
+            <cell>徐韜</cell>
+            <cell>和鈞</cell>
+          </row>
+          <row>
+            <cell>胡炘藻</cell>
+            <cell>藍莊</cell>
+          </row>
+          <row>
+            <cell>朱鳳翮</cell>
+            <cell>慶升</cell>
+          </row>
+          <row>
+            <cell>魏友枋</cell>
+            <cell>仲車</cell>
+          </row>
+          <row>
+            <cell>向復章</cell>
+            <cell>平伯</cell>
+          </row>
+          <row>
+            <cell>孫遵法</cell>
+            <cell>衡甫</cell>
+          </row>
+        </table>
+        <table n="p033-tab02">
+          <row>
+            <cell>周銃鎬</cell>
+            <cell>也達</cell>
+          </row>
+          <row>
+            <cell>周彬</cell>
+            <cell>蓮軒</cell>
+          </row>
+          <row>
+            <cell>應鏞鋁</cell>
+            <cell>葆甫</cell>
+          </row>
+          <row>
+            <cell>裘廷驥</cell>
+            <cell>成水</cell>
+          </row>
+          <row>
+            <cell>鄔德懿</cell>
+            <cell>雅香</cell>
+          </row>
+          <row>
+            <cell>袁應麒</cell>
+            <cell>葆眞</cell>
+          </row>
+          <row>
+            <cell>陳文康</cell>
+            <cell>安夫</cell>
+          </row>
+          <row>
+            <cell>張福年</cell>
+            <cell>壽孫</cell>
+          </row>
+          <row>
+            <cell>葉懋宣</cell>
+            <cell>德之</cell>
+          </row>
+          <row>
+            <cell>方熊</cell>
+            <cell>蔓甫</cell>
+          </row>
+          <row>
+            <cell>童文燊</cell>
+            <cell>茜香</cell>
+          </row>
+          <row>
+            <cell>李思沅</cell>
+            <cell>湘帆</cell>
+          </row>
+          <row>
+            <cell>孫文柱</cell>
+            <cell>虹奎</cell>
+          </row>
+          <row>
+            <cell>陳訓恩</cell>
+            <cell>布雷</cell>
+          </row>
+        </table>
+        <table n="p033-tab03">
+          <row>
+            <cell>周家珩</cell>
+            <cell>玉衡</cell>
+          </row>
+          <row>
+            <cell>羅翔</cell>
+            <cell>祥龍</cell>
+          </row>
+          <row>
+            <cell>應其鈞</cell>
+            <cell>慶生</cell>
+          </row>
+          <row>
+            <cell>裘光燊</cell>
+            <cell>精如</cell>
+          </row>
+          <row>
+            <cell>尹耕莘</cell>
+            <cell>仰伊</cell>
+          </row>
+          <row>
+            <cell>俞鴻梵</cell>
+            <cell>靜庵</cell>
+          </row>
+          <row>
+            <cell>洪家揚</cell>
+            <cell>庭蔭</cell>
+          </row>
+          <row>
+            <cell>楊安國</cell>
+            <cell>家楷</cell>
+          </row>
+          <row>
+            <cell>葉秉良</cell>
+            <cell>叔眉</cell>
+          </row>
+          <row>
+            <cell>方震餘</cell>
+            <cell>善初</cell>
+          </row>
+          <row>
+            <cell>王培坤</cell>
+            <cell>厚卿</cell>
+          </row>
+          <row>
+            <cell>陸思圻</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>秦開</cell>
+            <cell>殿卿</cell>
+          </row>
+          <row>
+            <cell>羅泰榮</cell>
+            <cell>紳伯</cell>
+          </row>
+        </table>
+        <table n="p033-tab04">
+          <row>
+            <cell>周銃圭</cell>
+            <cell>季歡</cell>
+          </row>
+          <row>
+            <cell>羅寶坰</cell>
+            <cell>葆君</cell>
+          </row>
+          <row>
+            <cell>應其欽</cell>
+            <cell>慶泰</cell>
+          </row>
+          <row>
+            <cell>鄭敏</cell>
+            <cell>魯臣</cell>
+          </row>
+          <row>
+            <cell>尹聯華</cell>
+            <cell>鏞聲</cell>
+          </row>
+          <row>
+            <cell>俞昌大</cell>
+            <cell>元生</cell>
+          </row>
+          <row>
+            <cell>林嵒言</cell>
+            <cell>欽璧</cell>
+          </row>
+          <row>
+            <cell>徐繩武</cell>
+            <cell>可城</cell>
+          </row>
+          <row>
+            <cell>胡蓮雛</cell>
+            <cell>斐卿</cell>
+          </row>
+          <row>
+            <cell>何勛</cell>
+            <cell>欽耻</cell>
+          </row>
+          <row>
+            <cell>翁傳瑛</cell>
+            <cell>企望</cell>
+          </row>
+          <row>
+            <cell>潘鳳九</cell>
+            <cell>憲孫</cell>
+          </row>
+          <row>
+            <cell>秦佑廷</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐瀾</cell>
+            <cell>芝麟</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p033-c001">二十九</fw>
+        <fw type="running" n="p033-c002">保黎醫院報告</fw>
+        <pb n="34" facs="#page-34" />
+        <table n="p034-tab01">
+          <row>
+            <cell>洪允祥</cell>
+            <cell>樵苓</cell>
+          </row>
+          <row>
+            <cell>馮度</cell>
+            <cell>威博</cell>
+          </row>
+          <row>
+            <cell>馮善富</cell>
+            <cell>安曾</cell>
+          </row>
+          <row>
+            <cell>周秉眞</cell>
+            <cell>野鹿</cell>
+          </row>
+          <row>
+            <cell>應松筠</cell>
+            <cell>茂生</cell>
+          </row>
+          <row>
+            <cell>洪翥</cell>
+            <cell>德蕃</cell>
+          </row>
+          <row>
+            <cell>王仁佑</cell>
+            <cell>樹成</cell>
+          </row>
+          <row>
+            <cell>童詢霖</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張建隆</cell>
+            <cell>本源</cell>
+          </row>
+          <row>
+            <cell>孫彬如</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>顧釗</cell>
+            <cell>元琛</cell>
+          </row>
+          <row>
+            <cell>陳崇愷</cell>
+            <cell>雲門</cell>
+          </row>
+          <row>
+            <cell>蔡上濬</cell>
+            <cell>仲明</cell>
+          </row>
+          <row>
+            <cell>袁曾潮</cell>
+            <cell>伯信</cell>
+          </row>
+        </table>
+        <table n="p034-tab02">
+          <row>
+            <cell>費紹冠</cell>
+            <cell>冕卿</cell>
+          </row>
+          <row>
+            <cell>馮宜椿</cell>
+            <cell>慶恆</cell>
+          </row>
+          <row>
+            <cell>錢保放</cell>
+            <cell>貢甫</cell>
+          </row>
+          <row>
+            <cell>羅振常</cell>
+            <cell>棟源</cell>
+          </row>
+          <row>
+            <cell>應開忠</cell>
+            <cell>尹卿</cell>
+          </row>
+          <row>
+            <cell>洪家頤</cell>
+            <cell>壽蔭</cell>
+          </row>
+          <row>
+            <cell>王唐音</cell>
+            <cell>琴樂</cell>
+          </row>
+          <row>
+            <cell>童錦吾</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李鏡第</cell>
+            <cell>霞城</cell>
+          </row>
+          <row>
+            <cell>史錫華</cell>
+            <cell>丕揚</cell>
+          </row>
+          <row>
+            <cell>顧寶楚</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱煥</cell>
+            <cell>藩生</cell>
+          </row>
+          <row>
+            <cell>蔡上澤</cell>
+            <cell>叔霖</cell>
+          </row>
+          <row>
+            <cell>盛鑑襄</cell>
+            <cell>遙偉</cell>
+          </row>
+        </table>
+        <table n="p034-tab03">
+          <row>
+            <cell>何其樞</cell>
+            <cell>璇卿</cell>
+          </row>
+          <row>
+            <cell>馮淵</cell>
+            <cell>知先</cell>
+          </row>
+          <row>
+            <cell>錢薔舫</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董維城</cell>
+            <cell>槐青</cell>
+          </row>
+          <row>
+            <cell>洪曰泯</cell>
+            <cell>左湖</cell>
+          </row>
+          <row>
+            <cell>洪維猷</cell>
+            <cell>甄宜</cell>
+          </row>
+          <row>
+            <cell>裘慶照</cell>
+            <cell>昌如</cell>
+          </row>
+          <row>
+            <cell>童錦蔚</cell>
+            <cell>金輝</cell>
+          </row>
+          <row>
+            <cell>李士鋆</cell>
+            <cell>韻標</cell>
+          </row>
+          <row>
+            <cell>稽廷元</cell>
+            <cell>霽聞</cell>
+          </row>
+          <row>
+            <cell>嚴寶珍</cell>
+            <cell>森庭</cell>
+          </row>
+          <row>
+            <cell>朱鳳翎</cell>
+            <cell>欽臣</cell>
+          </row>
+          <row>
+            <cell>畢蘊敏</cell>
+            <cell>學卿</cell>
+          </row>
+          <row>
+            <cell>費相瑗</cell>
+            <cell>子佩</cell>
+          </row>
+        </table>
+        <table n="p034-tab04">
+          <row>
+            <cell>嚴義彬</cell>
+            <cell>子均</cell>
+          </row>
+          <row>
+            <cell>馮貞舉</cell>
+            <cell>孟顯</cell>
+          </row>
+          <row>
+            <cell>錢保璇女士</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>應華官</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪承祁</cell>
+            <cell>競健</cell>
+          </row>
+          <row>
+            <cell>洪文鐸</cell>
+            <cell>詠筌</cell>
+          </row>
+          <row>
+            <cell>童國炳</cell>
+            <cell>友谷</cell>
+          </row>
+          <row>
+            <cell>魏錫萃</cell>
+            <cell>茹香</cell>
+          </row>
+          <row>
+            <cell>翁玉如</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞鴻楙</cell>
+            <cell>穆卿</cell>
+          </row>
+          <row>
+            <cell>嚴循經</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡上治</cell>
+            <cell>伯均</cell>
+          </row>
+          <row>
+            <cell>畢蘊慎</cell>
+            <cell>景甫</cell>
+          </row>
+          <row>
+            <cell>沈鴻照</cell>
+            <cell />
+          </row>
+        </table>
+        <fw type="folio" n="p034-c001">三十</fw>
+        <fw type="running" n="p034-c002">保黎醫院報告</fw>
+        <pb n="35" facs="#page-35" />
+        <table n="p035-tab01">
+          <row>
+            <cell>沈輔卿</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邵斌</cell>
+            <cell>善微</cell>
+          </row>
+          <row>
+            <cell>徐鍾騮</cell>
+            <cell>子稱</cell>
+          </row>
+          <row>
+            <cell>趙家蓀</cell>
+            <cell>芝室</cell>
+          </row>
+          <row>
+            <cell>邵繐裳</cell>
+            <cell>靜山</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p035-c001">三十一</fw>
+        <fw type="running" n="p035-c002">保黎醫院報告</fw>
+        <pb n="36" facs="#page-36" />
+        <fw type="folio" n="p036-c001">三十二</fw>
+        <fw type="running" n="p036-c002">保黎醫院報告</fw>
+        <pb n="37" facs="#page-37" />
+        <ab type="heading" n="p037-c001">第五次常會修正保黎醫會章程</ab>
+        <ab type="body" n="p037-c002">第一條　本會以使一般人民減除疾痛漸臻康強為目的</ab>
+        <ab type="body" n="p037-c003">第二條　為達前條之目的由會中籌費設立醫院一所卽名曰保黎醫院</ab>
+        <ab type="body" n="p037-c004">第三條　凡贊成本會宗旨而克盡第十條之義務者得為本會會員</ab>
+        <ab type="body" n="p037-c005">第四條　本會之職員如左</ab>
+        <ab type="body" n="p037-c006">（一）總董一人綜理會務由董事互選任之</ab>
+        <ab type="body" n="p037-c007">（二）董事無定員輔佐總董處理會務凡會員願盡第九條第四項之義務者均為董事</ab>
+        <ab type="body" n="p037-c008">（三）醫院院長兼醫士一人掌醫院內一切事務由董事會延聘</ab>
+        <ab type="body" n="p037-c009">（四）醫士若干人稟承院長掌醫病調藥事宜由院長商同董事會延聘</ab>
+        <ab type="body" n="p037-c010">（五）醫院幹事一人稟承院長掌醫院之庶務由院長商同董事會延聘</ab>
+        <ab type="body" n="p037-c011">（六）會計一人掌本會經費之出入由會員公舉</ab>
+        <ab type="body" n="p037-c012">第五條　各職員之任期均為一年</ab>
+        <ab type="body" n="p037-c013">第六條　每年三月九月由總董擇日通告各會員開大會一次但有特別事故得開臨時</ab>
+        <fw type="folio" n="p037-c014">三十三</fw>
+        <fw type="running" n="p037-c015">保黎醫院報告</fw>
+        <pb n="38" facs="#page-38" />
+        <ab type="body" n="p038-c001">會</ab>
+        <ab type="body" n="p038-c002">第七條　決議事件以得到會員過半數之贊成為有效</ab>
+        <ab type="body" n="p038-c003">第八條　左列事項於大會時議決之</ab>
+        <ab type="body" n="p038-c004">（一）本會收入支出之決算</ab>
+        <ab type="body" n="p038-c005">（二）醫院舍之建築</ab>
+        <ab type="body" n="p038-c006">（三）貴重醫具之購置</ab>
+        <ab type="body" n="p038-c007">（四）其他關於臨時歲出經費之支出</ab>
+        <ab type="body" n="p038-c008">第九條　左列事項由董事會掌之</ab>
+        <ab type="body" n="p038-c009">（一）本會經常歲出入經費之預算</ab>
+        <ab type="body" n="p038-c010">（二）第四條所列關於董事會職掌之事件</ab>
+        <ab type="body" n="p038-c011">（三）徵集各項報告印送於各會員</ab>
+        <ab type="body" n="p038-c012">（四）經常歲出經費不足由各董事平均分擔籌補</ab>
+        <ab type="body" n="p038-c013">第十條　會員年納會費銀拾元</ab>
+        <ab type="body" n="p038-c014">第十一條　會費用途須經大會之議決</ab>
+        <fw type="folio" n="p038-c015">三十四</fw>
+        <fw type="running" n="p038-c016">保黎醫院報告</fw>
+        <pb n="39" facs="#page-39" />
+        <ab type="body" n="p039-c001">第十二條　會員得享左列之權利</ab>
+        <ab type="body" n="p039-c002">（一）每會員每年得向本會領門診免費券五張凡貧病無力醫治者各會員得給與該</ab>
+        <ab type="body" n="p039-c003">券經院長查驗後卽得免費</ab>
+        <ab type="body" n="p039-c004">（二）每會員每年贈以優先券五張醫院門診日期持此券有提前請診之權</ab>
+        <ab type="body" n="p039-c005">第十三條　會員既經入會三年內不得出會但有特別事故經大會時公認者不在此例</ab>
+        <fw type="folio" n="p039-c006">三十五</fw>
+        <fw type="running" n="p039-c007">保黎醫院報告</fw>
+        <pb n="40" facs="#page-40" />
+        <fw type="folio" n="p040-c001">三十六</fw>
+        <fw type="running" n="p040-c002">保黎醫院報告</fw>
+        <pb n="41" facs="#page-41" />
+        <ab type="heading" n="p041-c001">第五次常會修正保黎醫院診例</ab>
+        <ab type="body" n="p041-c002">一每日上午九時至十二時為門診時間下午一時至四時為出診時間</ab>
+        <ab type="body" n="p041-c003">一逢禮拜二禮拜五門診時間每人取號金五十文藥資小洋壹角</ab>
+        <ab type="body" n="p041-c004">一除禮拜二五兩日外餘日之門診時間每人取醫金小洋三角藥資照原價酌收</ab>
+        <ab type="body" n="p041-c005">一本院特備優先券一種每張售洋壹元持此券者門診時間得享優先診治之權利</ab>
+        <ab type="body" n="p041-c006">一除優先券外診治次第以籌號先後為準不得凌越</ab>
+        <ab type="body" n="p041-c007">一出診掛號以上午十二點鐘為限並須詳報病狀以便隨帶藥料</ab>
+        <ab type="body" n="p041-c008">一出診醫金依路之遠近定之</ab>
+        <ab type="body" n="p041-c009">列表如下</ab>
+        <table n="p041-tab01">
+          <row>
+            <cell>城內</cell>
+            <cell>一元</cell>
+          </row>
+          <row>
+            <cell>七里</cell>
+            <cell>二元</cell>
+          </row>
+          <row>
+            <cell>十五里</cell>
+            <cell>三元</cell>
+          </row>
+          <row>
+            <cell>二十里</cell>
+            <cell>四元</cell>
+          </row>
+          <row>
+            <cell>二十五里</cell>
+            <cell>五元</cell>
+          </row>
+          <row>
+            <cell>三十里</cell>
+            <cell>六元</cell>
+          </row>
+          <row>
+            <cell>三十五里</cell>
+            <cell>七元</cell>
+          </row>
+          <row>
+            <cell>四十里</cell>
+            <cell>八元</cell>
+          </row>
+        </table>
+        <ab type="body" n="p041-c010">一星夜出診及救治服毒藥金照上率加倍</ab>
+        <ab type="body" n="p041-c011">一出診只及本人但同居親屬請求帶診者每名收醫費洋壹元</ab>
+        <fw type="folio" n="p041-c012">三十七</fw>
+        <fw type="running" n="p041-c013">保黎醫院報告</fw>
+        <pb n="42" facs="#page-42" />
+        <ab type="body" n="p042-c001">一接收難產照出診例外加收手術費洋拾元</ab>
+        <ab type="body" n="p042-c002">一必須住院醫治之疾病人須覓妥實保人并具願書方可進院其每月應納之費如左</ab>
+        <table n="p042-tab01">
+          <row>
+            <cell>普通病房</cell>
+            <cell>每月收醫費住宿費六元藥費不取</cell>
+          </row>
+          <row>
+            <cell>二等病房</cell>
+            <cell>每月收醫費住宿費十二元藥費照算</cell>
+          </row>
+          <row>
+            <cell>頭等病房</cell>
+            <cell>每月收醫費住宿費二十二元藥費照算</cell>
+          </row>
+        </table>
+        <ab type="body" n="p042-c003">一住院病人如欲隨帶僕役每月出膳費四元</ab>
+        <ab type="body" n="p042-c004">一住院病人進門時須先付十日之費以後每十日一結其住院未滿十日者亦須照繳十</ab>
+        <ab type="body" n="p042-c005">日之費</ab>
+        <ab type="body" n="p042-c006">一重要外科不論門診出診住院均須酌收手術費</ab>
+        <ab type="body" n="p042-c007">一凡來院種痘者每名取苗洋二角若延請到家照出診例計算</ab>
+        <ab type="body" n="p042-c008">一貧乏之家經會員之證明院長之許可得減收其醫藥費</ab>
+        <fw type="folio" n="p042-c009">三十八</fw>
+        <fw type="running" n="p042-c010">保黎醫院報告</fw>
+        <pb n="43" facs="#page-43" />
+        <ab type="heading" n="p043-c001">紀事</ab>
+        <ab type="heading" n="p043-c002">醫院之自立</ab>
+        <ab type="body" n="p043-c003">醫院組織之始。以絀於資故。與吳君蓮艇約。每年津貼吳貳百金。為飲食資。而器械藥料診</ab>
+        <ab type="body" n="p043-c004">金。出入贏絀。皆由吳自任。約以三年為期。癸丑春。三年期滿。是時新建病房適落成。規模既</ab>
+        <ab type="body" n="p043-c005">大。所需經費自多。未能更以前事責吳君。二年三月。開會討論其事。議者有曰。醫院無鉅萬</ab>
+        <ab type="body" n="p043-c006">基本金。終無持久望。為今之計。當以會員會費及捐募所得。積為基本金。而醫院常費之不</ab>
+        <ab type="body" n="p043-c007">足。宜別籌方法以彌補之。於是乃議決分經費為經常臨時二部。建築器械等費。為臨時費。</ab>
+        <ab type="body" n="p043-c008">由會中捐募所得之特捐充之。薪水藥料膳食等費。為經常費。院中所收醫藥費之外。如尚</ab>
+        <ab type="body" n="p043-c009">不足。由董事會擔任之。會員會費及臨時門餘款。均積為基本金。以鞏固其基礎。四月。董事</ab>
+        <ab type="body" n="p043-c010">會成立。乃以五月朔新病房遷入之日。為自立開始之第一日。而前三年中吳君所置之器</ab>
+        <ab type="body" n="p043-c011">械藥料。皆由醫會備價購回焉。</ab>
+        <ab type="heading" n="p043-c012">女病房之建築</ab>
+        <fw type="folio" n="p043-c013">三十九</fw>
+        <fw type="running" n="p043-c014">保黎醫院報告</fw>
+        <pb n="44" facs="#page-44" />
+        <ab type="body" n="p044-c001">男病房既落成。而女病房亦未能聽其苟焉不備也。於是就男病房東北隅隙地。構樓屋四</ab>
+        <ab type="body" n="p044-c002">楹。以居婦女之治病者。舊有之地不足。則購葉氏田以益之。屋以二月作始。四月竣工。</ab>
+        <ab type="heading" n="p044-c003">九月常會記事</ab>
+        <ab type="body" n="p044-c004">九月七日。開第五次常會。議決事件如左。</ab>
+        <ab type="body" n="p044-c005">（一）議男女普通病房。所以優惠貧病之人。每名每月收費七元。倘嫌太鉅。議決減除壹元。</ab>
+        <ab type="body" n="p044-c006">每名每月收費六元。</ab>
+        <ab type="body" n="p044-c007">（二）議出診醫金定價太昂。以致鄉間病家。不敢延請。議決照原定表減半。而將診例第七</ab>
+        <ab type="body" n="p044-c008">條覆診減半四字刪去。</ab>
+        <ab type="body" n="p044-c009">（三）議會員入會。全為公益起見。若所享權利太重。迹近自私。議決將會章第十二條第三</ab>
+        <ab type="body" n="p044-c010">項刪除。</ab>
+        <ab type="body" n="p044-c011">（四）議新屋落成。不能不開會以紀念之。議決十月十日下午開落成紀念會。</ab>
+        <ab type="body" n="p044-c012">（五）本年臨時支出費。不敷千餘元。議決暫於基本金項下借用。待籌有特捐。卽行歸還。</ab>
+        <ab type="body" n="p044-c013">（六）議決常會日期。每年三月九月兩期舉行。</ab>
+        <ab type="heading" n="p044-c014">落成紀念會紀事</ab>
+        <fw type="folio" n="p044-c015">四十</fw>
+        <fw type="running" n="p044-c016">保黎醫院報告</fw>
+        <pb n="45" facs="#page-45" />
+        <ab type="body" n="p045-c001">十月初十日。行新舍落成紀念會。申甬各報。均經記載。而以四明日報所載。為不謬於事實。</ab>
+        <ab type="body" n="p045-c002">茲將該報所記。轉載於左。以資觀覽焉。</ab>
+        <ab type="body" n="p045-c003">保黎醫院添築新舍。於雙十節行落成禮。是日適值國慶紀念之期。各學校俱放假。前往觀</ab>
+        <ab type="body" n="p045-c004">禮者更形擁擠。計中西男女來賓約四五百人。會場在院側保黎醫會事務所內。佈置周密。</ab>
+        <ab type="body" n="p045-c005">秩序整齊。高懸甬上中等工業學校自造五十支燭光汽油燈一架。光亮明耀。尤為奇特。而</ab>
+        <ab type="body" n="p045-c006">各處贈獻品頗多。不及枚舉。午後一時振鈴開會。軍樂隊奏樂後。首由會長錢吟葦君述開</ab>
+        <ab type="body" n="p045-c007">會辭。將該院成立之原因。歷年之成績。院長吳蓮艇君之熱心。會員陳謙夫君等建築時之</ab>
+        <ab type="body" n="p045-c008">勤勞。以及捐助經費諸大善士之慷慨。一一報告。併望自茲以後。諸會員仍行協力維持。以</ab>
+        <ab type="body" n="p045-c009">期該院達到完全目的。誠誠懇懇。千有餘言。聽者均為動容。嗣由縣知事金吟谷君演說。略</ab>
+        <ab type="body" n="p045-c010">謂該院落成之日。適為正式大總統履任之期。中華民國。開萬年有道之基。卽保黎醫院垂</ab>
+        <ab type="body" n="p045-c011">百世長存之光。活國活人。兩相比較。并將該院直接間接之關係。客觀主觀之感念。闡發無</ab>
+        <ab type="body" n="p045-c012">遺。而於各鄉各邑之聞風興起。尤三注意。一時掌聲雷動。極表歡迎。嗣由宋牧師演說。滔滔</ab>
+        <ab type="body" n="p045-c013">汩汩。層出不窮。婆心苦口。喚醒癡迷。而能不拋本題。於西醫之優點。該院之特色。均曲為道</ab>
+        <ab type="body" n="p045-c014">出。殊覺動人聽聞。嗣由西賓蘭雅谷醫士演說。略謂該院可賀之點有三。中國內地人民。多</ab>
+        <fw type="folio" n="p045-c015">四十一</fw>
+        <fw type="running" n="p045-c016">保黎醫院報告</fw>
+        <pb n="46" facs="#page-46" />
+        <ab type="body" n="p046-c001">不知西醫之善。而慈谿人獨能深信不疑。發起斯院。知識實加人一等。此可賀者一。中國人</ab>
+        <ab type="body" n="p046-c002">性多鄙吝。雖明知醫院為慈善之事業。而吝於出費。今慈谿人獨能集成鉅款。創造斯院。熱</ab>
+        <ab type="body" n="p046-c003">心亦加人一等。此可賀者二。中國人知西醫者鮮。知醫而能立品者尤鮮。醫院雖成。而主任</ab>
+        <ab type="body" n="p046-c004">不得其人。轉足為累。今慈谿人獨能聘請吳君蓮艇為院長。其學術品行均加人一等。此可</ab>
+        <ab type="body" n="p046-c005">賀者三。辭簡意賅。聽者均為鼓掌。嗣由徐公俠君。何曼君。相繼演說。均能就本題立論。加以</ab>
+        <ab type="body" n="p046-c006">旁徵曲引。大聲疾呼。發人深省。終由院長吳君蓮艇。會長錢君吟葦。致謝辭。吳君則謙謙有</ab>
+        <ab type="body" n="p046-c007">容。不敢自滿。錢君則殷殷致意。感謝來賓。遂奏軍樂。振鈴散會。由交際幹事。延來賓入醫院</ab>
+        <ab type="body" n="p046-c008">茶點。攝影。盡歡而散。已鐘鳴五下。</ab>
+        <ab type="heading" n="p046-c009">助器誌謝</ab>
+        <ab type="body" n="p046-c010">博聞社圖書社解散後社中所存器具。有大菜桌溫州椅籐椅玻璃櫥小圓桌七石缸玻窗</ab>
+        <ab type="body" n="p046-c011">磁痰盂等計六十餘件經該社諸君議決儘數移助本會特此誌謝</ab>
+        <fw type="folio" n="p046-c012">四十二</fw>
+        <fw type="running" n="p046-c013">保黎醫院報告</fw>
+        <pb n="47" facs="#page-47" />
+        <ab type="heading" n="p047-c001">勘誤表</ab>
+        <table n="p047-tab01">
+          <row role="label">
+            <cell>頁碼</cell>
+            <cell>行數</cell>
+            <cell>誤</cell>
+            <cell>正</cell>
+          </row>
+          <row>
+            <cell>八</cell>
+            <cell>八</cell>
+            <cell>凍青樹</cell>
+            <cell>冬青樹</cell>
+          </row>
+          <row>
+            <cell>十</cell>
+            <cell>八</cell>
+            <cell>洋五百六十元</cell>
+            <cell>洋五百八十元</cell>
+          </row>
+          <row>
+            <cell>十</cell>
+            <cell>九</cell>
+            <cell>洋五千八百七十八元</cell>
+            <cell>五千八百九十八元</cell>
+          </row>
+          <row>
+            <cell>十三</cell>
+            <cell>二</cell>
+            <cell>洋五千八百七十八元</cell>
+            <cell>五千八百九十八元</cell>
+          </row>
+          <row>
+            <cell>十四</cell>
+            <cell>一</cell>
+            <cell>孫叔申</cell>
+            <cell>應叔申</cell>
+          </row>
+          <row>
+            <cell>十四</cell>
+            <cell>二</cell>
+            <cell>徐鍾麟</cell>
+            <cell>徐鍾驎</cell>
+          </row>
+          <row>
+            <cell>十八</cell>
+            <cell>十</cell>
+            <cell>慎成木行</cell>
+            <cell>慎成木號</cell>
+          </row>
+          <row>
+            <cell>十九</cell>
+            <cell>八</cell>
+            <cell>陳慎思君</cell>
+            <cell>陳慎思居</cell>
+          </row>
+          <row>
+            <cell>二十一</cell>
+            <cell>四</cell>
+            <cell>翁文椒女士</cell>
+            <cell>翁文淑女士</cell>
+          </row>
+          <row>
+            <cell>二十二</cell>
+            <cell>十三</cell>
+            <cell>李柏林君</cell>
+            <cell>呂柏林君</cell>
+          </row>
+          <row>
+            <cell>二十三</cell>
+            <cell>八</cell>
+            <cell>下同上二字衍</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>四十</cell>
+            <cell>二</cell>
+            <cell>則購葉氏田以蓋之</cell>
+            <cell>則購葉氏田以益之</cell>
+          </row>
+          <row>
+            <cell>十三</cell>
+            <cell>二</cell>
+            <cell>洋八十元</cell>
+            <cell>一百元</cell>
+          </row>
+        </table>
+        <pb n="48" facs="#page-48" />
+      </div>
+    </body>
+  </text>
+</TEI>

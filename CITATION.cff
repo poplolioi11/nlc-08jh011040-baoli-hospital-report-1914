@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the transcription version and its source edition."
+type: dataset
+title: "保黎醫會報告 | Baoli Yihui Baogao [Report of the Baoli Hospital Association]"
+version: "0.1.0"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+keywords:
+  - "醫學史"
+  - "慈城"
+  - "保黎醫院"
+  - "醫療慈善"
+  - "院務報告"
+  - "會計報告"
+  - "medical history"
+  - "Cicheng"
+  - "hospital annual reports"
+  - "medical philanthropy"
+  - "donor registers"
+identifiers:
+  - type: url
+    value: "https://commons.wikimedia.org/?curid=130965192"
