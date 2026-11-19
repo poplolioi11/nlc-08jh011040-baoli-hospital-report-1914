@@ -8,7 +8,7 @@ This fourth report of the Baoli Medical Association at Cicheng, Zhejiang, record
 
 - JSON 保留欄位及各幅來源雜湊。TXT 可連讀，TEI 可供交換與字位掛接。
 
-- 全冊 AI 輔助初錄。原刊本文、表格、圖中文字與勘誤按底本分層，後加館藏記號另列位置。疑讀已標記，尚待人工逐字判讀。
+- 全冊 48 幅均有另外一份 AI 原圖讀稿與比對。已根據原圖修正確認的歧讀，名錄和雙行小字仍有未定處。尚待人工校對。
 
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。來源影像的權利與使用條件見原件頁。
 
